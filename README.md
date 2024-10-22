@@ -13,7 +13,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/sadman)
 - **GitHub**: [github.com/sadmansobhan](https://github.com/imran110219)
 - **Experience**: 8+ years
-- **Current Role**: Senior Software Engineer at [Pathao](https://pathao.com)
+- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
 - **Skills**: Java, Spring Boot, Kubernetes, DevOps
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
