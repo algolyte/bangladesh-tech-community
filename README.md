@@ -1,4 +1,4 @@
-# Bangladeshi Software Engineers Worldwide
+# Bangladeshi Tech Professionals Worldwide
 
 A list of Bangladeshi tech professionals working around the world. Want to join the list? Submit a pull request with your info!
 
