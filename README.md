@@ -8,6 +8,16 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 
 ## List of Tech Professional
 
+### Nishanul Nishat
+- **Email**: nishanul.nishat@example.com
+- **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/nishanul-nishat/)
+- **GitHub**: [github.com/sadmansobhan](https://github.com/nishat1098)
+- **Experience**: 2.5+ years
+- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Kubernetes, DevOps
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
+
 ### Sadman Sobhan
 - **Email**: sadman.sobhan@example.com
 - **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/sadman)
