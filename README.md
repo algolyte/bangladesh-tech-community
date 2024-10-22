@@ -30,6 +30,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 
 ### Md Sanoarul Islam
 - **Email**: sanoarul123gmail.com
+<<<<<<< HEAD
 - **LinkedIn**: [linkedin.com/in/md-sanoarul-islam-523942207](https://www.linkedin.com/in/md-sanoarul-islam-523942207/)
 - **GitHub**: [github.com/sanoarul123](https://github.com/sanoarul123)
 - **Experience**: 6+ months
@@ -37,3 +38,4 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Skills**: Java, Spring Boot, Python, RestAPIs, PostgreSQL
 - **Location**: Khulna, Bangladesh
 - **Remote Work**: Yes
+
