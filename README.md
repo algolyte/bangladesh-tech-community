@@ -4,6 +4,8 @@ A list of Bangladeshi tech professionals working around the world. Want to join 
 
 Follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to add your details.
 
+If you find this repository helpful, please consider giving it a ⭐ to show your support and help others discover it! Your support means a lot!
+
 ## List of Tech Professional
 
 ### Sadman Sobhan
