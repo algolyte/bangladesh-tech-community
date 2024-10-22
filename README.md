@@ -13,6 +13,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/sadman)
 - **GitHub**: [github.com/sadmansobhan](https://github.com/imran110219)
 - **Experience**: 8+ years
+- **Current Role**: Senior Software Engineer at [Pathao](https://pathao.com)
 - **Skills**: Java, Spring Boot, Kubernetes, DevOps
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
@@ -22,6 +23,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
 - **GitHub**: [github.com/johndoe](https://github.com/johndoe)
 - **Experience**: 5+ years
+- **Current Role**: Software Engineer at [Company](https://company.com)
 - **Skills**: Python, Django, AWS, Serverless
 - **Location**: Toronto, Canada
 - **Remote Work**: No
