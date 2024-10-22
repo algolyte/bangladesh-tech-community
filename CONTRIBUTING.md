@@ -29,6 +29,7 @@ We welcome contributions from developers and tech professionals to showcase Bang
 - **LinkedIn**: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
 - **GitHub**: [your-github-url](https://github.com/your-username)
 - **Experience**: X+ years
+- **Current Role**: Your Role at [Company](https://company.com)
 - **Skills**: Skill 1, Skill 2, Skill 3
 - **Location**: City, Country
 - **Remote Work**: Yes/No
@@ -42,10 +43,13 @@ If your name is "John Doe," your addition might look like this:
 - **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
 - **GitHub**: [github.com/johndoe](https://github.com/johndoe)
 - **Experience**: 5+ years
+- **Current Role**: Software Engineer at [Company](https://company.com)
 - **Skills**: Python, Django, AWS
 - **Location**: Toronto, Canada
 - **Remote Work**: Yes
 ```
+
+**Note** If any of the fields are not applicable, write "N/A" in place of the information.
 
 ### 5. Commit Your Changes
    * Once you’ve added your information, commit your changes:
