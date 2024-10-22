@@ -28,12 +28,14 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
-### John Doe
-- **Email**: john.doe@example.com
-- **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- **GitHub**: [github.com/johndoe](https://github.com/johndoe)
-- **Experience**: 5+ years
-- **Current Role**: Software Engineer at [Company](https://company.com)
-- **Skills**: Python, Django, AWS, Serverless
-- **Location**: Toronto, Canada
-- **Remote Work**: No
+### Md Sanoarul Islam
+- **Email**: sanoarul123gmail.com
+- **LinkedIn**: [linkedin.com/in/md-sanoarul-islam-523942207](https://www.linkedin.com/in/md-sanoarul-islam-523942207/) 
+- **GitHub**: [github.com/sanoarul123](https://github.com/sanoarul123)
+- **Experience**: 6+ months
+- **Current Role**: Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)
+- **Skills**: Java, Spring Boot, Python, RestAPIs, PostgreSQL 
+- **Location**: Khulna, Bangladesh
+- **Remote Work**: Yes
+
+
