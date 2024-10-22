@@ -2,7 +2,7 @@
 
 A list of Bangladeshi tech professionals working around the world. Want to join the list? Submit a pull request with your info!
 
-Follow the contribution guidelines in the [CONTRIBUTING.m](CONTRIBUTING.md) file to add your details.
+Follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to add your details.
 
 ## List of Tech Professional
 
