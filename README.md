@@ -47,3 +47,13 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Skills**: Python, Django, AWS, Serverless
 - **Location**: Toronto, Canada
 - **Remote Work**: No
+
+### Izazur Rahman Shafin
+- **Email**: imshafin97@gmail.com
+- **LinkedIn**: [linkedin.com/in/izazurrahmanshafin](https://www.linkedin.com/in/izazurrahmanshafin)
+- **GitHub**: [github.com/imShafin](https://github.com/imShafin)
+- **Experience**: 0+ years
+- **Current Role**: Support Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: C++, Python, FastAPI
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: No
