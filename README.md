@@ -8,16 +8,6 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 
 ## List of Tech Professional
 
-### Mullah Mohammad Shahjalal
-- **Email**: shahjalal2075@gmail.com
-- **LinkedIn**: [linkedin.com/in/shahjalal2075](https://www.linkedin.com/in/shahjalal2075)
-- **GitHub**: [github.com/Shahjalal2075](https://github.com/Shahjalal2075)
-- **Experience**: 1+ years
-- **Current Role**: Full Stack Developer at [Naim IT](https://naimit.ca)
-- **Skills**: JavaScript, React Js, React Native, Node Js, Express Js, MongoDB, Problem Solving
-- **Location**: Jashore, Bangladesh
-- **Remote Work**: Yes
-
 ### Asif Al Fattah
 - **Email**: asifalfattah34@gmail.com
 - **LinkedIn**: [linkedin.com/in/asif-al-fattah/](https://www.linkedin.com/in/asif-al-fattah/)
@@ -109,6 +99,16 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
+### Mullah Mohammad Shahjalal
+- **Email**: shahjalal2075@gmail.com
+- **LinkedIn**: [linkedin.com/in/shahjalal2075](https://www.linkedin.com/in/shahjalal2075)
+- **GitHub**: [github.com/Shahjalal2075](https://github.com/Shahjalal2075)
+- **Experience**: 1+ years
+- **Current Role**: Full Stack Developer at [Naim IT](https://naimit.ca)
+- **Skills**: JavaScript, React Js, React Native, Node Js, Express Js, MongoDB, Problem Solving
+- **Location**: Jashore, Bangladesh
+- **Remote Work**: Yes
+
 ### Nandan Kumar Das
 
 - **Email**: nandandas.ku@gmail.com
@@ -119,7 +119,6 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Skills**: .NET Framework, .NET Core, React, MSSQL, MongoDB, Android, Flutter
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: No
-
 
 ### Nishanul Nishat
 
