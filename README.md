@@ -50,11 +50,11 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Email**: mashuq0068@gmail.com
 - **LinkedIn**: [linkedin.com/in/Mashuq](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
 - **GitHub**: [github.com/Mashuq](https://github.com/mashuq0068)
-- **Experience**: 6+ Months
-- **Current Role**: Junior Frontend Developer[Code Prophet](https://codeprophet.tech/)
+- **Experience**: 6+ months
+- **Current Role**: Junior Frontend Developer at [Code Prophet](https://codeprophet.tech/)
 - **Skills**: JavaScript, React, Node Js, Express Js
 - **Location**: Khulna, Bangladesh
-- **Remote Work**: No
+- **Remote Work**: Yes
 
 ### Md Mazahrul Islam
 
