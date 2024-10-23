@@ -111,3 +111,13 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Skills**: Python, Django, AWS, Serverless
 - **Location**: Toronto, Canada
 - **Remote Work**: No
+
+### Mohammad Imrul Hasan
+- **Email**: your.email@example.com
+- **LinkedIn**: [imrull](https://www.linkedin.com/in/imrull)
+- **GitHub**: [vimrul](https://github.com/vimrul)
+- **Experience**: 13+ years
+- **Current Role**: DevOps Engineer at [Penta Global Limited](https://pentaglobal.com)
+- **Skills**: Cloud Platforms (AWS, Azure), Docker, Kubernetes, CI/CD (Jenkins, GitLab, ArgoCD), Monitoring (Prometheus, Grafana, Uptime Kuma, OpenTelemetry), ELK Stack, PostgreSQL, MySQL, Redis, DragonflyDB, StackGres, Networking (Istio, Calico, Kiali), Identity Management (Keycloak), Web Servers (Nginx, Apache, Apache Tomcat), Version Control (GitHub)
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
