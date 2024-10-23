@@ -71,8 +71,8 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 ### Nandan Kumar Das
 
 - **Email**: nandandas.ku@gmail.com
-- **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/nandan-kumar-das)
-- **GitHub**: [github.com/johndoe](https://github.com/nandands-ku)
+- **LinkedIn**: [linkedin.com/in/nandan-kumar-das](https://www.linkedin.com/in/nandan-kumar-das)
+- **GitHub**: [github.com/nandan-kumar-das](https://github.com/nandands-ku)
 - **Experience**: 6+ years
 - **Current Role**: Senior Software Engineer at [Dizi Nova Limited](http://dizinova.com/)
 - **Skills**: .NET Framework, .NET Core, React, MSSQL, MongoDB, Android, Flutter
