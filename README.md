@@ -58,6 +58,16 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
+### Md Shahjahan
+- **Email**: shahjahan.cseku11@gmail.com
+- **LinkedIn**: [linkedin.com/in/shahjahan](https://www.linkedin.com/in/md-shahjahan-771ba6161)
+- **GitHub**: [github.com/shahjahan48](https://github.com/shahjahan48)
+- **Experience**: 8+ years
+- **Current Role**: Senior Software Engineer at [Dohatec New Media](https://www.dohatec.com/)
+- **Skills**: Java, Spring Boot, C#, ASP.NET MVC, ASP.NET Core, MSSQL, MySQL, Microservice, Angular, Docker, DevOps
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
+
 ### John Doe
 - **Email**: john.doe@example.com
 - **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
