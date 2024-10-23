@@ -8,23 +8,23 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 
 ## List of Tech Professional
 
-### Nishanul Nishat
-- **Email**: nishanul.nishat@example.com
-- **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/nishanul-nishat/)
-- **GitHub**: [github.com/sadmansobhan](https://github.com/nishat1098)
-- **Experience**: 2.5+ years
-- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Kubernetes, DevOps
+### Izazur Rahman Shafin
+- **Email**: imshafin97@gmail.com
+- **LinkedIn**: [linkedin.com/in/izazurrahmanshafin](https://www.linkedin.com/in/izazurrahmanshafin)
+- **GitHub**: [github.com/imShafin](https://github.com/imShafin)
+- **Experience**: 0+ years
+- **Current Role**: Support Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: C++, Python, FastAPI
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Remote Work**: No
 
-### Sadman Sobhan
-- **Email**: sadman.sobhan@example.com
-- **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/sadman)
-- **GitHub**: [github.com/sadmansobhan](https://github.com/imran110219)
-- **Experience**: 8+ years
-- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Kubernetes, DevOps
+### Md Mazahrul Islam
+- **Email**: mazharul.saurav255@gmail.com
+- **LinkedIn**: [linkedin.com/in/Mazharul](https://www.linkedin.com/in/md-mazharul-islam-53a717262/)
+- **GitHub**: [github.com/Mazharul](https://github.com/Mazharul180203)
+- **Experience**: 1+ years
+- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC]
+- **Skills**: JavaScript, C++, React, Node Js, Express Js, Python
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
@@ -38,13 +38,23 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Khulna, Bangladesh
 - **Remote Work**: Yes
 
-### Md. Mazahrul Islam
-- **Email**: mazharul.saurav255@gmail.com
-- **LinkedIn**: [linkedin.com/in/Mazharul](https://www.linkedin.com/in/md-mazharul-islam-53a717262/)
-- **GitHub**: [github.com/Mazharul](https://github.com/Mazharul180203)
-- **Experience**: 1+ years
-- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC]
-- **Skills**: JavaScript, C++, React, Node Js, Express Js, Python
+### Nishanul Nishat
+- **Email**: nishanul.nishat@example.com
+- **LinkedIn**: [linkedin.com/in/nishanul-nishat](https://www.linkedin.com/in/nishanul-nishat/)
+- **GitHub**: [github.com/nishat1098](https://github.com/nishat1098)
+- **Experience**: 2.5+ years
+- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Kubernetes, DevOps
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
+
+### Sadman Sobhan
+- **Email**: imran110219@gmail.com
+- **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/sadman)
+- **GitHub**: [github.com/sadmansobhan](https://github.com/imran110219)
+- **Experience**: 8+ years
+- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Java, Spring Boot, Kubernetes, DevOps
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
@@ -58,12 +68,3 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Toronto, Canada
 - **Remote Work**: No
 
-### Izazur Rahman Shafin
-- **Email**: imshafin97@gmail.com
-- **LinkedIn**: [linkedin.com/in/izazurrahmanshafin](https://www.linkedin.com/in/izazurrahmanshafin)
-- **GitHub**: [github.com/imShafin](https://github.com/imShafin)
-- **Experience**: 0+ years
-- **Current Role**: Support Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: C++, Python, FastAPI
-- **Location**: Dhaka, Bangladesh
-- **Remote Work**: No
