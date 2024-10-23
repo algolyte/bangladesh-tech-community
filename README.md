@@ -8,6 +8,16 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 
 ## List of Tech Professional
 
+### Asif Al Fattah
+- **Email**: asifalfattah34@gmail.com
+- **LinkedIn**: [linkedin.com/in/asif-al-fattah/](https://www.linkedin.com/in/asif-al-fattah/)
+- **GitHub**: [github.com/AsifAlFattah](https://github.com/AsifAlFattah)
+- **Experience**: 6+ months
+- **Current Role**: Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)
+- **Skills**: Java, Spring Boot, PostgreSQL, Docker, Problem Solving
+- **Location**: Khulna, Bangladesh
+- **Remote Work**: Yes
+
 ### Izazur Rahman Shafin
 - **Email**: imshafin97@gmail.com
 - **LinkedIn**: [linkedin.com/in/izazurrahmanshafin](https://www.linkedin.com/in/izazurrahmanshafin)
