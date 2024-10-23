@@ -62,7 +62,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **LinkedIn**: [linkedin.com/in/Mazharul](https://www.linkedin.com/in/md-mazharul-islam-53a717262/)
 - **GitHub**: [github.com/Mazharul](https://github.com/Mazharul180203)
 - **Experience**: 1+ years
-- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC]
+- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC](https://idlc.com/)
 - **Skills**: JavaScript, C++, React, Node Js, Express Js, Python
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
