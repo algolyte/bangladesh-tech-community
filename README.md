@@ -28,6 +28,16 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
+### Md Sanoarul Islam
+- **Email**: sanoarul123gmail.com
+- **LinkedIn**: [linkedin.com/in/md-sanoarul-islam-523942207](https://www.linkedin.com/in/md-sanoarul-islam-523942207/)
+- **GitHub**: [github.com/sanoarul123](https://github.com/sanoarul123)
+- **Experience**: 6+ months
+- **Current Role**: Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)
+- **Skills**: Java, Spring Boot, Python, RestAPIs, PostgreSQL
+- **Location**: Khulna, Bangladesh
+- **Remote Work**: Yes
+
 ### Md. Mazahrul Islam
 - **Email**: mazharul.saurav255@gmail.com
 - **LinkedIn**: [linkedin.com/in/Mazharul](https://www.linkedin.com/in/md-mazharul-islam-53a717262/)
