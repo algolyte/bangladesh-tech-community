@@ -29,6 +29,17 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: No
 
+### Mazhar Ibna Zahur
+
+- **Email**: mazhar.shapnil@gmail.com
+- **LinkedIn**: [linkedin.com/in/mazhar1322](https://www.linkedin.com/in/mazhar1322/)
+- **GitHub**: [github.com/mazharku](https://github.com/mazharku)
+- **Experience**: 5+ years
+- **Current Role**: Senior Software Engineer at [Tiller](https://tiller.com.bd/)
+- **Skills**: Java(7-21),Spring Boot,Quarkus,Kotlin,Docker,DevOps
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
+
 ### Md Emarat Hossain
 
 - **Email**: emarathossain00@gmail.com
@@ -139,17 +150,6 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Experience**: 8+ years
 - **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
 - **Skills**: Java, Spring Boot, Kubernetes, DevOps
-- **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
-
-### Mazhar Ibna Zahur
-
-- **Email**: mazhar.shapnil@gmail.com
-- **LinkedIn**: [linkedin.com/in/mazhar1322](https://www.linkedin.com/in/mazhar1322/)
-- **GitHub**: [github.com/mazharku](https://github.com/mazharku)
-- **Experience**: 5+ years
-- **Current Role**: Senior Software Engineer at [Tiller](https://tiller.com.bd/)
-- **Skills**: Java(7-21),Spring Boot,Quarkus,Kotlin,Docker,DevOps
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
