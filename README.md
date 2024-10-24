@@ -6,7 +6,7 @@ Follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 If you find this repository helpful, please consider giving it a ⭐ to show your support and help others discover it! Your support means a lot!
 
-## List of Tech Professional
+## List of Tech Professional (Alphabetically)
 
 ### Asif Al Fattah
 - **Email**: asifalfattah34@gmail.com
