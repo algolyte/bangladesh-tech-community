@@ -14,30 +14,19 @@ jobs:
         with:
           fetch-depth: 0  # Fetch full history to prevent issues
 
-      - name: Set up Git
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # Use the Node.js version of your choice
 
-      - name: Generate developer.json from README.md
-        run: |
-          # Extract the developers section and convert it to JSON
-          DEVELOPER_LIST=$(sed -n '/## Developers/,/^$/p' README.md | grep -v '##' | grep -v '^$' | sed 's/^- //')
-          
-          # Create JSON array from the list
-          JSON_ARRAY=$(echo "$DEVELOPER_LIST" | jq -R . | jq -s .)
+      - name: Install dependencies
+        run: npm install
 
-          # Write the JSON array to developer.json
-          echo "$JSON_ARRAY" > developer.json
-
-      - name: Generate index.html from template
-        run: |
-          # Read the template file and replace the placeholder with the developer list
-          DEVELOPER_LIST_HTML=$(echo "$DEVELOPER_LIST" | sed 's/^/<li>/' | sed 's/$/<\/li>/')
-          sed "s|<!-- DEVELOPER_LIST_PLACEHOLDER -->|$DEVELOPER_LIST_HTML|g" index.template.html > index.html
+      - name: Generate developer.json
+        run: node generate-developer-json.js  # Assuming your script is named generate-developer-json.js
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # Set to root directory
+          publish_dir: ./docs  # Adjust this if necessary

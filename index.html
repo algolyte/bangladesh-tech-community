@@ -3,96 +3,52 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bangladeshi Tech Professionals</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-        }
-        .card {
-            background: #fff;
-            padding: 20px;
-            margin: 20px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-            width: 300px;
-        }
-        .card h3 {
-            margin-top: 0;
-        }
-        .card p {
-            margin: 10px 0;
-        }
-        .card a {
-            color: #3498db;
-            text-decoration: none;
-        }
-    </style>
+    <title>Bangladeshi Tech Professionals Worldwide</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
 </head>
 <body>
-
-<h1>Bangladeshi Tech Professionals Worldwide</h1>
-<p>A list of Bangladeshi tech professionals working around the world. Want to join the list? Submit a pull request with your info!</p>
-
-<div class="container" id="developers-container">
-    <!-- Cards will be injected here -->
+<div class="container">
+    <h1>Bangladeshi Tech Professionals Worldwide</h1>
+    <p>A list of Bangladeshi tech professionals working around the world.</p>
+    <div id="developer-list" class="developer-list"></div>
 </div>
 
 <script>
-    const developers = [
-        {
-            name: "Asif Al Fattah",
-            email: "asifalfattah34@gmail.com",
-            linkedin: "https://www.linkedin.com/in/asif-al-fattah/",
-            github: "https://github.com/AsifAlFattah",
-            experience: "6+ months",
-            role: "Junior Backend Developer at Code Prophet",
-            skills: "Java, Spring Boot, PostgreSQL, Docker, Problem Solving",
-            location: "Khulna, Bangladesh",
-            remote: "Yes"
-        },
-        {
-            name: "Izazur Rahman Shafin",
-            email: "imshafin97@gmail.com",
-            linkedin: "https://www.linkedin.com/in/izazurrahmanshafin",
-            github: "https://github.com/imShafin",
-            experience: "0+ years",
-            role: "Support Engineer at Penta Global Limited",
-            skills: "C++, Python, FastAPI",
-            location: "Dhaka, Bangladesh",
-            remote: "No"
-        },
-        // Add other developers here
-    ];
+    async function fetchDevelopers() {
+        try {
+            const response = await fetch('developer.json');
+            const developers = await response.json();
+            displayDevelopers(developers);
+        } catch (error) {
+            console.error('Error fetching developer data:', error);
+        }
+    }
 
-    const container = document.getElementById('developers-container');
+    function displayDevelopers(developers) {
+        const developerList = document.getElementById('developer-list');
 
-    developers.forEach(dev => {
-        const card = document.createElement('div');
-        card.classList.add('card');
+        developers.forEach(developer => {
+            const card = document.createElement('div');
+            card.className = 'card';
 
-        card.innerHTML = `
-      <h3>${dev.name}</h3>
-      <p><strong>Email:</strong> <a href="mailto:${dev.email}">${dev.email}</a></p>
-      <p><strong>LinkedIn:</strong> <a href="${dev.linkedin}" target="_blank">${dev.linkedin}</a></p>
-      <p><strong>GitHub:</strong> <a href="${dev.github}" target="_blank">${dev.github}</a></p>
-      <p><strong>Experience:</strong> ${dev.experience}</p>
-      <p><strong>Current Role:</strong> ${dev.role}</p>
-      <p><strong>Skills:</strong> ${dev.skills}</p>
-      <p><strong>Location:</strong> ${dev.location}</p>
-      <p><strong>Remote Work:</strong> ${dev.remote}</p>
-    `;
+            card.innerHTML = `
+                    <h2>${developer.name}</h2>
+                    <p><strong>Email:</strong> <a href="mailto:${developer.email}">${developer.email}</a></p>
+                    <p><strong>LinkedIn:</strong> <a href="${developer.linkedin}" target="_blank">${developer.linkedin}</a></p>
+                    <p><strong>GitHub:</strong> <a href="${developer.github}" target="_blank">${developer.github}</a></p>
+                    <p><strong>Experience:</strong> ${developer.experience}</p>
+                    <p><strong>Current Role:</strong> ${developer.currentRole}</p>
+                    <p><strong>Skills:</strong> ${developer.skills.join(', ')}</p>
+                    <p><strong>Location:</strong> ${developer.location}</p>
+                    <p><strong>Remote Work:</strong> ${developer.remoteWork ? 'Yes' : 'No'}</p>
+                `;
 
-        container.appendChild(card);
-    });
+            developerList.appendChild(card);
+        });
+    }
+
+    // Fetch developers when the page loads
+    window.onload = fetchDevelopers;
 </script>
-
 </body>
 </html>

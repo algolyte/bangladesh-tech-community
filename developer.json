@@ -1,1 +1,24 @@
-
+[
+  {
+    "name": "Asif Al Fattah",
+    "email": "asifalfattah34@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/asif-al-fattah/",
+    "github": "https://github.com/AsifAlFattah",
+    "experience": "6+ months",
+    "currentRole": "Junior Backend Developer at Code Prophet",
+    "skills": ["Java", "Spring Boot", "PostgreSQL", "Docker", "Problem Solving"],
+    "location": "Khulna, Bangladesh",
+    "remoteWork": true
+  },
+  {
+    "name": "Izazur Rahman Shafin",
+    "email": "imshafin97@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/izazurrahmanshafin",
+    "github": "https://github.com/imShafin",
+    "experience": "0+ years",
+    "currentRole": "Support Engineer at Penta Global Limited",
+    "skills": ["C++", "Python", "FastAPI"],
+    "location": "Dhaka, Bangladesh",
+    "remoteWork": false
+  }
+]
