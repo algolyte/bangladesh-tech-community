@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Mohammad Imrul Hasan",
+    "email": "viimrul@gmail.com",
+    "linkedin": "[imrull](https://www.linkedin.com/in/imrull)",
+    "github": "[vimrul](https://github.com/vimrul)",
+    "experience": "13+ years",
+    "currentRole": "DevOps Engineer at [Penta Global Limited](https://pentaglobal.com)",
+    "skills": [
+      "Cloud Platforms (AWS",
+      "Azure)",
+      "Docker",
+      "Kubernetes",
+      "CI/CD (Jenkins",
+      "GitLab",
+      "ArgoCD)",
+      "Monitoring (Prometheus",
+      "Grafana",
+      "Uptime Kuma",
+      "OpenTelemetry)",
+      "ELK Stack",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "DragonflyDB",
+      "StackGres",
+      "Networking (Istio",
+      "Calico",
+      "Kiali)",
+      "Identity Management (Keycloak)",
+      "Web Servers (Nginx",
+      "Apache",
+      "Apache Tomcat)",
+      "Version Control (GitHub)"
+    ],
+    "location": "Dhaka, Bangladesh",
+    "remoteWork": true
+  },
+  {
+    "name": "Mullah Mohammad Shahjalal",
+    "email": "shahjalal2075@gmail.com",
+    "linkedin": "[linkedin.com/in/shahjalal2075](https://www.linkedin.com/in/shahjalal2075)",
+    "github": "[github.com/Shahjalal2075](https://github.com/Shahjalal2075)",
+    "experience": "1+ years",
+    "currentRole": "Full Stack Developer at [Naim IT](https://naimit.ca)",
+    "skills": [
+      "JavaScript",
+      "React Js",
+      "React Native",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "Problem Solving"
+    ],
+    "location": "Jashore, Bangladesh",
+    "remoteWork": true
+  }
+]

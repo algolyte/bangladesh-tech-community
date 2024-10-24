@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangladeshi Tech Professionals Worldwide</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+</head>
+<body>
+<div class="container">
+    <h1>Bangladeshi Tech Professionals Worldwide</h1>
+    <p>A list of Bangladeshi tech professionals working around the world.</p>
+    <div id="developer-list" class="developer-list"></div>
+</div>
+
+<script>
+    async function fetchDevelopers() {
+        try {
+            const response = await fetch('developer.json');
+            const developers = await response.json();
+            displayDevelopers(developers);
+        } catch (error) {
+            console.error('Error fetching developer data:', error);
+        }
+    }
+
+    function displayDevelopers(developers) {
+        const developerList = document.getElementById('developer-list');
+
+        developers.forEach(developer => {
+            const card = document.createElement('div');
+            card.className = 'card';
+
+            card.innerHTML = `
+                    <h2>${developer.name}</h2>
+                    <p><strong>Email:</strong> <a href="mailto:${developer.email}">${developer.email}</a></p>
+                    <p><strong>LinkedIn:</strong> <a href="${developer.linkedin}" target="_blank">${developer.linkedin}</a></p>
+                    <p><strong>GitHub:</strong> <a href="${developer.github}" target="_blank">${developer.github}</a></p>
+                    <p><strong>Experience:</strong> ${developer.experience}</p>
+                    <p><strong>Current Role:</strong> ${developer.currentRole}</p>
+                    <p><strong>Skills:</strong> ${developer.skills.join(', ')}</p>
+                    <p><strong>Location:</strong> ${developer.location}</p>
+                    <p><strong>Remote Work:</strong> ${developer.remoteWork ? 'Yes' : 'No'}</p>
+                `;
+
+            developerList.appendChild(card);
+        });
+    }
+
+    // Fetch developers when the page loads
+    window.onload = fetchDevelopers;
+</script>
+</body>
+</html>
