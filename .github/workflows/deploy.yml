@@ -9,16 +9,35 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetch full history to prevent issues
 
-      - name: Run build script
+      - name: Set up Git
         run: |
-          # Your custom script to generate or update index.html
-          # For example, a node script that processes README.md and updates the HTML file
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Generate developer.json from README.md
+        run: |
+          # Extract the developers section and convert it to JSON
+          DEVELOPER_LIST=$(sed -n '/## Developers/,/^$/p' README.md | grep -v '##' | grep -v '^$' | sed 's/^- //')
+          
+          # Create JSON array from the list
+          JSON_ARRAY=$(echo "$DEVELOPER_LIST" | jq -R . | jq -s .)
+
+          # Write the JSON array to developer.json
+          echo "$JSON_ARRAY" > developer.json
+
+      - name: Generate index.html from template
+        run: |
+          # Read the template file and replace the placeholder with the developer list
+          DEVELOPER_LIST_HTML=$(echo "$DEVELOPER_LIST" | sed 's/^/<li>/' | sed 's/$/<\/li>/')
+          sed "s|<!-- DEVELOPER_LIST_PLACEHOLDER -->|$DEVELOPER_LIST_HTML|g" index.template.html > index.html
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.TOKEN }}
-          publish_dir: ./docs # If you store your HTML files in a docs folder
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./  # Set to root directory
