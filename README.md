@@ -9,6 +9,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 ## List of Tech Professional (Alphabetically)
 
 ### Asif Al Fattah
+
 - **Email**: asifalfattah34@gmail.com
 - **LinkedIn**: [linkedin.com/in/asif-al-fattah/](https://www.linkedin.com/in/asif-al-fattah/)
 - **GitHub**: [github.com/AsifAlFattah](https://github.com/AsifAlFattah)
@@ -153,13 +154,13 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
-### John Doe
+### Zahid Hasan
 
-- **Email**: john.doe@example.com
-- **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- **GitHub**: [github.com/johndoe](https://github.com/johndoe)
-- **Experience**: 5+ years
-- **Current Role**: Software Engineer at [Company](https://company.com)
-- **Skills**: Python, Django, AWS, Serverless
-- **Location**: Toronto, Canada
-- **Remote Work**: No
+- **Email**: zahidhasanpapon@gmail.com
+- **LinkedIn**: [linkedin.com/in/zahidhasanpapon/](https://www.linkedin.com/in/zahidhasanpapon/)
+- **GitHub**: [github.com/zahidhasanpapon](https://github.com/zahidhasanpapon)
+- **Experience**: 2+ years
+- **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
