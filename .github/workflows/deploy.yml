@@ -11,22 +11,21 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          fetch-depth: 0  # Fetch full history to prevent issues
+          python-version: '3.x'  # Set your desired Python version
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'  # Use the Node.js version of your choice
+#      - name: Install dependencies
+#        run: |
+#          pip install -r requirements.txt  # If you have any dependencies
 
-      - name: Install dependencies
-        run: npm install
-
-      - name: Generate developer.json
-        run: node generate-developer-json.js  # Assuming your script is named generate-developer-json.js
+      - name: Extract developer data
+        run: python docs/extract_developers.py  # Make sure the script is named correctly
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.TOKEN }}
-          publish_dir: ./  # Adjust this if necessary
+          publish_dir: ./docs  # Adjust if needed
