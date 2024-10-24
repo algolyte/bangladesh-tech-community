@@ -15,11 +15,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.x'  # Set your desired Python version
-
-#      - name: Install dependencies
-#        run: |
-#          pip install -r requirements.txt  # If you have any dependencies
+          python-version: '3.9'
 
       - name: Extract developer data
         run: python docs/extract_developers.py  # Make sure the script is named correctly
