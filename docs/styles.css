@@ -1,41 +1,78 @@
+/* Base styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    color: #333;
     margin: 0;
-    padding: 20px;
+    padding: 0;
+    background: #f4f7f6;
 }
 
-.container {
-    max-width: 800px;
-    margin: auto;
-    padding: 20px;
-    background: white;
+header {
+    text-align: center;
+    padding: 2rem;
+    background: #0077b6;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+/* Profile Container */
+.profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 2rem;
+}
+
+/* Profile Card */
+.profile-card {
+    background: #fff;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    padding: 1.5rem;
+    width: 300px;
+    transition: transform 0.3s;
 }
 
-.card {
-    background: #ffffff;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    margin: 15px 0;
-    padding: 15px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+.profile-card:hover {
+    transform: translateY(-5px);
 }
 
-.card h2 {
-    margin-top: 0;
+.profile-card h2 {
+    font-size: 1.5rem;
+    color: #0077b6;
+    margin-bottom: 0.5rem;
 }
 
-.card p {
-    margin: 5px 0;
+.profile-card p {
+    margin: 0.5rem 0;
 }
 
-.card a {
-    color: #007bff;
+.profile-card strong {
+    color: #333;
+}
+
+/* Profile Links */
+.profile-links {
+    margin-top: 1rem;
+}
+
+.profile-links a {
     text-decoration: none;
+    color: #0077b6;
+    font-weight: bold;
+    margin-right: 1rem;
 }
 
-.card a:hover {
+.profile-links a:hover {
     text-decoration: underline;
 }

@@ -1,43 +1,55 @@
-import json
 import re
+import os
+import json
 
-# Read the README.md file
-with open('README.md', 'r') as file:
-    readme_content = file.read()
+def read_profiles(filename):
+    # Specify the path to README.md in the root folder
+    filepath = os.path.join(os.path.dirname(__file__), '..', filename)
 
-# Define a regex pattern to extract developer details
-developer_pattern = re.compile(
-    r'### (.+?)\n'
-    r'- \*\*Email\*\*: (.+?)\n'
-    r'- \*\*LinkedIn\*\*: \[(.+?)\]\((.+?)\)\n'
-    r'- \*\*GitHub\*\*: \[(.+?)\]\((.+?)\)\n'
-    r'- \*\*Experience\*\*: (.+?)\n'
-    r'- \*\*Current Role\*\*: (.+?)\n'
-    r'- \*\*Skills\*\*: (.+?)\n'
-    r'- \*\*Location\*\*: (.+?)\n'
-    r'- \*\*Remote Work\*\*: (.+?)\n',
-    re.MULTILINE
-)
+    with open(filepath, 'r') as file:
+        content = file.read()
 
-# Extract developer details
+    # Regular expression to capture profile fields
+    profile_pattern = re.compile(
+        r'### (.+?)\n'                   # Capture the name
+        r'- \*\*Email\*\*: (.+?)\n'      # Capture email
+        r'- \*\*LinkedIn\*\*: \[(.+?)\]\(https?://.+?\)\n' # Capture only LinkedIn link text
+        r'- \*\*GitHub\*\*: \[(.+?)\]\(https?://.+?\)\n'   # Capture only GitHub link text
+        r'- \*\*Experience\*\*: (.+?)\n' # Capture experience
+        r'- \*\*Current Role\*\*: (.+?)\n' # Capture current role
+        r'- \*\*Skills\*\*: (.+?)\n'     # Capture skills
+        r'- \*\*Location\*\*: (.+?)\n'   # Capture location
+        r'- \*\*Remote Work\*\*: (.+?)\n',# Capture remote work
+        re.DOTALL                       # Match across multiple lines
+    )
+
+    # Find all profiles in the content
+    profiles = profile_pattern.findall(content)
+
+    # Process and print each profile
+    profile_data = []
+    for profile in profiles:
+        name, email, linkedin, github, experience, role, skills, location, remote = profile
+        profile_data.append({
+            'name': name,
+            'email': email,
+            'linkedin': f'https://{linkedin}',
+            'github': f'https://{github}',
+            'experience': experience,
+            'currentRole': role,
+            'skills': skills,
+            'location': location,
+            'remoteWork': remote
+        })
+
+    return profile_data
+
+# Run the function
+profiles = read_profiles('README.md')
 developers = []
-for match in developer_pattern.finditer(readme_content):
-    developers.append({
-        'name': match.group(1).strip(),
-        'email': match.group(2).strip(),
-        'linkedin': match.group(3).strip(),
-        'linkedin_url': match.group(4).strip(),
-        'github': match.group(5).strip(),
-        'github_url': match.group(6).strip(),
-        'experience': match.group(7).strip(),
-        'current_role': match.group(8).strip(),
-        'skills': match.group(9).strip().split(', '),  # Split skills into a list
-        'location': match.group(10).strip(),
-        'remote_work': match.group(11).strip()
-    })
-
-# Write to developer.json
+for profile in profiles:
+    print(profile)
+    developers.append(profile)
+# Write to developer.json in the docs folder
 with open('developer.json', 'w') as json_file:
     json.dump(developers, json_file, indent=4)
-
-print(f'Extracted {len(developers)} developers.')

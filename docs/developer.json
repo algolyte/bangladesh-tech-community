@@ -1,24 +1,145 @@
 [
-  {
-    "name": "Asif Al Fattah",
-    "email": "asifalfattah34@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/asif-al-fattah/",
-    "github": "https://github.com/AsifAlFattah",
-    "experience": "6+ months",
-    "currentRole": "Junior Backend Developer at Code Prophet",
-    "skills": ["Java", "Spring Boot", "PostgreSQL", "Docker", "Problem Solving"],
-    "location": "Khulna, Bangladesh",
-    "remoteWork": true
-  },
-  {
-    "name": "Izazur Rahman Shafin",
-    "email": "imshafin97@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/izazurrahmanshafin",
-    "github": "https://github.com/imShafin",
-    "experience": "0+ years",
-    "currentRole": "Support Engineer at Penta Global Limited",
-    "skills": ["C++", "Python", "FastAPI"],
-    "location": "Dhaka, Bangladesh",
-    "remoteWork": false
-  }
+    {
+        "name": "Asif Al Fattah\n",
+        "email": "asifalfattah34@gmail.com",
+        "linkedin": "https://linkedin.com/in/asif-al-fattah/",
+        "github": "https://github.com/AsifAlFattah",
+        "experience": "6+ months",
+        "currentRole": "Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)",
+        "skills": "Java, Spring Boot, PostgreSQL, Docker, Problem Solving",
+        "location": "Khulna, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Izazur Rahman Shafin\n",
+        "email": "imshafin97@gmail.com",
+        "linkedin": "https://linkedin.com/in/izazurrahmanshafin",
+        "github": "https://github.com/imShafin",
+        "experience": "0+ years",
+        "currentRole": "Support Engineer at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "C++, Python, FastAPI",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "No"
+    },
+    {
+        "name": "Mazhar Ibna Zahur\n",
+        "email": "mazhar.shapnil@gmail.com",
+        "linkedin": "https://linkedin.com/in/mazhar1322",
+        "github": "https://github.com/mazharku",
+        "experience": "5+ years",
+        "currentRole": "Senior Software Engineer at [Tiller](https://tiller.com.bd/)",
+        "skills": "Java(7-21),Spring Boot,Quarkus,Kotlin,Docker,DevOps",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Md Emarat Hossain\n",
+        "email": "emarathossain00@gmail.com",
+        "linkedin": "https://linkedin.com/in/emarat/",
+        "github": "https://github.com/Emarat",
+        "experience": "2+ years",
+        "currentRole": "Product Manager at [Penta Global Limited](https://www.pentabd.com/)\n- **Skills**:\n- Technical Expertise: Background in development (Flutter, full-stack) and knowledge of PostgreSQL, Python, and SQL.\n- User-Centric Focus: Ability to understand user needs and improve product experiences.\n- Project Leadership: Experience leading projects, managing teams, and coordinating across functions.\n- Communication & Collaboration: Strong cross-functional collaboration and continuous improvement in communication.\n- Adaptability & Continuous Learning: Committed to learning new tools (like SQA) and adapting to evolving challenges.\n- **Location**: Dhaka, Bangladesh\n- **Remote Work**: No\n\n### Md Mashuqur Rahman\n\n- **Email**: mashuq0068@gmail.com\n- **LinkedIn**: [linkedin.com/in/Mashuq](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)\n- **GitHub**: [github.com/Mashuq](https://github.com/mashuq0068)\n- **Experience**: 6+ months\n- **Current Role**: Junior Frontend Developer at [Code Prophet](https://codeprophet.tech/)",
+        "skills": "JavaScript, React, Node Js, Express Js",
+        "location": "Khulna, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Md Mazahrul Islam\n",
+        "email": "mazharul.saurav255@gmail.com",
+        "linkedin": "https://linkedin.com/in/Mazharul",
+        "github": "https://github.com/Mazharul",
+        "experience": "1+ years",
+        "currentRole": "Assistant Software Engineer at [IDLC Finance PLC](https://idlc.com/)",
+        "skills": "JavaScript, C++, React, Node Js, Express Js, Python",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Md Sanoarul Islam\n",
+        "email": "sanoarul123gmail.com",
+        "linkedin": "https://linkedin.com/in/md-sanoarul-islam-523942207",
+        "github": "https://github.com/sanoarul123",
+        "experience": "6+ months",
+        "currentRole": "Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)",
+        "skills": "Java, Spring Boot, Python, RestAPIs, PostgreSQL",
+        "location": "Khulna, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Md Shahjahan\n",
+        "email": "shahjahan.cseku11@gmail.com",
+        "linkedin": "https://linkedin.com/in/shahjahan",
+        "github": "https://github.com/shahjahan48",
+        "experience": "8+ years",
+        "currentRole": "Senior Software Engineer at [Dohatec New Media](https://www.dohatec.com/)",
+        "skills": "Java, Spring Boot, C#, ASP.NET MVC, ASP.NET Core, MSSQL, MySQL, Microservice, Angular, Docker, DevOps",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Mohammad Imrul Hasan",
+        "email": "viimrul@gmail.com",
+        "linkedin": "https://imrull",
+        "github": "https://vimrul",
+        "experience": "13+ years",
+        "currentRole": "DevOps Engineer at [Penta Global Limited](https://pentaglobal.com)",
+        "skills": "Cloud Platforms (AWS, Azure), Docker, Kubernetes, CI/CD (Jenkins, GitLab, ArgoCD), Monitoring (Prometheus, Grafana, Uptime Kuma, OpenTelemetry), ELK Stack, PostgreSQL, MySQL, Redis, DragonflyDB, StackGres, Networking (Istio, Calico, Kiali), Identity Management (Keycloak), Web Servers (Nginx, Apache, Apache Tomcat), Version Control (GitHub)",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Mullah Mohammad Shahjalal",
+        "email": "shahjalal2075@gmail.com",
+        "linkedin": "https://linkedin.com/in/shahjalal2075",
+        "github": "https://github.com/Shahjalal2075",
+        "experience": "1+ years",
+        "currentRole": "Full Stack Developer at [Naim IT](https://naimit.ca)",
+        "skills": "JavaScript, React Js, React Native, Node Js, Express Js, MongoDB, Problem Solving",
+        "location": "Jashore, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Nandan Kumar Das\n",
+        "email": "nandandas.ku@gmail.com",
+        "linkedin": "https://linkedin.com/in/nandan-kumar-das",
+        "github": "https://github.com/nandan-kumar-das",
+        "experience": "6+ years",
+        "currentRole": "Senior Software Engineer at [Dizi Nova Limited](http://dizinova.com/)",
+        "skills": ".NET Framework, .NET Core, React, MSSQL, MongoDB, Android, Flutter",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "No"
+    },
+    {
+        "name": "Nishanul Nishat\n",
+        "email": "nishanul.nishat@example.com",
+        "linkedin": "https://linkedin.com/in/nishanul-nishat",
+        "github": "https://github.com/nishat1098",
+        "experience": "2.5+ years",
+        "currentRole": "Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "Java, Spring Boot, Python, FastAPI, Django, Kubernetes, DevOps",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Sadman Sobhan\n",
+        "email": "imran110219@gmail.com",
+        "linkedin": "https://linkedin.com/in/sadman",
+        "github": "https://github.com/sadmansobhan",
+        "experience": "8+ years",
+        "currentRole": "Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "Java, Spring Boot, Kubernetes, DevOps",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Zahid Hasan\n",
+        "email": "zahidhasanpapon@gmail.com",
+        "linkedin": "https://linkedin.com/in/zahidhasanpapon/",
+        "github": "https://github.com/zahidhasanpapon",
+        "experience": "2+ years",
+        "currentRole": "Software Engineer at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    }
 ]
