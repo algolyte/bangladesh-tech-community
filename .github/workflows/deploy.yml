@@ -3,28 +3,34 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - main  # Change this to your default branch if it's different
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          node-version: '14'
+          python-version: '3.12.3'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install HTTP server
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install httpserver
 
-      - name: Build
-        run: npm run build
+      - name: Serve the site
+        run: |
+          python3 -m http.server 8000 &
+          sleep 5  # Give the server time to start
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.TOKEN }}
-          publish_dir: ./docs  # Adjust if needed
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs  # Adjust this if your files are in a different directory
+
