@@ -13,7 +13,7 @@ async function loadProfiles() {
         <h2>${developer.name}</h2>
         <p><strong>Email:</strong> ${developer.email}</p>
         <p><strong>Experience:</strong> ${developer.experience}</p>
-        <p><strong>Current Role:</strong> ${developer.role}</p>
+        <p><strong>Current Role:</strong> ${developer.currentRole}</p>
         <p><strong>Skills:</strong> ${developer.skills}</p>
         <p><strong>Location:</strong> ${developer.location}</p>
         <p><strong>Remote Work:</strong> ${developer.remoteWork}</p>
