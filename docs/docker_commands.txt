@@ -1,0 +1,2 @@
+docker build -t bangladesh-tech-community .
+docker run -d -p 8070:8070 bangladesh-tech-community

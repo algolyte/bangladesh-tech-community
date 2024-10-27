@@ -1,0 +1,36 @@
+#name: Deploy to GitHub Pages
+#
+#on:
+#  push:
+#    branches:
+#      - main  # Change this to your default branch if it's different
+#
+#jobs:
+#  deploy:
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v2
+#
+#      - name: Set up Python
+#        uses: actions/setup-python@v4
+#        with:
+#          python-version: '3.12.3'
+#
+#      - name: Install HTTP server
+#        run: |
+#          python3 -m pip install --upgrade pip
+#          pip install httpserver
+#
+#      - name: Serve the site
+#        run: |
+#          python3 -m http.server 8000 &
+#          sleep 5  # Give the server time to start
+#
+#      - name: Deploy to GitHub Pages
+#        uses: peaceiris/actions-gh-pages@v3
+#        with:
+#          github_token: ${{ secrets.TOKEN }}
+#          publish_dir: ./docs  # Adjust this if your files are in a different directory
+#
