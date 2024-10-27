@@ -48,12 +48,8 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **GitHub**: [github.com/Emarat](https://github.com/Emarat)
 - **Experience**: 2+ years
 - **Current Role**: Product Manager at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**:
-- Technical Expertise: Background in development (Flutter, full-stack) and knowledge of PostgreSQL, Python, and SQL.
-- User-Centric Focus: Ability to understand user needs and improve product experiences.
-- Project Leadership: Experience leading projects, managing teams, and coordinating across functions.
-- Communication & Collaboration: Strong cross-functional collaboration and continuous improvement in communication.
-- Adaptability & Continuous Learning: Committed to learning new tools (like SQA) and adapting to evolving challenges.
+- **Skills**:Product Manager at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Technical Expertise (Flutter, Full-Stack Development, PostgreSQL, Python, SQL), User-Centric Focus, Project Leadership, Communication & Collaboration, Adaptability & Continuous Learning, Software Quality Assurance (SQA)
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: No
 
