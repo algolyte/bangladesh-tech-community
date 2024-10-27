@@ -6,18 +6,7 @@ Follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 If you find this repository helpful, please consider giving it a ⭐ to show your support and help others discover it! Your support means a lot!
 
-## List of Tech Professional (Alphabetically)
-
-### Asif Al Fattah
-
-- **Email**: asifalfattah34@gmail.com
-- **LinkedIn**: [linkedin.com/in/asif-al-fattah/](https://www.linkedin.com/in/asif-al-fattah/)
-- **GitHub**: [github.com/AsifAlFattah](https://github.com/AsifAlFattah)
-- **Experience**: 6+ months
-- **Current Role**: Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)
-- **Skills**: Java, Spring Boot, PostgreSQL, Docker, Problem Solving
-- **Location**: Khulna, Bangladesh
-- **Remote Work**: Yes
+## List of Tech Professional
 
 ### Izazur Rahman Shafin
 
@@ -74,7 +63,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **LinkedIn**: [linkedin.com/in/Mazharul](https://www.linkedin.com/in/md-mazharul-islam-53a717262/)
 - **GitHub**: [github.com/Mazharul](https://github.com/Mazharul180203)
 - **Experience**: 1+ years
-- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC](https://idlc.com/)
+- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC]
 - **Skills**: JavaScript, C++, React, Node Js, Express Js, Python
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
@@ -102,6 +91,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Remote Work**: Yes
 
 ### Mohammad Imrul Hasan
+
 - **Email**: viimrul@gmail.com
 - **LinkedIn**: [imrull](https://www.linkedin.com/in/imrull)
 - **GitHub**: [vimrul](https://github.com/vimrul)
@@ -112,6 +102,7 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Remote Work**: Yes
 
 ### Mullah Mohammad Shahjalal
+
 - **Email**: shahjalal2075@gmail.com
 - **LinkedIn**: [linkedin.com/in/shahjalal2075](https://www.linkedin.com/in/shahjalal2075)
 - **GitHub**: [github.com/Shahjalal2075](https://github.com/Shahjalal2075)
@@ -165,11 +156,11 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
-### Zahid Hasan
+### Md Emarat Hossain
 
-- **Email**: zahidhasanpapon@gmail.com
-- **LinkedIn**: [linkedin.com/in/zahidhasanpapon/](https://www.linkedin.com/in/zahidhasanpapon/)
-- **GitHub**: [github.com/zahidhasanpapon](https://github.com/zahidhasanpapon)
+- **Email**: emarathossain00@gmail.com
+- **LinkedIn**: [linkedin.com/in/emarat/](https://www.linkedin.com/in/emarat/)
+- **GitHub**: [github.com/Emarat](https://github.com/Emarat)
 - **Experience**: 2+ years
 - **Current Role**: Product Manager at [Penta Global Limited](https://www.pentabd.com/)
 - **Skills**: Technical Expertise (Flutter, Full-Stack Development, PostgreSQL, Python, SQL), User-Centric Focus, Project Leadership, Communication & Collaboration, Adaptability & Continuous Learning, Software Quality Assurance (SQA)
@@ -190,4 +181,3 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
-
