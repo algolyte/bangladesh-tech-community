@@ -1,6 +1,6 @@
 [
     {
-        "name": "Asif Al Fattah\n",
+        "name": "Asif Al Fattah",
         "email": "asifalfattah34@gmail.com",
         "linkedin": "https://linkedin.com/in/asif-al-fattah/",
         "github": "https://github.com/AsifAlFattah",
@@ -11,7 +11,7 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Izazur Rahman Shafin\n",
+        "name": "Izazur Rahman Shafin",
         "email": "imshafin97@gmail.com",
         "linkedin": "https://linkedin.com/in/izazurrahmanshafin",
         "github": "https://github.com/imShafin",
@@ -22,7 +22,7 @@
         "remoteWork": "No"
     },
     {
-        "name": "Mazhar Ibna Zahur\n",
+        "name": "Mazhar Ibna Zahur",
         "email": "mazhar.shapnil@gmail.com",
         "linkedin": "https://linkedin.com/in/mazhar1322",
         "github": "https://github.com/mazharku",
@@ -33,18 +33,29 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Md Emarat Hossain\n",
+        "name": "Md Emarat Hossain",
         "email": "emarathossain00@gmail.com",
         "linkedin": "https://linkedin.com/in/emarat/",
         "github": "https://github.com/Emarat",
         "experience": "2+ years",
-        "currentRole": "Product Manager at [Penta Global Limited](https://www.pentabd.com/)\n- **Skills**:\n- Technical Expertise: Background in development (Flutter, full-stack) and knowledge of PostgreSQL, Python, and SQL.\n- User-Centric Focus: Ability to understand user needs and improve product experiences.\n- Project Leadership: Experience leading projects, managing teams, and coordinating across functions.\n- Communication & Collaboration: Strong cross-functional collaboration and continuous improvement in communication.\n- Adaptability & Continuous Learning: Committed to learning new tools (like SQA) and adapting to evolving challenges.\n- **Location**: Dhaka, Bangladesh\n- **Remote Work**: No\n\n### Md Mashuqur Rahman\n\n- **Email**: mashuq0068@gmail.com\n- **LinkedIn**: [linkedin.com/in/Mashuq](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)\n- **GitHub**: [github.com/Mashuq](https://github.com/mashuq0068)\n- **Experience**: 6+ months\n- **Current Role**: Junior Frontend Developer at [Code Prophet](https://codeprophet.tech/)",
+        "currentRole": "Product Manager at [Penta Global Limited](https://www.pentabd.com/)\n- **Skills**:Product Manager at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "Technical Expertise (Flutter, Full-Stack Development, PostgreSQL, Python, SQL), User-Centric Focus, Project Leadership, Communication & Collaboration, Adaptability & Continuous Learning, Software Quality Assurance (SQA)",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "No"
+    },
+    {
+        "name": "Md Mashuqur Rahman",
+        "email": "mashuq0068@gmail.com",
+        "linkedin": "https://linkedin.com/in/Mashuq",
+        "github": "https://github.com/Mashuq",
+        "experience": "6+ months",
+        "currentRole": "Junior Frontend Developer at [Code Prophet](https://codeprophet.tech/)",
         "skills": "JavaScript, React, Node Js, Express Js",
         "location": "Khulna, Bangladesh",
         "remoteWork": "Yes"
     },
     {
-        "name": "Md Mazahrul Islam\n",
+        "name": "Md Mazahrul Islam",
         "email": "mazharul.saurav255@gmail.com",
         "linkedin": "https://linkedin.com/in/Mazharul",
         "github": "https://github.com/Mazharul",
@@ -55,7 +66,7 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Md Sanoarul Islam\n",
+        "name": "Md Sanoarul Islam",
         "email": "sanoarul123gmail.com",
         "linkedin": "https://linkedin.com/in/md-sanoarul-islam-523942207",
         "github": "https://github.com/sanoarul123",
@@ -66,7 +77,7 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Md Shahjahan\n",
+        "name": "Md Shahjahan",
         "email": "shahjahan.cseku11@gmail.com",
         "linkedin": "https://linkedin.com/in/shahjahan",
         "github": "https://github.com/shahjahan48",
@@ -99,7 +110,7 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Nandan Kumar Das\n",
+        "name": "Nandan Kumar Das",
         "email": "nandandas.ku@gmail.com",
         "linkedin": "https://linkedin.com/in/nandan-kumar-das",
         "github": "https://github.com/nandan-kumar-das",
@@ -110,7 +121,7 @@
         "remoteWork": "No"
     },
     {
-        "name": "Nishanul Nishat\n",
+        "name": "Nishanul Nishat",
         "email": "nishanul.nishat@example.com",
         "linkedin": "https://linkedin.com/in/nishanul-nishat",
         "github": "https://github.com/nishat1098",
@@ -121,7 +132,18 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Sadman Sobhan\n",
+        "name": "Plabon Costa",
+        "email": "plabonjoseph@gmail.com",
+        "linkedin": "https://linkedin.com/in/plabon-costa-45b01a168/",
+        "github": "https://github.com/plaboncosta",
+        "experience": "5+ years",
+        "currentRole": "Software Engineer at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "Java, Spring Boot, Node JS, Express JS, Docker, Kubernetes, DevOps, Redis, RabbitMQ, Kafka, Elastic Search, Micro Service",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
+        "name": "Sadman Sobhan",
         "email": "imran110219@gmail.com",
         "linkedin": "https://linkedin.com/in/sadman",
         "github": "https://github.com/sadmansobhan",
@@ -132,7 +154,7 @@
         "remoteWork": "Yes"
     },
     {
-        "name": "Zahid Hasan\n",
+        "name": "Zahid Hasan",
         "email": "zahidhasanpapon@gmail.com",
         "linkedin": "https://linkedin.com/in/zahidhasanpapon/",
         "github": "https://github.com/zahidhasanpapon",

@@ -31,7 +31,7 @@ def read_profiles(filename):
     for profile in profiles:
         name, email, linkedin, github, experience, role, skills, location, remote = profile
         profile_data.append({
-            'name': name,
+            'name': name.strip(),
             'email': email,
             'linkedin': f'https://{linkedin}',
             'github': f'https://{github}',
