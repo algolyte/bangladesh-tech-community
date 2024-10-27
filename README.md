@@ -164,3 +164,14 @@ If you find this repository helpful, please consider giving it a ⭐ to show you
 - **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
+
+### Plabon Costa
+
+- **Email**: plabonjoseph@gmail.com
+- **LinkedIn**: [linkedin.com/in/plabon-costa-45b01a168/](https://www.linkedin.com/in/plabon-costa-45b01a168/)
+- **GitHub**: [github.com/plaboncosta](https://github.com/plaboncosta)
+- **Experience**: 5+ years
+- **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Java, Spring Boot, Node JS, Express JS, Docker, Kubernetes, DevOps, Redis, RabbitMQ, Kafka, Elastic Search, Micro Service
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
