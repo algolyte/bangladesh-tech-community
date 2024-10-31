@@ -6,6 +6,8 @@ Follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 If you find this repository helpful, please consider giving it a ⭐ to show your support and help others discover it! Your support means a lot!
 
+Check the list [Link](https://techcom.revlox.com/)
+
 ## List of Tech Professional (Alphabetically)
 
 ### Asif Al Fattah
