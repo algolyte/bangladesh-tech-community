@@ -174,12 +174,12 @@ Check the list [Link](https://techcom.revlox.com/)
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
 
-### Md. AbidFaisal
+### Md. Abid Faisal
 - **Email**: abid.nwu.cse@gmail.com
 - **LinkedIn**: [linkedin.com/in/abidfaisal027](https://www.linkedin.com/in/abidfaisal027/)
 - **GitHub**: [github.com/mdabidfaisal](https://github.com/mdabidfaisal)
 - **Experience**: 2+ years
 - **Current Role**: Software Product Manager and DevOps Engineer at [Code Prophet](https://codeprophet.tech/)
-- **Skills**: Cloud Platforms (Google Cloud, Digital Ocean), Docker, Kubernetes, CI/CD (Jenkins, GitLab, ArgoCD), Monitoring (Prometheus, Grafana, Uptime Kuma, OpenTelemetry), PostgreSQL, MySQL, Redis, Web Servers (Nginx, Apache, Apache Tomcat), Version Control (GitHub)
+- **Skills**: Cloud Platforms (Google Cloud, Digital Ocean), Docker, Kubernetes, CI/CD (Jenkins, GitLab, ArgoCD), Monitoring (Prometheus, Grafana, Uptime Kuma, OpenTelemetry), PostgreSQL, MySQL, Redis, Web Servers (Nginx, Apache, Apache Tomcat), Version Control (GitHub), Agile Scrum.
 - **Location**: Khulna, Bangladesh
 - **Remote Work**: No
