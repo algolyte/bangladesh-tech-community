@@ -11,6 +11,17 @@
         "remoteWork": "Yes"
     },
     {
+        "name": "H.M Atahar Nur",
+        "email": "atp82232@gmail.com",
+        "linkedin": "https://linkedin.com/in/atahar-nur-pial",
+        "github": "https://github.com/atpial",
+        "experience": "2+ years",
+        "currentRole": "Solution Developer (Cloud) at [Shadhin Lab](https://shadhinlab.com/)",
+        "skills": "Python, Django, AWS, Flask, Docker, Opensearch",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
         "name": "Izazur Rahman Shafin",
         "email": "imshafin97@gmail.com",
         "linkedin": "https://linkedin.com/in/izazurrahmanshafin",
