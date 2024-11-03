@@ -130,6 +130,17 @@ Check the list [Link](https://techcom.revlox.com/)
 - **Location**: Jashore, Bangladesh
 - **Remote Work**: Yes
 
+### Nabil Ahmed
+
+- **Email**: nabil.cse.53@gmail.com
+- **LinkedIn**: [linkedin.com/in/nabil-ahmed-900601195](https://www.linkedin.com/in/nabil-ahmed-900601195/)
+- **GitHub**: [github.com/nabil053](https://github.com/nabil053)
+- **Experience**: 2+ years
+- **Current Role**: Student at [University of New Brunswick](https://www.unb.ca/)
+- **Skills**: Java, Spring Boot, MySQL, PostgreSQL, Python, RestAPIs, Problem Solving, Data Analysis
+- **Location**: Fredericton, New Brunswick, Canada
+- **Remote Work**: Yes
+
 ### Nandan Kumar Das
 
 - **Email**: nandandas.ku@gmail.com
