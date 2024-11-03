@@ -21,6 +21,17 @@ Check the list [Link](https://techcom.revlox.com/)
 - **Location**: Khulna, Bangladesh
 - **Remote Work**: Yes
 
+### H.M Atahar Nur
+
+- **Email**: atp82232@gmail.com
+- **LinkedIn**: [linkedin.com/in/atahar-nur-pial](https://www.linkedin.com/in/atahar-nur-pial/)
+- **GitHub**: [github.com/atpial](https://github.com/atpial)
+- **Experience**: 2+ years
+- **Current Role**: Solution Developer (Cloud) at [Shadhin Lab](https://shadhinlab.com/)
+- **Skills**: Python, Django, AWS, Flask, Docker, Opensearch
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
+
 ### Izazur Rahman Shafin
 
 - **Email**: imshafin97@gmail.com
@@ -193,16 +204,5 @@ Check the list [Link](https://techcom.revlox.com/)
 - **Experience**: 2+ years
 - **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
 - **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
-- **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
-
-
-### H.M Atahar Nur 
-- **Email**: atp82232@gmail.com
-- **LinkedIn**: [linkedin.com/in/atahar-nur-pial](https://www.linkedin.com/in/atahar-nur-pial/)
-- **GitHub**: [github.com/atpial](https://github.com/atpial)
-- **Experience**: 2+ years
-- **Current Role**: Solution Developer (Cloud) at [Shadhin Lab](https://shadhinlab.com/)
-- **Skills**: Python, Django, AWS, Flask, Docker, Opensearch
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
