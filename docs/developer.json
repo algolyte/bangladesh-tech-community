@@ -121,6 +121,17 @@
         "remoteWork": "Yes"
     },
     {
+        "name": "Nabil Ahmed",
+        "email": "nabil.cse.53@gmail.com",
+        "linkedin": "https://linkedin.com/in/nabil-ahmed-900601195",
+        "github": "https://github.com/nabil053",
+        "experience": "2+ years",
+        "currentRole": "Student at [University of New Brunswick](https://www.unb.ca/)",
+        "skills": "Java, Spring Boot, MySQL, PostgreSQL, Python, RestAPIs, Problem Solving, Data Analysis",
+        "location": "Fredericton, New Brunswick, Canada",
+        "remoteWork": "Yes"
+    },
+    {
         "name": "Nandan Kumar Das",
         "email": "nandandas.ku@gmail.com",
         "linkedin": "https://linkedin.com/in/nandan-kumar-das",
