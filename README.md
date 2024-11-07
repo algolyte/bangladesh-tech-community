@@ -77,6 +77,17 @@ Check the list [Link](https://techcom.revlox.com/)
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: No
 
+### Md. Fahad Chowdhury
+
+- **Email**: fahadcsedu@gmail.com
+- **LinkedIn**: [linkedin.com/in/fcsabah](https://www.linkedin.com/in/fcsabah)
+- **GitHub**: [github.com/fcsabah](https://github.com/fcsabah)
+- **Experience**: 5+ years
+- **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
+- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Redis, Dragonfly, PostgreSQL, Docker, Elastic Search, Microservices, RestAPIs, Airflow, Design Patterns, Git, Keycloak
+- **Location**: Dhaka, Bangladesh
+- **Remote Work**: Yes
+
 ### Md Mashuqur Rahman
 
 - **Email**: mashuq0068@gmail.com
