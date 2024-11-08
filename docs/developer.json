@@ -66,6 +66,17 @@
         "remoteWork": "No"
     },
     {
+        "name": "Md. Fahad Chowdhury",
+        "email": "fahadcsedu@gmail.com",
+        "linkedin": "https://linkedin.com/in/fcsabah",
+        "github": "https://github.com/fcsabah",
+        "experience": "5+ years",
+        "currentRole": "Software Engineer at [Penta Global Limited](https://www.pentabd.com/)",
+        "skills": "Java, Spring Boot, Python, FastAPI, Django, Redis, Dragonfly, PostgreSQL, Docker, Elastic Search, Microservices, RestAPIs, Airflow, Design Patterns, Git, Keycloak",
+        "location": "Dhaka, Bangladesh",
+        "remoteWork": "Yes"
+    },
+    {
         "name": "Md Mashuqur Rahman",
         "email": "mashuq0068@gmail.com",
         "linkedin": "https://linkedin.com/in/Mashuq",
