@@ -217,3 +217,6 @@ Check the list [Link](https://techcom.revlox.com/)
 - **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
 - **Location**: Dhaka, Bangladesh
 - **Remote Work**: Yes
+
+
+<!-- Security scan triggered at 2025-09-02 03:43:38 -->
