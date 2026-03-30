@@ -1,0 +1,92 @@
+{
+  "slug": "nishat1098",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:14:39.563Z",
+  "error": "GitHub request failed: 403 rate limit exceeded",
+  "data": {
+    "username": "nishat1098",
+    "name": "Nishanul Nishat",
+    "avatar_url": "https://avatars.githubusercontent.com/u/54504238?v=4",
+    "bio": null,
+    "company": "Penta Global Limited",
+    "blog": "",
+    "location": "Dhaka, Bangladesh",
+    "followers": 11,
+    "following": 2,
+    "public_repos": 8,
+    "top_languages": [
+      "JavaScript",
+      "C++",
+      "HTML"
+    ],
+    "detected_skills": [
+      "C++",
+      "HTML",
+      "JavaScript"
+    ],
+    "recent_activity_score": 4,
+    "last_push_at": "2024-11-16T05:01:54Z",
+    "top_repositories": [
+      {
+        "name": "React-PDF-viewer-Main",
+        "html_url": "https://github.com/nishat1098/React-PDF-viewer-Main",
+        "description": "React PDF Viewer API Integration with License",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2022-09-27T09:51:00Z",
+        "topics": []
+      },
+      {
+        "name": "E-Library-PDF-viewer",
+        "html_url": "https://github.com/nishat1098/E-Library-PDF-viewer",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2024-11-16T05:01:54Z",
+        "topics": []
+      },
+      {
+        "name": "RISC-V-CPP-INST",
+        "html_url": "https://github.com/nishat1098/RISC-V-CPP-INST",
+        "description": "A simple Lexical Analyzer to represent the RISC-V Instruction set and operations. ",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C++",
+        "pushed_at": "2022-05-17T06:33:15Z",
+        "topics": []
+      },
+      {
+        "name": "MathGame",
+        "html_url": "https://github.com/nishat1098/MathGame",
+        "description": "A quiz game completely build with C",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2020-12-15T12:06:18Z",
+        "topics": []
+      },
+      {
+        "name": "walliweb",
+        "html_url": "https://github.com/nishat1098/walliweb",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2019-10-15T00:43:34Z",
+        "topics": []
+      },
+      {
+        "name": "nish334",
+        "html_url": "https://github.com/nishat1098/nish334",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2019-10-11T15:26:58Z",
+        "topics": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "mashuq0068",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:15.525Z",
+  "error": null,
+  "data": {
+    "username": "mashuq0068",
+    "name": "Md. Mashuqur Rahman",
+    "avatar_url": "https://avatars.githubusercontent.com/u/138354491?v=4",
+    "bio": "👋 Hello World! I'm Mashuq, a passionate 💻 full-stack developer dedicated to building ✨ seamless, user-centric web applications.",
+    "company": "Code Prophet",
+    "blog": "https://portfolio-mashuq.vercel.app/",
+    "location": "Khulna, Bangladesh",
+    "followers": 1,
+    "following": 0,
+    "public_repos": 95,
+    "top_languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "detected_skills": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "recent_activity_score": 50,
+    "last_push_at": "2026-03-29T16:54:36Z",
+    "top_repositories": [
+      {
+        "name": "clipora-website",
+        "html_url": "https://github.com/mashuq0068/clipora-website",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-03-29T16:54:36Z",
+        "topics": []
+      },
+      {
+        "name": "finris",
+        "html_url": "https://github.com/mashuq0068/finris",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-03-16T09:20:02Z",
+        "topics": []
+      },
+      {
+        "name": "consulo-nextjs",
+        "html_url": "https://github.com/mashuq0068/consulo-nextjs",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-03-16T08:04:47Z",
+        "topics": []
+      },
+      {
+        "name": "medicine-website",
+        "html_url": "https://github.com/mashuq0068/medicine-website",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-02-16T10:43:14Z",
+        "topics": []
+      },
+      {
+        "name": "digital-concierge-frontend-new",
+        "html_url": "https://github.com/mashuq0068/digital-concierge-frontend-new",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-01-31T18:51:21Z",
+        "topics": []
+      },
+      {
+        "name": "email-automation",
+        "html_url": "https://github.com/mashuq0068/email-automation",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2026-01-28T20:04:05Z",
+        "topics": []
+      }
+    ]
+  }
+}

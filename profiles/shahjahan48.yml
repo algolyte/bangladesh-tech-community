@@ -1,0 +1,36 @@
+version: 1
+slug: shahjahan48
+slug_source: github
+name: Md Shahjahan
+email: shahjahan.cseku11@gmail.com
+headline: Senior Software Engineer
+primary_role: Senior Software Engineer
+secondary_roles: []
+experience_years: 8
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - C#
+  - ASP.NET MVC
+  - ASP.NET Core
+  - MSSQL
+  - MySQL
+  - Microservices
+  - Angular
+  - Docker
+  - DevOps
+current_company:
+  name: Dohatec New Media
+  url: https://www.dohatec.com/
+links:
+  github: https://github.com/shahjahan48
+  linkedin: https://www.linkedin.com/in/md-shahjahan-771ba6161
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

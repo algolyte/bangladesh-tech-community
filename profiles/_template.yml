@@ -1,0 +1,36 @@
+version: 1
+
+slug: your-github-username
+slug_source: github
+
+name: Your Name
+email:
+headline: Senior Software Engineer
+primary_role: Backend Engineer
+secondary_roles: []
+
+experience_years: 5
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+
+availability: open_to_opportunities
+remote: true
+
+skills:
+  - TypeScript
+  - Node.js
+  - PostgreSQL
+  - Docker
+
+current_company:
+  name: Example Company
+  url: https://example.com
+
+links:
+  github: https://github.com/your-github-username
+  linkedin: https://www.linkedin.com/in/your-profile
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

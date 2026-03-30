@@ -1,0 +1,31 @@
+version: 1
+slug: mazharul180203
+slug_source: github
+name: Md Mazahrul Islam
+email: mazharul.saurav255@gmail.com
+headline: Assistant Software Engineer
+primary_role: Assistant Software Engineer
+secondary_roles: []
+experience_years: 1
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - JavaScript
+  - C++
+  - React
+  - Node.js
+  - Express
+  - Python
+current_company:
+  name: IDLC Finance PLC
+  url: https://idlc.com/
+links:
+  github: https://github.com/Mazharul180203
+  linkedin: https://www.linkedin.com/in/md-mazharul-islam-53a717262/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

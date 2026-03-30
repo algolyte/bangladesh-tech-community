@@ -1,0 +1,156 @@
+{
+  "slug": "fcsabah",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "fcsabah",
+    "slug_source": "github",
+    "name": "Md. Fahad Chowdhury",
+    "email": "fahadcsedu@gmail.com",
+    "headline": "Software Engineer",
+    "primary_role": "Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 5,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "FastAPI",
+      "Django",
+      "Redis",
+      "Dragonfly",
+      "PostgreSQL",
+      "Docker",
+      "Elasticsearch",
+      "Microservices",
+      "REST APIs",
+      "Airflow",
+      "Design Patterns",
+      "Git",
+      "Keycloak"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/fcsabah",
+      "linkedin": "https://www.linkedin.com/in/fcsabah",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "fcsabah",
+      "name": "Md. Fahad Chowdhury",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11090039?v=4",
+      "bio": "Former Senior Software Engineer at Samsung R&D Institute Bangladesh LTD.",
+      "company": null,
+      "blog": "",
+      "location": "University of Dhaka, Bangladesh.",
+      "followers": 10,
+      "following": 11,
+      "public_repos": 7,
+      "top_languages": [
+        "Python"
+      ],
+      "detected_skills": [
+        "Python"
+      ],
+      "recent_activity_score": 4,
+      "last_push_at": "2024-12-21T05:21:55Z",
+      "top_repositories": [
+        {
+          "name": "VecteezyCrawler",
+          "html_url": "https://github.com/fcsabah/VecteezyCrawler",
+          "description": "Crawl free license icon images from www.vecteezy.com",
+          "stargazers_count": 4,
+          "forks_count": 1,
+          "language": "Python",
+          "pushed_at": "2019-01-14T11:10:56Z",
+          "topics": []
+        },
+        {
+          "name": "fastapi-app",
+          "html_url": "https://github.com/fcsabah/fastapi-app",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2024-12-21T05:21:55Z",
+          "topics": []
+        },
+        {
+          "name": "python-gui-apps",
+          "html_url": "https://github.com/fcsabah/python-gui-apps",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2024-12-16T18:57:27Z",
+          "topics": []
+        },
+        {
+          "name": "MyPingpong-Using-RL",
+          "html_url": "https://github.com/fcsabah/MyPingpong-Using-RL",
+          "description": "Pingpong game playing itself using Reinforcement Learning",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2018-06-21T06:04:20Z",
+          "topics": []
+        },
+        {
+          "name": "pingpong",
+          "html_url": "https://github.com/fcsabah/pingpong",
+          "description": "Using pygame",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2018-06-08T11:44:59Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "Airflow",
+      "Design Patterns",
+      "Django",
+      "Docker",
+      "Dragonfly",
+      "Elasticsearch",
+      "FastAPI",
+      "Git"
+    ],
+    "detected_skills": [
+      "Python"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "5-8 years",
+    "role_keywords": [
+      "Engineer",
+      "Software"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:18:08.657Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.037Z"
+}

@@ -1,0 +1,33 @@
+version: 1
+slug: emarat
+slug_source: github
+name: Md Emarat Hossain
+email: emarathossain00@gmail.com
+headline: Product Manager
+primary_role: Product Manager
+secondary_roles: []
+experience_years: 2
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: false
+skills:
+  - Flutter
+  - Full-Stack Development
+  - PostgreSQL
+  - Python
+  - SQL
+  - Project Leadership
+  - Communication
+  - Software Quality Assurance
+current_company:
+  name: Penta Global Limited
+  url: https://www.pentabd.com/
+links:
+  github: https://github.com/Emarat
+  linkedin: https://www.linkedin.com/in/emarat/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

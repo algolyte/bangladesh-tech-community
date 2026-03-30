@@ -1,0 +1,29 @@
+version: 1
+slug: mashuq0068
+slug_source: github
+name: Md Mashuqur Rahman
+email: mashuq0068@gmail.com
+headline: Junior Frontend Developer
+primary_role: Junior Frontend Developer
+secondary_roles: []
+experience_years: 0.5
+location: Khulna, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - JavaScript
+  - React
+  - Node.js
+  - Express
+current_company:
+  name: Code Prophet
+  url: https://codeprophet.tech/
+links:
+  github: https://github.com/mashuq0068
+  linkedin: https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

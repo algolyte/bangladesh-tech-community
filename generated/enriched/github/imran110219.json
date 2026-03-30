@@ -1,0 +1,100 @@
+{
+  "slug": "imran110219",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:10.713Z",
+  "error": null,
+  "data": {
+    "username": "imran110219",
+    "name": "Sadman Sobhan",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7828744?v=4",
+    "bio": "Code architect by day, digital explorer by night. Turning coffee into elegant solutions and complex problems into elegant architecture.",
+    "company": "Penta Global Ltd",
+    "blog": "https://www.sadmansobhan.com",
+    "location": "Dhaka",
+    "followers": 50,
+    "following": 37,
+    "public_repos": 55,
+    "top_languages": [
+      "Astro",
+      "Go",
+      "TypeScript",
+      "Java",
+      "JavaScript"
+    ],
+    "detected_skills": [
+      "Astro",
+      "Django",
+      "Go",
+      "Java",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "recent_activity_score": 43,
+    "last_push_at": "2026-03-30T07:12:44Z",
+    "top_repositories": [
+      {
+        "name": "imran110219",
+        "html_url": "https://github.com/imran110219/imran110219",
+        "description": "My Github Portfolio",
+        "stargazers_count": 1,
+        "forks_count": 1,
+        "language": null,
+        "pushed_at": "2026-03-30T07:12:44Z",
+        "topics": []
+      },
+      {
+        "name": "event-page",
+        "html_url": "https://github.com/imran110219/event-page",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Astro",
+        "pushed_at": "2026-03-18T10:33:09Z",
+        "topics": []
+      },
+      {
+        "name": "stackctl",
+        "html_url": "https://github.com/imran110219/stackctl",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Go",
+        "pushed_at": "2026-03-09T20:27:26Z",
+        "topics": []
+      },
+      {
+        "name": "vehicle-fare-bd",
+        "html_url": "https://github.com/imran110219/vehicle-fare-bd",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2026-03-04T04:40:49Z",
+        "topics": []
+      },
+      {
+        "name": "demo",
+        "html_url": "https://github.com/imran110219/demo",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 9,
+        "language": "Java",
+        "pushed_at": "2024-09-05T12:29:32Z",
+        "topics": []
+      },
+      {
+        "name": "Book_Review_App",
+        "html_url": "https://github.com/imran110219/Book_Review_App",
+        "description": null,
+        "stargazers_count": 4,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2022-12-08T00:53:21Z",
+        "topics": [
+          "bookreview",
+          "django"
+        ]
+      }
+    ]
+  }
+}

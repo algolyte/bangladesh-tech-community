@@ -1,0 +1,32 @@
+version: 1
+slug: shahjalal2075
+slug_source: github
+name: Mullah Mohammad Shahjalal
+email: shahjalal2075@gmail.com
+headline: Full Stack Developer
+primary_role: Full Stack Developer
+secondary_roles: []
+experience_years: 1
+location: Jashore, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - JavaScript
+  - React
+  - React Native
+  - Node.js
+  - Express
+  - MongoDB
+  - Problem Solving
+current_company:
+  name: Naim IT
+  url: https://naimit.ca
+links:
+  github: https://github.com/Shahjalal2075
+  linkedin: https://www.linkedin.com/in/shahjalal2075
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

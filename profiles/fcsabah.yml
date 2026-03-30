@@ -1,0 +1,41 @@
+version: 1
+slug: fcsabah
+slug_source: github
+name: Md. Fahad Chowdhury
+email: fahadcsedu@gmail.com
+headline: Software Engineer
+primary_role: Software Engineer
+secondary_roles: []
+experience_years: 5
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - Python
+  - FastAPI
+  - Django
+  - Redis
+  - Dragonfly
+  - PostgreSQL
+  - Docker
+  - Elasticsearch
+  - Microservices
+  - REST APIs
+  - Airflow
+  - Design Patterns
+  - Git
+  - Keycloak
+current_company:
+  name: Penta Global Limited
+  url: https://www.pentabd.com/
+links:
+  github: https://github.com/fcsabah
+  linkedin: https://www.linkedin.com/in/fcsabah
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

@@ -1,0 +1,101 @@
+{
+  "slug": "mazharku",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:17.108Z",
+  "error": null,
+  "data": {
+    "username": "mazharku",
+    "name": "Mazhar Ibna Zahur",
+    "avatar_url": "https://avatars.githubusercontent.com/u/25690560?v=4",
+    "bio": null,
+    "company": "Tiller ",
+    "blog": "",
+    "location": "Dhaka Bangladesh",
+    "followers": 7,
+    "following": 14,
+    "public_repos": 36,
+    "top_languages": [
+      "Java",
+      "Go"
+    ],
+    "detected_skills": [
+      "Go",
+      "Java",
+      "Kotlin",
+      "Spring Boot"
+    ],
+    "recent_activity_score": 8,
+    "last_push_at": "2025-08-17T06:47:57Z",
+    "top_repositories": [
+      {
+        "name": "FluidMQTT",
+        "html_url": "https://github.com/mazharku/FluidMQTT",
+        "description": "a simple java swing based mqtt client subscriber application based on Eclipse Paho and mosquitto broker using java 8, swing, miglayout, maven",
+        "stargazers_count": 2,
+        "forks_count": 1,
+        "language": "Java",
+        "pushed_at": "2020-03-14T10:47:40Z",
+        "topics": []
+      },
+      {
+        "name": "go-sqlc-echo-crud",
+        "html_url": "https://github.com/mazharku/go-sqlc-echo-crud",
+        "description": "GoLang, SQLC, Echo framework and Postgres",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "language": "Go",
+        "pushed_at": "2021-04-09T15:56:58Z",
+        "topics": []
+      },
+      {
+        "name": "FunctionalProgramming",
+        "html_url": "https://github.com/mazharku/FunctionalProgramming",
+        "description": "Here, I will discuss functional programming based on JVM languages. My primary targets are Java and Kotlin.",
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Java",
+        "pushed_at": "2023-03-02T18:00:33Z",
+        "topics": [
+          "functional-programming",
+          "java",
+          "kotlin"
+        ]
+      },
+      {
+        "name": "Quarkus-Authentication-Service",
+        "html_url": "https://github.com/mazharku/Quarkus-Authentication-Service",
+        "description": "JWT based authentication implementation with Quarkus ",
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Java",
+        "pushed_at": "2024-10-01T18:55:55Z",
+        "topics": []
+      },
+      {
+        "name": "jdc-simple-user-management-example",
+        "html_url": "https://github.com/mazharku/jdc-simple-user-management-example",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Java",
+        "pushed_at": "2024-12-21T18:09:02Z",
+        "topics": []
+      },
+      {
+        "name": "microblogging-reactive",
+        "html_url": "https://github.com/mazharku/microblogging-reactive",
+        "description": "sample project for spring web flux. ",
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Java",
+        "pushed_at": "2024-06-06T07:46:20Z",
+        "topics": [
+          "r2dbc",
+          "reactive-programming",
+          "spring-boot",
+          "webflux"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "mazharul180203",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "mazharul180203",
+    "slug_source": "github",
+    "name": "Md Mazahrul Islam",
+    "email": "mazharul.saurav255@gmail.com",
+    "headline": "Assistant Software Engineer",
+    "primary_role": "Assistant Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 1,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "JavaScript",
+      "C++",
+      "React",
+      "Node.js",
+      "Express",
+      "Python"
+    ],
+    "current_company": {
+      "name": "IDLC Finance PLC",
+      "url": "https://idlc.com/"
+    },
+    "links": {
+      "github": "https://github.com/Mazharul180203",
+      "linkedin": "https://www.linkedin.com/in/md-mazharul-islam-53a717262/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "mazharul180203",
+      "name": "Md. Mazharul Islam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122906565?v=4",
+      "bio": "Software Engineer",
+      "company": "IDLC Finance PLC",
+      "blog": "",
+      "location": "Gulshan 1, Dhaka, Bangladesh",
+      "followers": 0,
+      "following": 0,
+      "public_repos": 26,
+      "top_languages": [
+        "C#",
+        "JavaScript"
+      ],
+      "detected_skills": [
+        "C#",
+        "JavaScript"
+      ],
+      "recent_activity_score": 13,
+      "last_push_at": "2026-03-11T19:46:43Z",
+      "top_repositories": [
+        {
+          "name": "Home-Rent",
+          "html_url": "https://github.com/Mazharul180203/Home-Rent",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "C#",
+          "pushed_at": "2026-03-11T19:46:43Z",
+          "topics": []
+        },
+        {
+          "name": "FileUpload",
+          "html_url": "https://github.com/Mazharul180203/FileUpload",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2024-12-04T08:32:25Z",
+          "topics": []
+        },
+        {
+          "name": "Report",
+          "html_url": "https://github.com/Mazharul180203/Report",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 1,
+          "language": "JavaScript",
+          "pushed_at": "2024-10-02T11:47:13Z",
+          "topics": []
+        },
+        {
+          "name": "ERP_API_V2",
+          "html_url": "https://github.com/Mazharul180203/ERP_API_V2",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2025-11-20T19:38:13Z",
+          "topics": []
+        },
+        {
+          "name": "ERP-UI",
+          "html_url": "https://github.com/Mazharul180203/ERP-UI",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2025-11-20T19:30:48Z",
+          "topics": []
+        },
+        {
+          "name": "Mazharul180203",
+          "html_url": "https://github.com/Mazharul180203/Mazharul180203",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": null,
+          "pushed_at": "2025-08-18T03:00:56Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "C#",
+      "C++",
+      "Express",
+      "JavaScript",
+      "Node.js",
+      "Python",
+      "React"
+    ],
+    "detected_skills": [
+      "C#",
+      "JavaScript"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "1-3 years",
+    "role_keywords": [
+      "Assistant",
+      "Engineer",
+      "Software"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:18:17.981Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.040Z"
+}

@@ -1,0 +1,160 @@
+{
+  "slug": "nabil053",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "nabil053",
+    "slug_source": "github",
+    "name": "Nabil Ahmed",
+    "email": "nabil.cse.53@gmail.com",
+    "headline": "Student",
+    "primary_role": "Student",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Fredericton, New Brunswick, Canada",
+    "country": "Canada",
+    "timezone": "America/Halifax",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "REST APIs",
+      "Problem Solving",
+      "Data Analysis"
+    ],
+    "current_company": {
+      "name": "University of New Brunswick",
+      "url": "https://www.unb.ca/"
+    },
+    "links": {
+      "github": "https://github.com/nabil053",
+      "linkedin": "https://www.linkedin.com/in/nabil-ahmed-900601195/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "nabil053",
+      "name": "Nabil Ahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37997187?v=4",
+      "bio": null,
+      "company": null,
+      "blog": "",
+      "location": "Dhaka, Bangladesh",
+      "followers": 2,
+      "following": 4,
+      "public_repos": 19,
+      "top_languages": [
+        "HTML",
+        "Python"
+      ],
+      "detected_skills": [
+        "HTML",
+        "Python"
+      ],
+      "recent_activity_score": 5,
+      "last_push_at": "2021-09-20T19:27:52Z",
+      "top_repositories": [
+        {
+          "name": "Bangladeshi-Traffic-Sign-Detection-And-Recognition-System",
+          "html_url": "https://github.com/nabil053/Bangladeshi-Traffic-Sign-Detection-And-Recognition-System",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2021-09-20T19:27:52Z",
+          "topics": []
+        },
+        {
+          "name": "Water-Drinkability-Predictor",
+          "html_url": "https://github.com/nabil053/Water-Drinkability-Predictor",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2021-09-18T16:04:30Z",
+          "topics": []
+        },
+        {
+          "name": "Mushroom-Edibility-Predictor",
+          "html_url": "https://github.com/nabil053/Mushroom-Edibility-Predictor",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2021-09-17T10:40:44Z",
+          "topics": []
+        },
+        {
+          "name": "My-CV-DOM",
+          "html_url": "https://github.com/nabil053/My-CV-DOM",
+          "description": "Personal CV with interactive features rendered using HTML, Tailwind and Javascript",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "HTML",
+          "pushed_at": "2021-05-23T05:03:23Z",
+          "topics": []
+        },
+        {
+          "name": "My-CV-Tailwind",
+          "html_url": "https://github.com/nabil053/My-CV-Tailwind",
+          "description": "Personal CV rendered using HTML and Tailwind",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "HTML",
+          "pushed_at": "2021-05-20T10:27:53Z",
+          "topics": []
+        },
+        {
+          "name": "My-CV-HTML",
+          "html_url": "https://github.com/nabil053/My-CV-HTML",
+          "description": "Personal CV rendered using HTML and CSS",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "HTML",
+          "pushed_at": "2021-05-19T17:36:01Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "Data Analysis",
+      "HTML",
+      "Java",
+      "MySQL",
+      "PostgreSQL",
+      "Problem Solving",
+      "Python",
+      "REST APIs"
+    ],
+    "detected_skills": [
+      "HTML",
+      "Python"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "1-3 years",
+    "role_keywords": [
+      "Student"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:18:19.611Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.041Z"
+}

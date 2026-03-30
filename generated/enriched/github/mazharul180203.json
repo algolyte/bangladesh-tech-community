@@ -1,0 +1,90 @@
+{
+  "slug": "mazharul180203",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:17.981Z",
+  "error": null,
+  "data": {
+    "username": "mazharul180203",
+    "name": "Md. Mazharul Islam",
+    "avatar_url": "https://avatars.githubusercontent.com/u/122906565?v=4",
+    "bio": "Software Engineer",
+    "company": "IDLC Finance PLC",
+    "blog": "",
+    "location": "Gulshan 1, Dhaka, Bangladesh",
+    "followers": 0,
+    "following": 0,
+    "public_repos": 26,
+    "top_languages": [
+      "C#",
+      "JavaScript"
+    ],
+    "detected_skills": [
+      "C#",
+      "JavaScript"
+    ],
+    "recent_activity_score": 13,
+    "last_push_at": "2026-03-11T19:46:43Z",
+    "top_repositories": [
+      {
+        "name": "Home-Rent",
+        "html_url": "https://github.com/Mazharul180203/Home-Rent",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C#",
+        "pushed_at": "2026-03-11T19:46:43Z",
+        "topics": []
+      },
+      {
+        "name": "FileUpload",
+        "html_url": "https://github.com/Mazharul180203/FileUpload",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2024-12-04T08:32:25Z",
+        "topics": []
+      },
+      {
+        "name": "Report",
+        "html_url": "https://github.com/Mazharul180203/Report",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 1,
+        "language": "JavaScript",
+        "pushed_at": "2024-10-02T11:47:13Z",
+        "topics": []
+      },
+      {
+        "name": "ERP_API_V2",
+        "html_url": "https://github.com/Mazharul180203/ERP_API_V2",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-11-20T19:38:13Z",
+        "topics": []
+      },
+      {
+        "name": "ERP-UI",
+        "html_url": "https://github.com/Mazharul180203/ERP-UI",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-11-20T19:30:48Z",
+        "topics": []
+      },
+      {
+        "name": "Mazharul180203",
+        "html_url": "https://github.com/Mazharul180203/Mazharul180203",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2025-08-18T03:00:56Z",
+        "topics": []
+      }
+    ]
+  }
+}

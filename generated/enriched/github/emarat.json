@@ -1,0 +1,94 @@
+{
+  "slug": "emarat",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:07.738Z",
+  "error": null,
+  "data": {
+    "username": "emarat",
+    "name": "Md Emarat Hossain",
+    "avatar_url": "https://avatars.githubusercontent.com/u/49222013?v=4",
+    "bio": null,
+    "company": null,
+    "blog": "https://emarat.netlify.app/",
+    "location": "Dhaka, Bangladesh",
+    "followers": 1,
+    "following": 0,
+    "public_repos": 34,
+    "top_languages": [
+      "Python",
+      "JavaScript",
+      "Dart",
+      "TypeScript"
+    ],
+    "detected_skills": [
+      "Dart",
+      "JavaScript",
+      "Python",
+      "TypeScript"
+    ],
+    "recent_activity_score": 13,
+    "last_push_at": "2026-03-12T07:47:00Z",
+    "top_repositories": [
+      {
+        "name": "org-management",
+        "html_url": "https://github.com/Emarat/org-management",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2026-03-12T07:47:00Z",
+        "topics": []
+      },
+      {
+        "name": "flutter-text_recognizer-using-ML",
+        "html_url": "https://github.com/Emarat/flutter-text_recognizer-using-ML",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 1,
+        "language": "Dart",
+        "pushed_at": "2023-01-16T05:01:50Z",
+        "topics": []
+      },
+      {
+        "name": "ec-playwright-automation",
+        "html_url": "https://github.com/Emarat/ec-playwright-automation",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-08-18T09:13:54Z",
+        "topics": []
+      },
+      {
+        "name": "reeact_redux_crud",
+        "html_url": "https://github.com/Emarat/reeact_redux_crud",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2023-07-14T15:33:47Z",
+        "topics": []
+      },
+      {
+        "name": "voucher_management_backend",
+        "html_url": "https://github.com/Emarat/voucher_management_backend",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2023-07-06T06:49:54Z",
+        "topics": []
+      },
+      {
+        "name": "PayloadCMS",
+        "html_url": "https://github.com/Emarat/PayloadCMS",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2022-10-25T08:38:23Z",
+        "topics": []
+      }
+    ]
+  }
+}

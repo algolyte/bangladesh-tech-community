@@ -1,0 +1,140 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bangladesh Tech Community Profile",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "version",
+    "slug",
+    "slug_source",
+    "name",
+    "headline",
+    "primary_role",
+    "experience_years",
+    "location",
+    "country",
+    "timezone",
+    "availability",
+    "remote",
+    "skills",
+    "links"
+  ],
+  "properties": {
+    "version": {
+      "type": "integer",
+      "const": 1
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "slug_source": {
+      "type": "string",
+      "enum": ["github", "name"]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 2
+    },
+    "email": {
+      "type": ["string", "null"],
+      "format": "email"
+    },
+    "headline": {
+      "type": "string",
+      "minLength": 2
+    },
+    "primary_role": {
+      "type": "string",
+      "minLength": 2
+    },
+    "secondary_roles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "experience_years": {
+      "type": "number",
+      "minimum": 0
+    },
+    "location": {
+      "type": "string",
+      "minLength": 2
+    },
+    "country": {
+      "type": "string",
+      "minLength": 2
+    },
+    "timezone": {
+      "type": "string",
+      "minLength": 2
+    },
+    "availability": {
+      "type": "string",
+      "enum": [
+        "available_now",
+        "open_to_opportunities",
+        "available_in_2_weeks",
+        "not_available",
+        "unknown"
+      ]
+    },
+    "remote": {
+      "type": "boolean"
+    },
+    "skills": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "current_company": {
+      "type": ["object", "null"],
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": ["string", "null"],
+          "format": "uri"
+        }
+      }
+    },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["github", "linkedin", "portfolio", "gitlab", "stackoverflow", "blog"],
+      "properties": {
+        "github": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "linkedin": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "portfolio": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "gitlab": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "stackoverflow": {
+          "type": ["string", "null"],
+          "format": "uri"
+        },
+        "blog": {
+          "type": ["string", "null"],
+          "format": "uri"
+        }
+      }
+    }
+  }
+}

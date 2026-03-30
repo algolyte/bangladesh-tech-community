@@ -1,0 +1,92 @@
+{
+  "slug": "plaboncosta",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:14:40.590Z",
+  "error": "GitHub request failed: 403 rate limit exceeded",
+  "data": {
+    "username": "plaboncosta",
+    "name": "Plabon Joseph Costa",
+    "avatar_url": "https://avatars.githubusercontent.com/u/47302901?v=4",
+    "bio": "🛠️ Engineer of ideas, builder of backend dreams. \r\n☕ Fueled by coffee, driven by curiosity.\r\n💡 Writing code that talks less and does more.\r\n\r\n",
+    "company": "Penta Global Ltd",
+    "blog": "",
+    "location": "Dhaka",
+    "followers": 9,
+    "following": 7,
+    "public_repos": 14,
+    "top_languages": [
+      "Java",
+      "Python",
+      "Go"
+    ],
+    "detected_skills": [
+      "Go",
+      "Java",
+      "Python"
+    ],
+    "recent_activity_score": 5,
+    "last_push_at": "2025-08-04T10:52:56Z",
+    "top_repositories": [
+      {
+        "name": "plaboncosta",
+        "html_url": "https://github.com/plaboncosta/plaboncosta",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2025-08-04T10:52:56Z",
+        "topics": []
+      },
+      {
+        "name": "django-jazzmin-template-research",
+        "html_url": "https://github.com/plaboncosta/django-jazzmin-template-research",
+        "description": "Research and experimentation repository for customizing Django Admin UI using Jazzmin template for a modern, clean, and user-friendly admin interface.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2025-08-03T13:26:47Z",
+        "topics": []
+      },
+      {
+        "name": "maleware-sandbox-simulator",
+        "html_url": "https://github.com/plaboncosta/maleware-sandbox-simulator",
+        "description": "Safely execute non-infectious malware samples in a controlled environment and log behavioral indicators (filesystem, network, process activity).",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2025-07-31T13:20:25Z",
+        "topics": []
+      },
+      {
+        "name": "golang-tutorial",
+        "html_url": "https://github.com/plaboncosta/golang-tutorial",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Go",
+        "pushed_at": "2025-02-20T13:19:06Z",
+        "topics": []
+      },
+      {
+        "name": "grpc-spring-boot-server",
+        "html_url": "https://github.com/plaboncosta/grpc-spring-boot-server",
+        "description": "gRPC Spring Boot Server",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Java",
+        "pushed_at": "2024-10-08T14:20:33Z",
+        "topics": []
+      },
+      {
+        "name": "grpc-spring-boot-client",
+        "html_url": "https://github.com/plaboncosta/grpc-spring-boot-client",
+        "description": "gRPC Spring Boot Client",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Java",
+        "pushed_at": "2024-10-08T14:16:10Z",
+        "topics": []
+      }
+    ]
+  }
+}

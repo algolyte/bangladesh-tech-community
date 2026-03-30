@@ -1,0 +1,178 @@
+{
+  "slug": "vimrul",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "vimrul",
+    "slug_source": "github",
+    "name": "Mohammad Imrul Hasan",
+    "email": "viimrul@gmail.com",
+    "headline": "DevOps Engineer",
+    "primary_role": "DevOps Engineer",
+    "secondary_roles": [],
+    "experience_years": 13,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab",
+      "ArgoCD",
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "DragonflyDB",
+      "StackGres",
+      "Istio",
+      "Calico",
+      "Kiali",
+      "Keycloak",
+      "Nginx",
+      "Apache"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://pentaglobal.com"
+    },
+    "links": {
+      "github": "https://github.com/vimrul",
+      "linkedin": "https://www.linkedin.com/in/imrull",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "vimrul",
+      "name": "Mohammad Imrul Hasan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3600805?v=4",
+      "bio": "Professional procrastinator on a quest to break the world record for most unfinished projects.",
+      "company": null,
+      "blog": "https://imrul.net/",
+      "location": "Dhaka",
+      "followers": 10,
+      "following": 20,
+      "public_repos": 49,
+      "top_languages": [
+        "Shell",
+        "Python",
+        "CSS"
+      ],
+      "detected_skills": [
+        "CSS",
+        "Python",
+        "Shell"
+      ],
+      "recent_activity_score": 6,
+      "last_push_at": "2025-12-19T06:32:33Z",
+      "top_repositories": [
+        {
+          "name": "docker-jellyfin-sonarr-radarr-stack",
+          "html_url": "https://github.com/vimrul/docker-jellyfin-sonarr-radarr-stack",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": null,
+          "pushed_at": "2025-04-02T18:58:14Z",
+          "topics": []
+        },
+        {
+          "name": "kafka-kraft-observability-stack",
+          "html_url": "https://github.com/vimrul/kafka-kraft-observability-stack",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "Shell",
+          "pushed_at": "2025-11-11T07:37:37Z",
+          "topics": []
+        },
+        {
+          "name": "devops",
+          "html_url": "https://github.com/vimrul/devops",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "Shell",
+          "pushed_at": "2024-02-25T06:35:52Z",
+          "topics": []
+        },
+        {
+          "name": "locust-load-testing-framework",
+          "html_url": "https://github.com/vimrul/locust-load-testing-framework",
+          "description": "This repository contains a Locust-based stress testing and performance benchmarking framework for APIs and microservices. ",
+          "stargazers_count": 0,
+          "forks_count": 1,
+          "language": "Python",
+          "pushed_at": "2025-03-10T05:19:28Z",
+          "topics": []
+        },
+        {
+          "name": "NFS-Load-Mini-App",
+          "html_url": "https://github.com/vimrul/NFS-Load-Mini-App",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2025-12-19T06:32:33Z",
+          "topics": []
+        },
+        {
+          "name": "simple-video-manager",
+          "html_url": "https://github.com/vimrul/simple-video-manager",
+          "description": "simple-video-manager",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "CSS",
+          "pushed_at": "2025-12-12T15:14:56Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "Apache",
+      "ArgoCD",
+      "AWS",
+      "Azure",
+      "Calico",
+      "CSS",
+      "Docker",
+      "DragonflyDB"
+    ],
+    "detected_skills": [
+      "CSS",
+      "Python",
+      "Shell"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "8+ years",
+    "role_keywords": [
+      "DevOps",
+      "Engineer"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:14:51.644Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "GitHub request failed: 403 rate limit exceeded",
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.048Z"
+}

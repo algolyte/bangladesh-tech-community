@@ -1,0 +1,163 @@
+{
+  "slug": "shahjalal2075",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "shahjalal2075",
+    "slug_source": "github",
+    "name": "Mullah Mohammad Shahjalal",
+    "email": "shahjalal2075@gmail.com",
+    "headline": "Full Stack Developer",
+    "primary_role": "Full Stack Developer",
+    "secondary_roles": [],
+    "experience_years": 1,
+    "location": "Jashore, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Problem Solving"
+    ],
+    "current_company": {
+      "name": "Naim IT",
+      "url": "https://naimit.ca"
+    },
+    "links": {
+      "github": "https://github.com/Shahjalal2075",
+      "linkedin": "https://www.linkedin.com/in/shahjalal2075",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "shahjalal2075",
+      "name": "Mullah Mohammad Shahjalal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/124200558?v=4",
+      "bio": "I'm a Front-End Developer who loves creating beautiful and responsive web applications using React JS, Node JS, Express JS, and MongoDB.",
+      "company": null,
+      "blog": "",
+      "location": "Khulna, Bangladesh",
+      "followers": 6,
+      "following": 1,
+      "public_repos": 47,
+      "top_languages": [
+        "JavaScript"
+      ],
+      "detected_skills": [
+        "employee management system",
+        "JavaScript"
+      ],
+      "recent_activity_score": 13,
+      "last_push_at": "2026-01-30T21:45:20Z",
+      "top_repositories": [
+        {
+          "name": "basic-setup",
+          "html_url": "https://github.com/Shahjalal2075/basic-setup",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2026-01-30T21:45:20Z",
+          "topics": []
+        },
+        {
+          "name": "review-task-admin",
+          "html_url": "https://github.com/Shahjalal2075/review-task-admin",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2026-01-06T19:39:53Z",
+          "topics": []
+        },
+        {
+          "name": "review-task-server",
+          "html_url": "https://github.com/Shahjalal2075/review-task-server",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2026-01-04T19:48:13Z",
+          "topics": []
+        },
+        {
+          "name": "employee-management",
+          "html_url": "https://github.com/Shahjalal2075/employee-management",
+          "description": "From the employee management website an admin can view all the employees and HR of his company. An HR can view the work of all the employees in his company, can pay the employees.  An employee can add his daily work updates and view his payment history.",
+          "stargazers_count": 1,
+          "forks_count": 1,
+          "language": "JavaScript",
+          "pushed_at": "2024-01-11T15:09:37Z",
+          "topics": [
+            "employee-management-system"
+          ]
+        },
+        {
+          "name": "learn-haven",
+          "html_url": "https://github.com/Shahjalal2075/learn-haven",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2025-08-27T14:16:55Z",
+          "topics": []
+        },
+        {
+          "name": "news-portal-server",
+          "html_url": "https://github.com/Shahjalal2075/news-portal-server",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2025-04-25T10:52:41Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "employee management system",
+      "Express",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "Problem Solving",
+      "React",
+      "React Native"
+    ],
+    "detected_skills": [
+      "employee management system",
+      "JavaScript"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "1-3 years",
+    "role_keywords": [
+      "Developer",
+      "Full",
+      "Stack"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:14:46.121Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "GitHub request failed: 403 rate limit exceeded",
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.047Z"
+}

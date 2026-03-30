@@ -1,0 +1,32 @@
+version: 1
+slug: zahidhasanpapon
+slug_source: github
+name: Zahid Hasan
+email: zahidhasanpapon@gmail.com
+headline: Software Engineer
+primary_role: Software Engineer
+secondary_roles: []
+experience_years: 2
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - Python
+  - Django
+  - Docker
+  - Redis
+  - RabbitMQ
+current_company:
+  name: Penta Global Limited
+  url: https://www.pentabd.com/
+links:
+  github: https://github.com/zahidhasanpapon
+  linkedin: https://www.linkedin.com/in/zahidhasanpapon/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

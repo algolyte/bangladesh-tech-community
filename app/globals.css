@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #f6f2ea;
+  --foreground: #111827;
+  --card: rgba(255, 255, 255, 0.78);
+  --card-border: rgba(17, 24, 39, 0.08);
+  --accent: #c2410c;
+  --accent-soft: #ffedd5;
+  --muted: #6b7280;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top right, rgba(20, 83, 45, 0.12), transparent 28%),
+    radial-gradient(circle at left top, rgba(194, 65, 12, 0.16), transparent 24%),
+    linear-gradient(180deg, #faf7f2 0%, #f5efe6 100%);
+  color: var(--foreground);
+}
+
+a {
+  color: inherit;
+}
+
+.shell {
+  @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.surface {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  backdrop-filter: blur(18px);
+}
+
+.section-title {
+  @apply font-display text-3xl font-semibold tracking-tight text-ink sm:text-4xl;
+}
+
+.eyebrow {
+  @apply text-xs font-semibold uppercase tracking-[0.22em] text-ember;
+}
+
+.metric-card {
+  @apply surface rounded-3xl p-6 shadow-soft;
+}
+
+.pill {
+  @apply inline-flex items-center rounded-full border border-black/10 bg-white/80 px-3 py-1 text-xs font-medium text-ink;
+}

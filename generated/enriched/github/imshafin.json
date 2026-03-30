@@ -1,0 +1,74 @@
+{
+  "slug": "imshafin",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:11.626Z",
+  "error": null,
+  "data": {
+    "username": "imshafin",
+    "name": "Izazur Rahman Shafin",
+    "avatar_url": "https://avatars.githubusercontent.com/u/98324351?v=4",
+    "bio": null,
+    "company": "Penta Global LTD",
+    "blog": "https://www.linkedin.com/in/izazurrahmanshafin/",
+    "location": "Dhaka, Bangladesh",
+    "followers": 6,
+    "following": 32,
+    "public_repos": 7,
+    "top_languages": [
+      "HTML",
+      "C++",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "detected_skills": [
+      "C++",
+      "HTML",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "recent_activity_score": 5,
+    "last_push_at": "2026-01-28T19:28:17Z",
+    "top_repositories": [
+      {
+        "name": "imshafin.github.io",
+        "html_url": "https://github.com/imShafin/imshafin.github.io",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2026-01-28T19:28:17Z",
+        "topics": []
+      },
+      {
+        "name": "automation-with-playwright",
+        "html_url": "https://github.com/imShafin/automation-with-playwright",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "TypeScript",
+        "pushed_at": "2025-08-24T07:28:42Z",
+        "topics": []
+      },
+      {
+        "name": "cityfinder",
+        "html_url": "https://github.com/imShafin/cityfinder",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-06-26T02:14:29Z",
+        "topics": []
+      },
+      {
+        "name": "Online-Real-time-Home-Utility-Tracker",
+        "html_url": "https://github.com/imShafin/Online-Real-time-Home-Utility-Tracker",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C++",
+        "pushed_at": "2024-01-15T07:54:39Z",
+        "topics": []
+      }
+    ]
+  }
+}

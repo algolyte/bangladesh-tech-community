@@ -1,0 +1,155 @@
+{
+  "slug": "mashuq0068",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "mashuq0068",
+    "slug_source": "github",
+    "name": "Md Mashuqur Rahman",
+    "email": "mashuq0068@gmail.com",
+    "headline": "Junior Frontend Developer",
+    "primary_role": "Junior Frontend Developer",
+    "secondary_roles": [],
+    "experience_years": 0.5,
+    "location": "Khulna, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express"
+    ],
+    "current_company": {
+      "name": "Code Prophet",
+      "url": "https://codeprophet.tech/"
+    },
+    "links": {
+      "github": "https://github.com/mashuq0068",
+      "linkedin": "https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "mashuq0068",
+      "name": "Md. Mashuqur Rahman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/138354491?v=4",
+      "bio": "👋 Hello World! I'm Mashuq, a passionate 💻 full-stack developer dedicated to building ✨ seamless, user-centric web applications.",
+      "company": "Code Prophet",
+      "blog": "https://portfolio-mashuq.vercel.app/",
+      "location": "Khulna, Bangladesh",
+      "followers": 1,
+      "following": 0,
+      "public_repos": 95,
+      "top_languages": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "detected_skills": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "recent_activity_score": 50,
+      "last_push_at": "2026-03-29T16:54:36Z",
+      "top_repositories": [
+        {
+          "name": "clipora-website",
+          "html_url": "https://github.com/mashuq0068/clipora-website",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2026-03-29T16:54:36Z",
+          "topics": []
+        },
+        {
+          "name": "finris",
+          "html_url": "https://github.com/mashuq0068/finris",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "TypeScript",
+          "pushed_at": "2026-03-16T09:20:02Z",
+          "topics": []
+        },
+        {
+          "name": "consulo-nextjs",
+          "html_url": "https://github.com/mashuq0068/consulo-nextjs",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "TypeScript",
+          "pushed_at": "2026-03-16T08:04:47Z",
+          "topics": []
+        },
+        {
+          "name": "medicine-website",
+          "html_url": "https://github.com/mashuq0068/medicine-website",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "TypeScript",
+          "pushed_at": "2026-02-16T10:43:14Z",
+          "topics": []
+        },
+        {
+          "name": "digital-concierge-frontend-new",
+          "html_url": "https://github.com/mashuq0068/digital-concierge-frontend-new",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "TypeScript",
+          "pushed_at": "2026-01-31T18:51:21Z",
+          "topics": []
+        },
+        {
+          "name": "email-automation",
+          "html_url": "https://github.com/mashuq0068/email-automation",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2026-01-28T20:04:05Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "Express",
+      "JavaScript",
+      "Node.js",
+      "React",
+      "TypeScript"
+    ],
+    "detected_skills": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "0-1 years",
+    "role_keywords": [
+      "Developer",
+      "Frontend",
+      "Junior"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:18:15.525Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.039Z"
+}

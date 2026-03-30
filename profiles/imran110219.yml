@@ -1,0 +1,29 @@
+version: 1
+slug: imran110219
+slug_source: github
+name: Sadman Sobhan
+email: imran110219@gmail.com
+headline: Senior Software Engineer
+primary_role: Senior Software Engineer
+secondary_roles: []
+experience_years: 8
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - Kubernetes
+  - DevOps
+current_company:
+  name: Penta Global Limited
+  url: https://www.pentabd.com/
+links:
+  github: https://github.com/imran110219
+  linkedin: https://www.linkedin.com/in/sadman
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

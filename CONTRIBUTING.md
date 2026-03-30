@@ -1,73 +1,68 @@
-# Contributing to tech-professionals-bangladesh
-We welcome contributions from developers and tech professionals to showcase Bangladeshi talent worldwide. Please follow these steps to add your information to the repository.
+# Contributing
 
-## How to Contribute
-### 1. Fork the Repository
-   * Click the "Fork" button in the top-right corner of this repository to create a copy of it in your GitHub account.
-### 2. Clone the Repository
-   * Clone your forked repository to your local machine using the command:
+This repository is a static directory of Bangladeshi tech professionals. The source of truth is now:
 
-   ```
-   git clone https://github.com/your-username/tech-professionals-bangladesh.git
-   ```
+`profiles/*.yml`
 
-### 3. Create a New Branch
-   * Create a new branch for your changes:
-   
-   ```
-   git checkout -b add-your-name
-   ```
+## Quick start
 
-### 4. Add Your Information Alphabetically
-   * Open the README.md file.
-   * Scroll to the List of Developers section.
-   * Add your information alphabetically by first name in the following format:
+1. Fork the repository.
+2. Create a new branch.
+3. Copy `profiles/_template.yml` to `profiles/<your-github-username>.yml`.
+4. Fill in your information.
+5. Run `npm install` and `npm run validate`.
+6. Open a pull request.
 
-   ```markdown
-### [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [your-linkedin-url](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [your-github-url](https://github.com/your-username)
-- **Experience**: X+ years
-- **Current Role**: Your Role at [Company](https://company.com)
-- **Skills**: Skill 1, Skill 2, Skill 3
-- **Location**: City, Country
-- **Remote Work**: Yes/No
-   ```
-Example
-If your name is "John Doe," your addition might look like this: 
+## Profile rules
 
-```markdown
-### John Doe
-- **Email**: john.doe@example.com
-- **LinkedIn**: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- **GitHub**: [github.com/johndoe](https://github.com/johndoe)
-- **Experience**: 5+ years
-- **Current Role**: Software Engineer at [Company](https://company.com)
-- **Skills**: Python, Django, AWS
-- **Location**: Toronto, Canada
-- **Remote Work**: Yes
+- One contributor profile per file.
+- Filename must match `slug`.
+- If you have a GitHub profile, use your GitHub username as the filename and slug.
+- If you do not have GitHub, use a slugified version of your name and set `slug_source: name`.
+- `version: 1` is required.
+- `availability` must be one of:
+  - `available_now`
+  - `open_to_opportunities`
+  - `available_in_2_weeks`
+  - `not_available`
+  - `unknown`
+- `skills` must be an array of strings.
+- `experience_years` must be numeric.
+- LinkedIn URLs are validated but never scraped.
+
+## What gets enriched automatically
+
+- GitHub username, public profile metadata, public repos, languages, repo activity, and detected GitHub skills.
+- Portfolio title, meta description, canonical URL, OG image, and a few lightweight link signals.
+
+## What does not get scraped
+
+- LinkedIn
+- Private repositories
+- Deep portfolio crawling
+
+## Local commands
+
+```bash
+npm run validate
+npm run build:submitted
+npm run enrich:github
+npm run enrich:portfolio
+npm run build:data
+npm run build:dashboard
+npm run sync
 ```
 
-**Note** If any of the fields are not applicable, write "N/A" in place of the information.
+## Generated files
 
-### 5. Commit Your Changes
-   * Once you’ve added your information, commit your changes:
-    
-   ```
-   git add README.md
-   git commit -m "Add John Doe to the list of developers"
-   ```
+Do not edit generated JSON by hand unless a maintainer explicitly asks for it.
 
-### 6. Push Your Changes
-   * Push the changes to your forked repository:
-   ```
-   git push origin add-your-name
-   ```
+- `generated/developers/<slug>.json`
+- `generated/developers.index.json`
+- `generated/dashboard/dashboard.json`
 
-### 7. Create a Pull Request
-   * Go to the original repository on GitHub and click the “New Pull Request” button.
-   * Ensure your branch is selected and submit the pull request for review.
-### 8. Wait for Approval
-   * Once your pull request is reviewed and approved, it will be merged into the main repository.
-   * Thank you for contributing and helping to build the Bangladeshi tech community worldwide!
+## Notes for maintainers
+
+- Keep manual submitted data and machine-enriched data separate.
+- Preserve missing or ambiguous legacy values honestly.
+- Avoid adding infrastructure that makes contribution harder.

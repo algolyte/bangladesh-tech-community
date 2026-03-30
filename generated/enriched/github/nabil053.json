@@ -1,0 +1,90 @@
+{
+  "slug": "nabil053",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:19.611Z",
+  "error": null,
+  "data": {
+    "username": "nabil053",
+    "name": "Nabil Ahmed",
+    "avatar_url": "https://avatars.githubusercontent.com/u/37997187?v=4",
+    "bio": null,
+    "company": null,
+    "blog": "",
+    "location": "Dhaka, Bangladesh",
+    "followers": 2,
+    "following": 4,
+    "public_repos": 19,
+    "top_languages": [
+      "HTML",
+      "Python"
+    ],
+    "detected_skills": [
+      "HTML",
+      "Python"
+    ],
+    "recent_activity_score": 5,
+    "last_push_at": "2021-09-20T19:27:52Z",
+    "top_repositories": [
+      {
+        "name": "Bangladeshi-Traffic-Sign-Detection-And-Recognition-System",
+        "html_url": "https://github.com/nabil053/Bangladeshi-Traffic-Sign-Detection-And-Recognition-System",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2021-09-20T19:27:52Z",
+        "topics": []
+      },
+      {
+        "name": "Water-Drinkability-Predictor",
+        "html_url": "https://github.com/nabil053/Water-Drinkability-Predictor",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2021-09-18T16:04:30Z",
+        "topics": []
+      },
+      {
+        "name": "Mushroom-Edibility-Predictor",
+        "html_url": "https://github.com/nabil053/Mushroom-Edibility-Predictor",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2021-09-17T10:40:44Z",
+        "topics": []
+      },
+      {
+        "name": "My-CV-DOM",
+        "html_url": "https://github.com/nabil053/My-CV-DOM",
+        "description": "Personal CV with interactive features rendered using HTML, Tailwind and Javascript",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2021-05-23T05:03:23Z",
+        "topics": []
+      },
+      {
+        "name": "My-CV-Tailwind",
+        "html_url": "https://github.com/nabil053/My-CV-Tailwind",
+        "description": "Personal CV rendered using HTML and Tailwind",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2021-05-20T10:27:53Z",
+        "topics": []
+      },
+      {
+        "name": "My-CV-HTML",
+        "html_url": "https://github.com/nabil053/My-CV-HTML",
+        "description": "Personal CV rendered using HTML and CSS",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2021-05-19T17:36:01Z",
+        "topics": []
+      }
+    ]
+  }
+}

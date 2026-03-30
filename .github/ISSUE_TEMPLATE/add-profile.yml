@@ -1,0 +1,39 @@
+name: Add developer profile
+description: Request a new profile entry when you do not want to open a pull request directly.
+title: "Add profile: "
+labels:
+  - profile
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer opening a pull request with a new file in `profiles/`, but this form can be used if you need help.
+  - type: input
+    id: name
+    attributes:
+      label: Full name
+    validations:
+      required: true
+  - type: input
+    id: github
+    attributes:
+      label: GitHub profile URL
+      description: GitHub username is the preferred slug.
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn URL
+      description: Stored only, never scraped.
+  - type: input
+    id: headline
+    attributes:
+      label: Headline
+    validations:
+      required: true
+  - type: textarea
+    id: skills
+    attributes:
+      label: Skills
+      description: Comma-separated is fine.
+    validations:
+      required: true

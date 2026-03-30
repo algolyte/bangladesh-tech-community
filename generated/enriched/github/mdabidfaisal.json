@@ -1,0 +1,60 @@
+{
+  "slug": "mdabidfaisal",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:18.804Z",
+  "error": null,
+  "data": {
+    "username": "mdabidfaisal",
+    "name": "Md. Abid Faisal",
+    "avatar_url": "https://avatars.githubusercontent.com/u/128960092?v=4",
+    "bio": "Software engineer with a passion for open source. Always learning and looking for new challenges to tackle.",
+    "company": "Code Prophet",
+    "blog": "https://codeprophet.tech/",
+    "location": "Bangladesh",
+    "followers": 6,
+    "following": 4,
+    "public_repos": 7,
+    "top_languages": [
+      "JavaScript",
+      "HTML"
+    ],
+    "detected_skills": [
+      "HTML",
+      "JavaScript"
+    ],
+    "recent_activity_score": 2,
+    "last_push_at": "2025-12-05T20:48:57Z",
+    "top_repositories": [
+      {
+        "name": "my-portfolio",
+        "html_url": "https://github.com/mdabidfaisal/my-portfolio",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-12-05T20:48:57Z",
+        "topics": []
+      },
+      {
+        "name": "mca-capital",
+        "html_url": "https://github.com/mdabidfaisal/mca-capital",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2025-09-27T19:58:25Z",
+        "topics": []
+      },
+      {
+        "name": "Bellman_ford_algorithm_visualization",
+        "html_url": "https://github.com/mdabidfaisal/Bellman_ford_algorithm_visualization",
+        "description": "This a visualization software of Bellman-Ford Algorithm.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2023-07-14T18:02:20Z",
+        "topics": []
+      }
+    ]
+  }
+}

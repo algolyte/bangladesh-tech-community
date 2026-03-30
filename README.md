@@ -1,224 +1,231 @@
-# Bangladeshi Tech Professionals Worldwide
+# Bangladesh Tech Community
 
-A list of Bangladeshi tech professionals working around the world. Want to join the list? Submit a pull request with your info!
+Static developer directory and public ecosystem dashboard for Bangladeshi tech professionals.
 
-Follow the contribution guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to add your details.
+- Browse the site: `/developers`, `/dashboard`, `/contribute`
+- Source of truth: `profiles/*.yml`
+- Generated data: `generated/`
+- Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Data flow: [docs/data-flow.md](docs/data-flow.md)
+- Server cron guide: [docs/server-cron.md](docs/server-cron.md)
 
-If you find this repository helpful, please consider giving it a ⭐ to show your support and help others discover it! Your support means a lot!
+## How It Works
 
-Check the list [Link](https://techcom.revlox.com/)
+1. Contributors add or update one file in `profiles/`.
+2. Validation and enrichment scripts build deterministic JSON artifacts in `generated/`.
+3. The Next.js site reads generated data and renders a static directory and dashboard.
 
-## List of Tech Professional (Alphabetically)
+## Current Directory
 
 ### Asif Al Fattah
-
-- **Email**: asifalfattah34@gmail.com
-- **LinkedIn**: [linkedin.com/in/asif-al-fattah/](https://www.linkedin.com/in/asif-al-fattah/)
-- **GitHub**: [github.com/AsifAlFattah](https://github.com/AsifAlFattah)
-- **Experience**: 6+ months
-- **Current Role**: Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)
-- **Skills**: Java, Spring Boot, PostgreSQL, Docker, Problem Solving
+- **Headline**: Junior Backend Developer
+- **Primary Role**: Junior Backend Developer
+- **Experience**: 0.5 years
 - **Location**: Khulna, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, PostgreSQL, Docker, Problem Solving
+- **GitHub**: https://github.com/AsifAlFattah
+- **LinkedIn**: https://www.linkedin.com/in/asif-al-fattah/
 
 ### H.M Atahar Nur
-
-- **Email**: atp82232@gmail.com
-- **LinkedIn**: [linkedin.com/in/atahar-nur-pial](https://www.linkedin.com/in/atahar-nur-pial/)
-- **GitHub**: [github.com/atpial](https://github.com/atpial)
-- **Experience**: 2+ years
-- **Current Role**: Solution Developer (Cloud) at [Shadhin Lab](https://shadhinlab.com/)
-- **Skills**: Python, Django, AWS, Flask, Docker, Opensearch
+- **Headline**: Solution Developer (Cloud)
+- **Primary Role**: Solution Developer (Cloud)
+- **Experience**: 2 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Python, Django, AWS, Flask, Docker, OpenSearch
+- **GitHub**: https://github.com/atpial
+- **LinkedIn**: https://www.linkedin.com/in/atahar-nur-pial/
 
 ### Izazur Rahman Shafin
-
-- **Email**: imshafin97@gmail.com
-- **LinkedIn**: [linkedin.com/in/izazurrahmanshafin](https://www.linkedin.com/in/izazurrahmanshafin)
-- **GitHub**: [github.com/imShafin](https://github.com/imShafin)
-- **Experience**: 0+ years
-- **Current Role**: Support Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: C++, Python, FastAPI
+- **Headline**: Support Engineer
+- **Primary Role**: Support Engineer
+- **Experience**: 0 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: No
+- **Availability**: unknown
+- **Remote**: No
+- **Skills**: C++, Python, FastAPI
+- **GitHub**: https://github.com/imShafin
+- **LinkedIn**: https://www.linkedin.com/in/izazurrahmanshafin
 
 ### Mazhar Ibna Zahur
-
-- **Email**: mazhar.shapnil@gmail.com
-- **LinkedIn**: [linkedin.com/in/mazhar1322](https://www.linkedin.com/in/mazhar1322/)
-- **GitHub**: [github.com/mazharku](https://github.com/mazharku)
-- **Experience**: 5+ years
-- **Current Role**: Senior Software Engineer at [Tiller](https://tiller.com.bd/)
-- **Skills**: Java(7-21),Spring Boot,Quarkus,Kotlin,Docker,DevOps
+- **Headline**: Senior Software Engineer
+- **Primary Role**: Senior Software Engineer
+- **Experience**: 5 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
-
-### Md. Abid Faisal
-
-- **Email**: abid.nwu.cse@gmail.com
-- **LinkedIn**: [linkedin.com/in/abidfaisal027](https://www.linkedin.com/in/abidfaisal027/)
-- **GitHub**: [github.com/mdabidfaisal](https://github.com/mdabidfaisal)
-- **Experience**: 2+ years
-- **Current Role**: Software Product Manager and DevOps Engineer at [Code Prophet](https://codeprophet.tech/)
-- **Skills**: Cloud Platforms (Google Cloud, Digital Ocean), Docker, Kubernetes, CI/CD (Jenkins, GitLab, ArgoCD), Monitoring (Prometheus, Grafana, Uptime Kuma, OpenTelemetry), PostgreSQL, MySQL, Redis, Web Servers (Nginx, Apache, Apache Tomcat), Version Control (GitHub), Agile Scrum.
-- **Location**: Khulna, Bangladesh
-- **Remote Work**: No
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Quarkus, Kotlin, Docker, DevOps
+- **GitHub**: https://github.com/mazharku
+- **LinkedIn**: https://www.linkedin.com/in/mazhar1322/
 
 ### Md Emarat Hossain
-
-- **Email**: emarathossain00@gmail.com
-- **LinkedIn**: [linkedin.com/in/emarat/](https://www.linkedin.com/in/emarat/)
-- **GitHub**: [github.com/Emarat](https://github.com/Emarat)
-- **Experience**: 2+ years
-- **Current Role**: Product Manager at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**:Product Manager at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Technical Expertise (Flutter, Full-Stack Development, PostgreSQL, Python, SQL), User-Centric Focus, Project Leadership, Communication & Collaboration, Adaptability & Continuous Learning, Software Quality Assurance (SQA)
+- **Headline**: Product Manager
+- **Primary Role**: Product Manager
+- **Experience**: 2 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: No
-
-### Md. Fahad Chowdhury
-
-- **Email**: fahadcsedu@gmail.com
-- **LinkedIn**: [linkedin.com/in/fcsabah](https://www.linkedin.com/in/fcsabah)
-- **GitHub**: [github.com/fcsabah](https://github.com/fcsabah)
-- **Experience**: 5+ years
-- **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Redis, Dragonfly, PostgreSQL, Docker, Elastic Search, Microservices, RestAPIs, Airflow, Design Patterns, Git, Keycloak
-- **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: No
+- **Skills**: Flutter, Full-Stack Development, PostgreSQL, Python, SQL, Project Leadership, Communication, Software Quality Assurance
+- **GitHub**: https://github.com/Emarat
+- **LinkedIn**: https://www.linkedin.com/in/emarat/
 
 ### Md Mashuqur Rahman
-
-- **Email**: mashuq0068@gmail.com
-- **LinkedIn**: [linkedin.com/in/Mashuq](https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/)
-- **GitHub**: [github.com/Mashuq](https://github.com/mashuq0068)
-- **Experience**: 6+ months
-- **Current Role**: Junior Frontend Developer at [Code Prophet](https://codeprophet.tech/)
-- **Skills**: JavaScript, React, Node Js, Express Js
+- **Headline**: Junior Frontend Developer
+- **Primary Role**: Junior Frontend Developer
+- **Experience**: 0.5 years
 - **Location**: Khulna, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: JavaScript, React, Node.js, Express
+- **GitHub**: https://github.com/mashuq0068
+- **LinkedIn**: https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/
 
 ### Md Mazahrul Islam
-
-- **Email**: mazharul.saurav255@gmail.com
-- **LinkedIn**: [linkedin.com/in/Mazharul](https://www.linkedin.com/in/md-mazharul-islam-53a717262/)
-- **GitHub**: [github.com/Mazharul](https://github.com/Mazharul180203)
-- **Experience**: 1+ years
-- **Current Role**: Assistant Software Engineer at [IDLC Finance PLC](https://idlc.com/)
-- **Skills**: JavaScript, C++, React, Node Js, Express Js, Python
+- **Headline**: Assistant Software Engineer
+- **Primary Role**: Assistant Software Engineer
+- **Experience**: 1 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: JavaScript, C++, React, Node.js, Express, Python
+- **GitHub**: https://github.com/Mazharul180203
+- **LinkedIn**: https://www.linkedin.com/in/md-mazharul-islam-53a717262/
 
 ### Md Sanoarul Islam
-
-- **Email**: sanoarul123gmail.com
-- **LinkedIn**: [linkedin.com/in/md-sanoarul-islam-523942207](https://www.linkedin.com/in/md-sanoarul-islam-523942207/)
-- **GitHub**: [github.com/sanoarul123](https://github.com/sanoarul123)
-- **Experience**: 6+ months
-- **Current Role**: Junior Backend Developer at [Code Prophet](https://www.codeprophet.tech/)
-- **Skills**: Java, Spring Boot, Python, RestAPIs, PostgreSQL
+- **Headline**: Junior Backend Developer
+- **Primary Role**: Junior Backend Developer
+- **Experience**: 0.5 years
 - **Location**: Khulna, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Python, REST APIs, PostgreSQL
+- **GitHub**: https://github.com/sanoarul123
+- **LinkedIn**: https://www.linkedin.com/in/md-sanoarul-islam-523942207/
 
 ### Md Shahjahan
-
-- **Email**: shahjahan.cseku11@gmail.com
-- **LinkedIn**: [linkedin.com/in/shahjahan](https://www.linkedin.com/in/md-shahjahan-771ba6161)
-- **GitHub**: [github.com/shahjahan48](https://github.com/shahjahan48)
-- **Experience**: 8+ years
-- **Current Role**: Senior Software Engineer at [Dohatec New Media](https://www.dohatec.com/)
-- **Skills**: Java, Spring Boot, C#, ASP.NET MVC, ASP.NET Core, MSSQL, MySQL, Microservice, Angular, Docker, DevOps
+- **Headline**: Senior Software Engineer
+- **Primary Role**: Senior Software Engineer
+- **Experience**: 8 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, C#, ASP.NET MVC, ASP.NET Core, MSSQL, MySQL, Microservices, Angular, Docker, DevOps
+- **GitHub**: https://github.com/shahjahan48
+- **LinkedIn**: https://www.linkedin.com/in/md-shahjahan-771ba6161
+
+### Md. Abid Faisal
+- **Headline**: Software Product Manager and DevOps Engineer
+- **Primary Role**: Software Product Manager and DevOps Engineer
+- **Experience**: 2 years
+- **Location**: Khulna, Bangladesh
+- **Availability**: unknown
+- **Remote**: No
+- **Skills**: Google Cloud, DigitalOcean, Docker, Kubernetes, Jenkins, GitLab, ArgoCD, Prometheus, Grafana, OpenTelemetry, PostgreSQL, MySQL, Redis, Nginx, Apache Tomcat, GitHub, Agile Scrum
+- **GitHub**: https://github.com/mdabidfaisal
+- **LinkedIn**: https://www.linkedin.com/in/abidfaisal027/
+
+### Md. Fahad Chowdhury
+- **Headline**: Software Engineer
+- **Primary Role**: Software Engineer
+- **Experience**: 5 years
+- **Location**: Dhaka, Bangladesh
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Redis, Dragonfly, PostgreSQL, Docker, Elasticsearch, Microservices, REST APIs, Airflow, Design Patterns, Git, Keycloak
+- **GitHub**: https://github.com/fcsabah
+- **LinkedIn**: https://www.linkedin.com/in/fcsabah
 
 ### Mohammad Imrul Hasan
-- **Email**: viimrul@gmail.com
-- **LinkedIn**: [imrull](https://www.linkedin.com/in/imrull)
-- **GitHub**: [vimrul](https://github.com/vimrul)
-- **Experience**: 13+ years
-- **Current Role**: DevOps Engineer at [Penta Global Limited](https://pentaglobal.com)
-- **Skills**: Cloud Platforms (AWS, Azure), Docker, Kubernetes, CI/CD (Jenkins, GitLab, ArgoCD), Monitoring (Prometheus, Grafana, Uptime Kuma, OpenTelemetry), ELK Stack, PostgreSQL, MySQL, Redis, DragonflyDB, StackGres, Networking (Istio, Calico, Kiali), Identity Management (Keycloak), Web Servers (Nginx, Apache, Apache Tomcat), Version Control (GitHub)
+- **Headline**: DevOps Engineer
+- **Primary Role**: DevOps Engineer
+- **Experience**: 13 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: AWS, Azure, Docker, Kubernetes, Jenkins, GitLab, ArgoCD, Prometheus, Grafana, ELK Stack, PostgreSQL, MySQL, Redis, DragonflyDB, StackGres, Istio, Calico, Kiali, Keycloak, Nginx, Apache
+- **GitHub**: https://github.com/vimrul
+- **LinkedIn**: https://www.linkedin.com/in/imrull
 
 ### Mullah Mohammad Shahjalal
-- **Email**: shahjalal2075@gmail.com
-- **LinkedIn**: [linkedin.com/in/shahjalal2075](https://www.linkedin.com/in/shahjalal2075)
-- **GitHub**: [github.com/Shahjalal2075](https://github.com/Shahjalal2075)
-- **Experience**: 1+ years
-- **Current Role**: Full Stack Developer at [Naim IT](https://naimit.ca)
-- **Skills**: JavaScript, React Js, React Native, Node Js, Express Js, MongoDB, Problem Solving
+- **Headline**: Full Stack Developer
+- **Primary Role**: Full Stack Developer
+- **Experience**: 1 years
 - **Location**: Jashore, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: JavaScript, React, React Native, Node.js, Express, MongoDB, Problem Solving
+- **GitHub**: https://github.com/Shahjalal2075
+- **LinkedIn**: https://www.linkedin.com/in/shahjalal2075
 
 ### Nabil Ahmed
-
-- **Email**: nabil.cse.53@gmail.com
-- **LinkedIn**: [linkedin.com/in/nabil-ahmed-900601195](https://www.linkedin.com/in/nabil-ahmed-900601195/)
-- **GitHub**: [github.com/nabil053](https://github.com/nabil053)
-- **Experience**: 2+ years
-- **Current Role**: Student at [University of New Brunswick](https://www.unb.ca/)
-- **Skills**: Java, Spring Boot, MySQL, PostgreSQL, Python, RestAPIs, Problem Solving, Data Analysis
+- **Headline**: Student
+- **Primary Role**: Student
+- **Experience**: 2 years
 - **Location**: Fredericton, New Brunswick, Canada
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, MySQL, PostgreSQL, Python, REST APIs, Problem Solving, Data Analysis
+- **GitHub**: https://github.com/nabil053
+- **LinkedIn**: https://www.linkedin.com/in/nabil-ahmed-900601195/
 
 ### Nandan Kumar Das
-
-- **Email**: nandandas.ku@gmail.com
-- **LinkedIn**: [linkedin.com/in/nandan-kumar-das](https://www.linkedin.com/in/nandan-kumar-das)
-- **GitHub**: [github.com/nandan-kumar-das](https://github.com/nandands-ku)
-- **Experience**: 6+ years
-- **Current Role**: Senior Software Engineer at [Dizi Nova Limited](http://dizinova.com/)
-- **Skills**: .NET Framework, .NET Core, React, MSSQL, MongoDB, Android, Flutter
+- **Headline**: Senior Software Engineer
+- **Primary Role**: Senior Software Engineer
+- **Experience**: 6 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: No
+- **Availability**: unknown
+- **Remote**: No
+- **Skills**: .NET Framework, .NET Core, React, MSSQL, MongoDB, Android, Flutter
+- **GitHub**: https://github.com/nandands-ku
+- **LinkedIn**: https://www.linkedin.com/in/nandan-kumar-das
 
 ### Nishanul Nishat
-
-- **Email**: nishanul.nishat@example.com
-- **LinkedIn**: [linkedin.com/in/nishanul-nishat](https://www.linkedin.com/in/nishanul-nishat/)
-- **GitHub**: [github.com/nishat1098](https://github.com/nishat1098)
-- **Experience**: 2.5+ years
-- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Kubernetes, DevOps
+- **Headline**: Senior Software Engineer
+- **Primary Role**: Senior Software Engineer
+- **Experience**: 2.5 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Python, FastAPI, Django, Kubernetes, DevOps
+- **GitHub**: https://github.com/nishat1098
+- **LinkedIn**: https://www.linkedin.com/in/nishanul-nishat/
 
 ### Plabon Costa
-
-- **Email**: plabonjoseph@gmail.com
-- **LinkedIn**: [linkedin.com/in/plabon-costa-45b01a168/](https://www.linkedin.com/in/plabon-costa-45b01a168/)
-- **GitHub**: [github.com/plaboncosta](https://github.com/plaboncosta)
-- **Experience**: 5+ years
-- **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Node JS, Express JS, Docker, Kubernetes, DevOps, Redis, RabbitMQ, Kafka, Elastic Search, Micro Service
+- **Headline**: Software Engineer
+- **Primary Role**: Software Engineer
+- **Experience**: 5 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Node.js, Express, Docker, Kubernetes, DevOps, Redis, RabbitMQ, Kafka, Elasticsearch, Microservices
+- **GitHub**: https://github.com/plaboncosta
+- **LinkedIn**: https://www.linkedin.com/in/plabon-costa-45b01a168/
 
 ### Sadman Sobhan
-
-- **Email**: imran110219@gmail.com
-- **LinkedIn**: [linkedin.com/in/sadman](https://www.linkedin.com/in/sadman)
-- **GitHub**: [github.com/sadmansobhan](https://github.com/imran110219)
-- **Experience**: 8+ years
-- **Current Role**: Senior Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Kubernetes, DevOps
+- **Headline**: Senior Software Engineer
+- **Primary Role**: Senior Software Engineer
+- **Experience**: 8 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Kubernetes, DevOps
+- **GitHub**: https://github.com/imran110219
+- **LinkedIn**: https://www.linkedin.com/in/sadman
 
 ### Zahid Hasan
-
-- **Email**: zahidhasanpapon@gmail.com
-- **LinkedIn**: [linkedin.com/in/zahidhasanpapon/](https://www.linkedin.com/in/zahidhasanpapon/)
-- **GitHub**: [github.com/zahidhasanpapon](https://github.com/zahidhasanpapon)
-- **Experience**: 2+ years
-- **Current Role**: Software Engineer at [Penta Global Limited](https://www.pentabd.com/)
-- **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
+- **Headline**: Software Engineer
+- **Primary Role**: Software Engineer
+- **Experience**: 2 years
 - **Location**: Dhaka, Bangladesh
-- **Remote Work**: Yes
+- **Availability**: unknown
+- **Remote**: Yes
+- **Skills**: Java, Spring Boot, Python, Django, Docker, Redis, RabbitMQ
+- **GitHub**: https://github.com/zahidhasanpapon
+- **LinkedIn**: https://www.linkedin.com/in/zahidhasanpapon/
 
+## Generated Data
 
-<!-- Security scan triggered at 2025-09-02 03:43:38 -->
-
-<!-- Security scan triggered at 2025-09-02 04:25:57 -->
+Generated files are written to `generated`.

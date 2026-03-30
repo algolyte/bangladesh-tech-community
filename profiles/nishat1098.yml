@@ -1,0 +1,32 @@
+version: 1
+slug: nishat1098
+slug_source: github
+name: Nishanul Nishat
+email: nishanul.nishat@example.com
+headline: Senior Software Engineer
+primary_role: Senior Software Engineer
+secondary_roles: []
+experience_years: 2.5
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - Python
+  - FastAPI
+  - Django
+  - Kubernetes
+  - DevOps
+current_company:
+  name: Penta Global Limited
+  url: https://www.pentabd.com/
+links:
+  github: https://github.com/nishat1098
+  linkedin: https://www.linkedin.com/in/nishanul-nishat/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

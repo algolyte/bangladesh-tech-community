@@ -1,0 +1,140 @@
+{
+  "slug": "imshafin",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "imshafin",
+    "slug_source": "github",
+    "name": "Izazur Rahman Shafin",
+    "email": "imshafin97@gmail.com",
+    "headline": "Support Engineer",
+    "primary_role": "Support Engineer",
+    "secondary_roles": [],
+    "experience_years": 0,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": false,
+    "skills": [
+      "C++",
+      "Python",
+      "FastAPI"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/imShafin",
+      "linkedin": "https://www.linkedin.com/in/izazurrahmanshafin",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "imshafin",
+      "name": "Izazur Rahman Shafin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/98324351?v=4",
+      "bio": null,
+      "company": "Penta Global LTD",
+      "blog": "https://www.linkedin.com/in/izazurrahmanshafin/",
+      "location": "Dhaka, Bangladesh",
+      "followers": 6,
+      "following": 32,
+      "public_repos": 7,
+      "top_languages": [
+        "HTML",
+        "C++",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "detected_skills": [
+        "C++",
+        "HTML",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "recent_activity_score": 5,
+      "last_push_at": "2026-01-28T19:28:17Z",
+      "top_repositories": [
+        {
+          "name": "imshafin.github.io",
+          "html_url": "https://github.com/imShafin/imshafin.github.io",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "HTML",
+          "pushed_at": "2026-01-28T19:28:17Z",
+          "topics": []
+        },
+        {
+          "name": "automation-with-playwright",
+          "html_url": "https://github.com/imShafin/automation-with-playwright",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "TypeScript",
+          "pushed_at": "2025-08-24T07:28:42Z",
+          "topics": []
+        },
+        {
+          "name": "cityfinder",
+          "html_url": "https://github.com/imShafin/cityfinder",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2025-06-26T02:14:29Z",
+          "topics": []
+        },
+        {
+          "name": "Online-Real-time-Home-Utility-Tracker",
+          "html_url": "https://github.com/imShafin/Online-Real-time-Home-Utility-Tracker",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "C++",
+          "pushed_at": "2024-01-15T07:54:39Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "C++",
+      "FastAPI",
+      "HTML",
+      "JavaScript",
+      "Python",
+      "TypeScript"
+    ],
+    "detected_skills": [
+      "C++",
+      "HTML",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "profile_completeness": 73,
+    "experience_band": "0-1 years",
+    "role_keywords": [
+      "Engineer",
+      "Support"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:18:11.626Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.039Z"
+}

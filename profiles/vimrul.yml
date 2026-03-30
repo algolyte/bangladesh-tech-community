@@ -1,0 +1,46 @@
+version: 1
+slug: vimrul
+slug_source: github
+name: Mohammad Imrul Hasan
+email: viimrul@gmail.com
+headline: DevOps Engineer
+primary_role: DevOps Engineer
+secondary_roles: []
+experience_years: 13
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - AWS
+  - Azure
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitLab
+  - ArgoCD
+  - Prometheus
+  - Grafana
+  - ELK Stack
+  - PostgreSQL
+  - MySQL
+  - Redis
+  - DragonflyDB
+  - StackGres
+  - Istio
+  - Calico
+  - Kiali
+  - Keycloak
+  - Nginx
+  - Apache
+current_company:
+  name: Penta Global Limited
+  url: https://pentaglobal.com
+links:
+  github: https://github.com/vimrul
+  linkedin: https://www.linkedin.com/in/imrull
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

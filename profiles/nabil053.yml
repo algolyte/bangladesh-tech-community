@@ -1,0 +1,33 @@
+version: 1
+slug: nabil053
+slug_source: github
+name: Nabil Ahmed
+email: nabil.cse.53@gmail.com
+headline: Student
+primary_role: Student
+secondary_roles: []
+experience_years: 2
+location: Fredericton, New Brunswick, Canada
+country: Canada
+timezone: America/Halifax
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - MySQL
+  - PostgreSQL
+  - Python
+  - REST APIs
+  - Problem Solving
+  - Data Analysis
+current_company:
+  name: University of New Brunswick
+  url: https://www.unb.ca/
+links:
+  github: https://github.com/nabil053
+  linkedin: https://www.linkedin.com/in/nabil-ahmed-900601195/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

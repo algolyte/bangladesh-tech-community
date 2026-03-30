@@ -1,0 +1,95 @@
+{
+  "slug": "asifalfattah",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:05.933Z",
+  "error": null,
+  "data": {
+    "username": "asifalfattah",
+    "name": "Asif Al Fattah",
+    "avatar_url": "https://avatars.githubusercontent.com/u/70211268?v=4",
+    "bio": "Programmer |  Software Developer",
+    "company": null,
+    "blog": "",
+    "location": "Bangladesh",
+    "followers": 1,
+    "following": 0,
+    "public_repos": 38,
+    "top_languages": [
+      "C++",
+      "JavaScript",
+      "HTML"
+    ],
+    "detected_skills": [
+      "C++",
+      "HTML",
+      "JavaScript"
+    ],
+    "recent_activity_score": 6,
+    "last_push_at": "2026-01-01T14:55:27Z",
+    "top_repositories": [
+      {
+        "name": "Competitive-Programming",
+        "html_url": "https://github.com/AsifAlFattah/Competitive-Programming",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C++",
+        "pushed_at": "2026-01-01T14:55:27Z",
+        "topics": []
+      },
+      {
+        "name": "STL",
+        "html_url": "https://github.com/AsifAlFattah/STL",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "C++",
+        "pushed_at": "2023-01-26T15:26:13Z",
+        "topics": []
+      },
+      {
+        "name": "nwu-blood-bank",
+        "html_url": "https://github.com/AsifAlFattah/nwu-blood-bank",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-08-20T09:53:40Z",
+        "topics": []
+      },
+      {
+        "name": "Comptron",
+        "html_url": "https://github.com/AsifAlFattah/Comptron",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2025-04-09T10:18:21Z",
+        "topics": []
+      },
+      {
+        "name": "AsifAlFattah",
+        "html_url": "https://github.com/AsifAlFattah/AsifAlFattah",
+        "description": "Config files for my GitHub profile.",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2024-12-24T04:54:45Z",
+        "topics": [
+          "config",
+          "github-config"
+        ]
+      },
+      {
+        "name": "LaundryVaiWeb",
+        "html_url": "https://github.com/AsifAlFattah/LaundryVaiWeb",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "HTML",
+        "pushed_at": "2024-11-28T10:44:27Z",
+        "topics": []
+      }
+    ]
+  }
+}

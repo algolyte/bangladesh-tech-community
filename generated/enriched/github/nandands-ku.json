@@ -1,0 +1,88 @@
+{
+  "slug": "nandands-ku",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:14:38.635Z",
+  "error": "GitHub request failed: 403 rate limit exceeded",
+  "data": {
+    "username": "nandands-ku",
+    "name": "Nandan Kumar Das",
+    "avatar_url": "https://avatars.githubusercontent.com/u/24792647?v=4",
+    "bio": "C# | .NET Core | .NET Framework | React | SQL | MongoDB | Full Stack || Senior Software Engineer at Dizi Nova Limited",
+    "company": "Dizi Nova Limited",
+    "blog": "",
+    "location": "Dhaka",
+    "followers": 2,
+    "following": 1,
+    "public_repos": 9,
+    "top_languages": [
+      "C#"
+    ],
+    "detected_skills": [
+      "C#"
+    ],
+    "recent_activity_score": 5,
+    "last_push_at": "2025-05-18T09:22:18Z",
+    "top_repositories": [
+      {
+        "name": "CleanArchitectureWithCQRS",
+        "html_url": "https://github.com/nandands-ku/CleanArchitectureWithCQRS",
+        "description": "This is clean architecture with cqrs pattern",
+        "stargazers_count": 1,
+        "forks_count": 1,
+        "language": "C#",
+        "pushed_at": "2023-04-19T04:57:59Z",
+        "topics": []
+      },
+      {
+        "name": "TaskManager",
+        "html_url": "https://github.com/nandands-ku/TaskManager",
+        "description": "A mini Task and Team Management System",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C#",
+        "pushed_at": "2025-05-18T09:22:18Z",
+        "topics": []
+      },
+      {
+        "name": "lovable",
+        "html_url": "https://github.com/nandands-ku/lovable",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2025-05-14T11:31:24Z",
+        "topics": []
+      },
+      {
+        "name": "CRM",
+        "html_url": "https://github.com/nandands-ku/CRM",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2023-10-10T10:47:41Z",
+        "topics": []
+      },
+      {
+        "name": "ECommerce",
+        "html_url": "https://github.com/nandands-ku/ECommerce",
+        "description": "An Multi vendor ecommerce site",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C#",
+        "pushed_at": "2023-02-10T12:54:09Z",
+        "topics": []
+      },
+      {
+        "name": "myFirstGit",
+        "html_url": "https://github.com/nandands-ku/myFirstGit",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "C#",
+        "pushed_at": "2020-12-23T06:49:40Z",
+        "topics": []
+      }
+    ]
+  }
+}

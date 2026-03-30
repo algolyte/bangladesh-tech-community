@@ -1,0 +1,31 @@
+version: 1
+slug: atpial
+slug_source: github
+name: H.M Atahar Nur
+email: atp82232@gmail.com
+headline: Solution Developer (Cloud)
+primary_role: Solution Developer (Cloud)
+secondary_roles: []
+experience_years: 2
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Python
+  - Django
+  - AWS
+  - Flask
+  - Docker
+  - OpenSearch
+current_company:
+  name: Shadhin Lab
+  url: https://shadhinlab.com/
+links:
+  github: https://github.com/atpial
+  linkedin: https://www.linkedin.com/in/atahar-nur-pial/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

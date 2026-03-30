@@ -1,0 +1,751 @@
+[
+  {
+    "file_name": "asifalfattah.yml",
+    "version": 1,
+    "slug": "asifalfattah",
+    "slug_source": "github",
+    "name": "Asif Al Fattah",
+    "email": "asifalfattah34@gmail.com",
+    "headline": "Junior Backend Developer",
+    "primary_role": "Junior Backend Developer",
+    "secondary_roles": [],
+    "experience_years": 0.5,
+    "location": "Khulna, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Docker",
+      "Problem Solving"
+    ],
+    "current_company": {
+      "name": "Code Prophet",
+      "url": "https://www.codeprophet.tech/"
+    },
+    "links": {
+      "github": "https://github.com/AsifAlFattah",
+      "linkedin": "https://www.linkedin.com/in/asif-al-fattah/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "atpial.yml",
+    "version": 1,
+    "slug": "atpial",
+    "slug_source": "github",
+    "name": "H.M Atahar Nur",
+    "email": "atp82232@gmail.com",
+    "headline": "Solution Developer (Cloud)",
+    "primary_role": "Solution Developer (Cloud)",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Python",
+      "Django",
+      "AWS",
+      "Flask",
+      "Docker",
+      "OpenSearch"
+    ],
+    "current_company": {
+      "name": "Shadhin Lab",
+      "url": "https://shadhinlab.com/"
+    },
+    "links": {
+      "github": "https://github.com/atpial",
+      "linkedin": "https://www.linkedin.com/in/atahar-nur-pial/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "emarat.yml",
+    "version": 1,
+    "slug": "emarat",
+    "slug_source": "github",
+    "name": "Md Emarat Hossain",
+    "email": "emarathossain00@gmail.com",
+    "headline": "Product Manager",
+    "primary_role": "Product Manager",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": false,
+    "skills": [
+      "Flutter",
+      "Full-Stack Development",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Project Leadership",
+      "Communication",
+      "Software Quality Assurance"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/Emarat",
+      "linkedin": "https://www.linkedin.com/in/emarat/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "fcsabah.yml",
+    "version": 1,
+    "slug": "fcsabah",
+    "slug_source": "github",
+    "name": "Md. Fahad Chowdhury",
+    "email": "fahadcsedu@gmail.com",
+    "headline": "Software Engineer",
+    "primary_role": "Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 5,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "FastAPI",
+      "Django",
+      "Redis",
+      "Dragonfly",
+      "PostgreSQL",
+      "Docker",
+      "Elasticsearch",
+      "Microservices",
+      "REST APIs",
+      "Airflow",
+      "Design Patterns",
+      "Git",
+      "Keycloak"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/fcsabah",
+      "linkedin": "https://www.linkedin.com/in/fcsabah",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "imran110219.yml",
+    "version": 1,
+    "slug": "imran110219",
+    "slug_source": "github",
+    "name": "Sadman Sobhan",
+    "email": "imran110219@gmail.com",
+    "headline": "Senior Software Engineer",
+    "primary_role": "Senior Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 8,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kubernetes",
+      "DevOps"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/imran110219",
+      "linkedin": "https://www.linkedin.com/in/sadman",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "imshafin.yml",
+    "version": 1,
+    "slug": "imshafin",
+    "slug_source": "github",
+    "name": "Izazur Rahman Shafin",
+    "email": "imshafin97@gmail.com",
+    "headline": "Support Engineer",
+    "primary_role": "Support Engineer",
+    "secondary_roles": [],
+    "experience_years": 0,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": false,
+    "skills": [
+      "C++",
+      "Python",
+      "FastAPI"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/imShafin",
+      "linkedin": "https://www.linkedin.com/in/izazurrahmanshafin",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "mashuq0068.yml",
+    "version": 1,
+    "slug": "mashuq0068",
+    "slug_source": "github",
+    "name": "Md Mashuqur Rahman",
+    "email": "mashuq0068@gmail.com",
+    "headline": "Junior Frontend Developer",
+    "primary_role": "Junior Frontend Developer",
+    "secondary_roles": [],
+    "experience_years": 0.5,
+    "location": "Khulna, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express"
+    ],
+    "current_company": {
+      "name": "Code Prophet",
+      "url": "https://codeprophet.tech/"
+    },
+    "links": {
+      "github": "https://github.com/mashuq0068",
+      "linkedin": "https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "mazharku.yml",
+    "version": 1,
+    "slug": "mazharku",
+    "slug_source": "github",
+    "name": "Mazhar Ibna Zahur",
+    "email": "mazhar.shapnil@gmail.com",
+    "headline": "Senior Software Engineer",
+    "primary_role": "Senior Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 5,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Quarkus",
+      "Kotlin",
+      "Docker",
+      "DevOps"
+    ],
+    "current_company": {
+      "name": "Tiller",
+      "url": "https://tiller.com.bd/"
+    },
+    "links": {
+      "github": "https://github.com/mazharku",
+      "linkedin": "https://www.linkedin.com/in/mazhar1322/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "mazharul180203.yml",
+    "version": 1,
+    "slug": "mazharul180203",
+    "slug_source": "github",
+    "name": "Md Mazahrul Islam",
+    "email": "mazharul.saurav255@gmail.com",
+    "headline": "Assistant Software Engineer",
+    "primary_role": "Assistant Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 1,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "JavaScript",
+      "C++",
+      "React",
+      "Node.js",
+      "Express",
+      "Python"
+    ],
+    "current_company": {
+      "name": "IDLC Finance PLC",
+      "url": "https://idlc.com/"
+    },
+    "links": {
+      "github": "https://github.com/Mazharul180203",
+      "linkedin": "https://www.linkedin.com/in/md-mazharul-islam-53a717262/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "mdabidfaisal.yml",
+    "version": 1,
+    "slug": "mdabidfaisal",
+    "slug_source": "github",
+    "name": "Md. Abid Faisal",
+    "email": "abid.nwu.cse@gmail.com",
+    "headline": "Software Product Manager and DevOps Engineer",
+    "primary_role": "Software Product Manager and DevOps Engineer",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Khulna, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": false,
+    "skills": [
+      "Google Cloud",
+      "DigitalOcean",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab",
+      "ArgoCD",
+      "Prometheus",
+      "Grafana",
+      "OpenTelemetry",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "Nginx",
+      "Apache Tomcat",
+      "GitHub",
+      "Agile Scrum"
+    ],
+    "current_company": {
+      "name": "Code Prophet",
+      "url": "https://codeprophet.tech/"
+    },
+    "links": {
+      "github": "https://github.com/mdabidfaisal",
+      "linkedin": "https://www.linkedin.com/in/abidfaisal027/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "nabil053.yml",
+    "version": 1,
+    "slug": "nabil053",
+    "slug_source": "github",
+    "name": "Nabil Ahmed",
+    "email": "nabil.cse.53@gmail.com",
+    "headline": "Student",
+    "primary_role": "Student",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Fredericton, New Brunswick, Canada",
+    "country": "Canada",
+    "timezone": "America/Halifax",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "PostgreSQL",
+      "Python",
+      "REST APIs",
+      "Problem Solving",
+      "Data Analysis"
+    ],
+    "current_company": {
+      "name": "University of New Brunswick",
+      "url": "https://www.unb.ca/"
+    },
+    "links": {
+      "github": "https://github.com/nabil053",
+      "linkedin": "https://www.linkedin.com/in/nabil-ahmed-900601195/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "nandands-ku.yml",
+    "version": 1,
+    "slug": "nandands-ku",
+    "slug_source": "github",
+    "name": "Nandan Kumar Das",
+    "email": "nandandas.ku@gmail.com",
+    "headline": "Senior Software Engineer",
+    "primary_role": "Senior Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 6,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": false,
+    "skills": [
+      ".NET Framework",
+      ".NET Core",
+      "React",
+      "MSSQL",
+      "MongoDB",
+      "Android",
+      "Flutter"
+    ],
+    "current_company": {
+      "name": "Dizi Nova Limited",
+      "url": "http://dizinova.com/"
+    },
+    "links": {
+      "github": "https://github.com/nandands-ku",
+      "linkedin": "https://www.linkedin.com/in/nandan-kumar-das",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "nishat1098.yml",
+    "version": 1,
+    "slug": "nishat1098",
+    "slug_source": "github",
+    "name": "Nishanul Nishat",
+    "email": "nishanul.nishat@example.com",
+    "headline": "Senior Software Engineer",
+    "primary_role": "Senior Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 2.5,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "FastAPI",
+      "Django",
+      "Kubernetes",
+      "DevOps"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/nishat1098",
+      "linkedin": "https://www.linkedin.com/in/nishanul-nishat/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "plaboncosta.yml",
+    "version": 1,
+    "slug": "plaboncosta",
+    "slug_source": "github",
+    "name": "Plabon Costa",
+    "email": "plabonjoseph@gmail.com",
+    "headline": "Software Engineer",
+    "primary_role": "Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 5,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Node.js",
+      "Express",
+      "Docker",
+      "Kubernetes",
+      "DevOps",
+      "Redis",
+      "RabbitMQ",
+      "Kafka",
+      "Elasticsearch",
+      "Microservices"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/plaboncosta",
+      "linkedin": "https://www.linkedin.com/in/plabon-costa-45b01a168/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "sanoarul123.yml",
+    "version": 1,
+    "slug": "sanoarul123",
+    "slug_source": "github",
+    "name": "Md Sanoarul Islam",
+    "email": null,
+    "headline": "Junior Backend Developer",
+    "primary_role": "Junior Backend Developer",
+    "secondary_roles": [],
+    "experience_years": 0.5,
+    "location": "Khulna, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "current_company": {
+      "name": "Code Prophet",
+      "url": "https://www.codeprophet.tech/"
+    },
+    "links": {
+      "github": "https://github.com/sanoarul123",
+      "linkedin": "https://www.linkedin.com/in/md-sanoarul-islam-523942207/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "shahjahan48.yml",
+    "version": 1,
+    "slug": "shahjahan48",
+    "slug_source": "github",
+    "name": "Md Shahjahan",
+    "email": "shahjahan.cseku11@gmail.com",
+    "headline": "Senior Software Engineer",
+    "primary_role": "Senior Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 8,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "C#",
+      "ASP.NET MVC",
+      "ASP.NET Core",
+      "MSSQL",
+      "MySQL",
+      "Microservices",
+      "Angular",
+      "Docker",
+      "DevOps"
+    ],
+    "current_company": {
+      "name": "Dohatec New Media",
+      "url": "https://www.dohatec.com/"
+    },
+    "links": {
+      "github": "https://github.com/shahjahan48",
+      "linkedin": "https://www.linkedin.com/in/md-shahjahan-771ba6161",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "shahjalal2075.yml",
+    "version": 1,
+    "slug": "shahjalal2075",
+    "slug_source": "github",
+    "name": "Mullah Mohammad Shahjalal",
+    "email": "shahjalal2075@gmail.com",
+    "headline": "Full Stack Developer",
+    "primary_role": "Full Stack Developer",
+    "secondary_roles": [],
+    "experience_years": 1,
+    "location": "Jashore, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "JavaScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Problem Solving"
+    ],
+    "current_company": {
+      "name": "Naim IT",
+      "url": "https://naimit.ca"
+    },
+    "links": {
+      "github": "https://github.com/Shahjalal2075",
+      "linkedin": "https://www.linkedin.com/in/shahjalal2075",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "vimrul.yml",
+    "version": 1,
+    "slug": "vimrul",
+    "slug_source": "github",
+    "name": "Mohammad Imrul Hasan",
+    "email": "viimrul@gmail.com",
+    "headline": "DevOps Engineer",
+    "primary_role": "DevOps Engineer",
+    "secondary_roles": [],
+    "experience_years": 13,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "AWS",
+      "Azure",
+      "Docker",
+      "Kubernetes",
+      "Jenkins",
+      "GitLab",
+      "ArgoCD",
+      "Prometheus",
+      "Grafana",
+      "ELK Stack",
+      "PostgreSQL",
+      "MySQL",
+      "Redis",
+      "DragonflyDB",
+      "StackGres",
+      "Istio",
+      "Calico",
+      "Kiali",
+      "Keycloak",
+      "Nginx",
+      "Apache"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://pentaglobal.com"
+    },
+    "links": {
+      "github": "https://github.com/vimrul",
+      "linkedin": "https://www.linkedin.com/in/imrull",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  {
+    "file_name": "zahidhasanpapon.yml",
+    "version": 1,
+    "slug": "zahidhasanpapon",
+    "slug_source": "github",
+    "name": "Zahid Hasan",
+    "email": "zahidhasanpapon@gmail.com",
+    "headline": "Software Engineer",
+    "primary_role": "Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "Django",
+      "Docker",
+      "Redis",
+      "RabbitMQ"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/zahidhasanpapon",
+      "linkedin": "https://www.linkedin.com/in/zahidhasanpapon/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  }
+]

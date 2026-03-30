@@ -1,0 +1,92 @@
+{
+  "slug": "atpial",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:18:06.813Z",
+  "error": null,
+  "data": {
+    "username": "atpial",
+    "name": "H.M Atahar Nur",
+    "avatar_url": "https://avatars.githubusercontent.com/u/60040790?v=4",
+    "bio": "Just trying to keep on updating",
+    "company": null,
+    "blog": "",
+    "location": "Dhaka,Bangladesh",
+    "followers": 24,
+    "following": 14,
+    "public_repos": 26,
+    "top_languages": [
+      "Python",
+      "JavaScript",
+      "PHP"
+    ],
+    "detected_skills": [
+      "JavaScript",
+      "PHP",
+      "Python"
+    ],
+    "recent_activity_score": 6,
+    "last_push_at": "2025-06-25T05:27:51Z",
+    "top_repositories": [
+      {
+        "name": "AWS-Demo-App",
+        "html_url": "https://github.com/atpial/AWS-Demo-App",
+        "description": "Sample Serverless App with two trigger event",
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2022-02-13T17:34:16Z",
+        "topics": []
+      },
+      {
+        "name": "sam-cognito",
+        "html_url": "https://github.com/atpial/sam-cognito",
+        "description": "sapmle AWS Serverless application demonstrating cognito part",
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2022-06-13T17:48:36Z",
+        "topics": []
+      },
+      {
+        "name": "flight-management-system",
+        "html_url": "https://github.com/atpial/flight-management-system",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2025-06-25T05:27:51Z",
+        "topics": []
+      },
+      {
+        "name": "fastapi-news-stack",
+        "html_url": "https://github.com/atpial/fastapi-news-stack",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2025-05-25T15:18:04Z",
+        "topics": []
+      },
+      {
+        "name": "messenger-clone",
+        "html_url": "https://github.com/atpial/messenger-clone",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "JavaScript",
+        "pushed_at": "2024-08-22T07:47:14Z",
+        "topics": []
+      },
+      {
+        "name": "php-laravel",
+        "html_url": "https://github.com/atpial/php-laravel",
+        "description": "learning the framework",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "PHP",
+        "pushed_at": "2024-08-21T16:54:31Z",
+        "topics": []
+      }
+    ]
+  }
+}

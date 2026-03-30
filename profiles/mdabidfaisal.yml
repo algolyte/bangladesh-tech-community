@@ -1,0 +1,42 @@
+version: 1
+slug: mdabidfaisal
+slug_source: github
+name: Md. Abid Faisal
+email: abid.nwu.cse@gmail.com
+headline: Software Product Manager and DevOps Engineer
+primary_role: Software Product Manager and DevOps Engineer
+secondary_roles: []
+experience_years: 2
+location: Khulna, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: false
+skills:
+  - Google Cloud
+  - DigitalOcean
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitLab
+  - ArgoCD
+  - Prometheus
+  - Grafana
+  - OpenTelemetry
+  - PostgreSQL
+  - MySQL
+  - Redis
+  - Nginx
+  - Apache Tomcat
+  - GitHub
+  - Agile Scrum
+current_company:
+  name: Code Prophet
+  url: https://codeprophet.tech/
+links:
+  github: https://github.com/mdabidfaisal
+  linkedin: https://www.linkedin.com/in/abidfaisal027/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

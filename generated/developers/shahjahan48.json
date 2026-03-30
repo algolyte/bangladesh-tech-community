@@ -1,0 +1,175 @@
+{
+  "slug": "shahjahan48",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "shahjahan48",
+    "slug_source": "github",
+    "name": "Md Shahjahan",
+    "email": "shahjahan.cseku11@gmail.com",
+    "headline": "Senior Software Engineer",
+    "primary_role": "Senior Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 8,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "C#",
+      "ASP.NET MVC",
+      "ASP.NET Core",
+      "MSSQL",
+      "MySQL",
+      "Microservices",
+      "Angular",
+      "Docker",
+      "DevOps"
+    ],
+    "current_company": {
+      "name": "Dohatec New Media",
+      "url": "https://www.dohatec.com/"
+    },
+    "links": {
+      "github": "https://github.com/shahjahan48",
+      "linkedin": "https://www.linkedin.com/in/md-shahjahan-771ba6161",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "shahjahan48",
+      "name": "Md. Shahjahan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7770713?v=4",
+      "bio": "Full stack .NET Framework (Desktop & WEB), .NET Core, Java, Spring MVC, jQuery, MSSQL",
+      "company": "Dohatec New Media",
+      "blog": "",
+      "location": "Dhaka, Bangladesh",
+      "followers": 5,
+      "following": 7,
+      "public_repos": 14,
+      "top_languages": [
+        "C#",
+        "JavaScript",
+        "HTML",
+        "Java",
+        "MDX"
+      ],
+      "detected_skills": [
+        "C#",
+        "HTML",
+        "Java",
+        "JavaScript",
+        "MDX"
+      ],
+      "recent_activity_score": 5,
+      "last_push_at": "2024-10-28T15:45:31Z",
+      "top_repositories": [
+        {
+          "name": "Gmail-Api-Integration-in-.NET-Framework",
+          "html_url": "https://github.com/shahjahan48/Gmail-Api-Integration-in-.NET-Framework",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "C#",
+          "pushed_at": "2022-12-08T01:57:24Z",
+          "topics": []
+        },
+        {
+          "name": "e-commerce-master",
+          "html_url": "https://github.com/shahjahan48/e-commerce-master",
+          "description": "A modern e-Commerce App created with Spring MVC 5 and Mysql",
+          "stargazers_count": 0,
+          "forks_count": 1,
+          "language": "JavaScript",
+          "pushed_at": "2024-10-28T15:45:31Z",
+          "topics": []
+        },
+        {
+          "name": "docs",
+          "html_url": "https://github.com/shahjahan48/docs",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "MDX",
+          "pushed_at": "2024-06-09T09:30:09Z",
+          "topics": []
+        },
+        {
+          "name": "testing-api",
+          "html_url": "https://github.com/shahjahan48/testing-api",
+          "description": "This api will be used to test and serve demo data to client application like a proper production grade endpoints",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": null,
+          "pushed_at": "2022-07-23T19:03:20Z",
+          "topics": []
+        },
+        {
+          "name": "prime-ng",
+          "html_url": "https://github.com/shahjahan48/prime-ng",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "HTML",
+          "pushed_at": "2022-05-15T17:02:02Z",
+          "topics": []
+        },
+        {
+          "name": "expense-manager",
+          "html_url": "https://github.com/shahjahan48/expense-manager",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Java",
+          "pushed_at": "2022-01-01T09:10:50Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "Angular",
+      "ASP.NET Core",
+      "ASP.NET MVC",
+      "C#",
+      "DevOps",
+      "Docker",
+      "HTML",
+      "Java"
+    ],
+    "detected_skills": [
+      "C#",
+      "HTML",
+      "Java",
+      "JavaScript",
+      "MDX"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "8+ years",
+    "role_keywords": [
+      "Engineer",
+      "Senior",
+      "Software"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:14:44.266Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "GitHub request failed: 403 rate limit exceeded",
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.046Z"
+}

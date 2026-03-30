@@ -1,0 +1,32 @@
+version: 1
+slug: nandands-ku
+slug_source: github
+name: Nandan Kumar Das
+email: nandandas.ku@gmail.com
+headline: Senior Software Engineer
+primary_role: Senior Software Engineer
+secondary_roles: []
+experience_years: 6
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: false
+skills:
+  - .NET Framework
+  - .NET Core
+  - React
+  - MSSQL
+  - MongoDB
+  - Android
+  - Flutter
+current_company:
+  name: Dizi Nova Limited
+  url: http://dizinova.com/
+links:
+  github: https://github.com/nandands-ku
+  linkedin: https://www.linkedin.com/in/nandan-kumar-das
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

@@ -1,0 +1,31 @@
+version: 1
+slug: mazharku
+slug_source: github
+name: Mazhar Ibna Zahur
+email: mazhar.shapnil@gmail.com
+headline: Senior Software Engineer
+primary_role: Senior Software Engineer
+secondary_roles: []
+experience_years: 5
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - Quarkus
+  - Kotlin
+  - Docker
+  - DevOps
+current_company:
+  name: Tiller
+  url: https://tiller.com.bd/
+links:
+  github: https://github.com/mazharku
+  linkedin: https://www.linkedin.com/in/mazhar1322/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

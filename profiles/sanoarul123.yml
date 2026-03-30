@@ -1,0 +1,30 @@
+version: 1
+slug: sanoarul123
+slug_source: github
+name: Md Sanoarul Islam
+email:
+headline: Junior Backend Developer
+primary_role: Junior Backend Developer
+secondary_roles: []
+experience_years: 0.5
+location: Khulna, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - Python
+  - REST APIs
+  - PostgreSQL
+current_company:
+  name: Code Prophet
+  url: https://www.codeprophet.tech/
+links:
+  github: https://github.com/sanoarul123
+  linkedin: https://www.linkedin.com/in/md-sanoarul-islam-523942207/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

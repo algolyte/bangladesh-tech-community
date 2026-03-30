@@ -1,0 +1,162 @@
+{
+  "slug": "sanoarul123",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "sanoarul123",
+    "slug_source": "github",
+    "name": "Md Sanoarul Islam",
+    "email": null,
+    "headline": "Junior Backend Developer",
+    "primary_role": "Junior Backend Developer",
+    "secondary_roles": [],
+    "experience_years": 0.5,
+    "location": "Khulna, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "REST APIs",
+      "PostgreSQL"
+    ],
+    "current_company": {
+      "name": "Code Prophet",
+      "url": "https://www.codeprophet.tech/"
+    },
+    "links": {
+      "github": "https://github.com/sanoarul123",
+      "linkedin": "https://www.linkedin.com/in/md-sanoarul-islam-523942207/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "sanoarul123",
+      "name": "Md Sanoarul Islam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59704648?v=4",
+      "bio": "Assalamualaikum .I am a software Engineer. My expertise is in Java. ",
+      "company": "Code Prophet",
+      "blog": "",
+      "location": "Khulna",
+      "followers": 0,
+      "following": 1,
+      "public_repos": 33,
+      "top_languages": [
+        "Python",
+        "Go",
+        "JavaScript"
+      ],
+      "detected_skills": [
+        "Go",
+        "JavaScript",
+        "Python"
+      ],
+      "recent_activity_score": 5,
+      "last_push_at": "2025-11-03T11:53:47Z",
+      "top_repositories": [
+        {
+          "name": "quiz-frontends",
+          "html_url": "https://github.com/sanoarul123/quiz-frontends",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": null,
+          "pushed_at": "2025-11-03T11:53:47Z",
+          "topics": []
+        },
+        {
+          "name": "quiz-backend",
+          "html_url": "https://github.com/sanoarul123/quiz-backend",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": null,
+          "pushed_at": "2025-11-02T12:48:28Z",
+          "topics": []
+        },
+        {
+          "name": "quiz-frontend",
+          "html_url": "https://github.com/sanoarul123/quiz-frontend",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2025-10-07T16:43:42Z",
+          "topics": []
+        },
+        {
+          "name": "Python-Web-Scraping",
+          "html_url": "https://github.com/sanoarul123/Python-Web-Scraping",
+          "description": "Its a client Project that i have done.Its a image scraping frelance project.",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2025-08-23T14:04:28Z",
+          "topics": []
+        },
+        {
+          "name": "Learning-Go",
+          "html_url": "https://github.com/sanoarul123/Learning-Go",
+          "description": "A personal journey to mastering Go - step by step",
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Go",
+          "pushed_at": "2025-08-19T07:19:52Z",
+          "topics": []
+        },
+        {
+          "name": "djang-rest-framework",
+          "html_url": "https://github.com/sanoarul123/djang-rest-framework",
+          "description": null,
+          "stargazers_count": 0,
+          "forks_count": 0,
+          "language": "Python",
+          "pushed_at": "2025-06-03T16:11:19Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "Go",
+      "Java",
+      "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "REST APIs",
+      "Spring Boot"
+    ],
+    "detected_skills": [
+      "Go",
+      "JavaScript",
+      "Python"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "0-1 years",
+    "role_keywords": [
+      "Backend",
+      "Developer",
+      "Junior"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:14:43.019Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "GitHub request failed: 403 rate limit exceeded",
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.045Z"
+}

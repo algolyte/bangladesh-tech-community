@@ -1,0 +1,30 @@
+version: 1
+slug: asifalfattah
+slug_source: github
+name: Asif Al Fattah
+email: asifalfattah34@gmail.com
+headline: Junior Backend Developer
+primary_role: Junior Backend Developer
+secondary_roles: []
+experience_years: 0.5
+location: Khulna, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: true
+skills:
+  - Java
+  - Spring Boot
+  - PostgreSQL
+  - Docker
+  - Problem Solving
+current_company:
+  name: Code Prophet
+  url: https://www.codeprophet.tech/
+links:
+  github: https://github.com/AsifAlFattah
+  linkedin: https://www.linkedin.com/in/asif-al-fattah/
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

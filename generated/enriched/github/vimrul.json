@@ -1,0 +1,92 @@
+{
+  "slug": "vimrul",
+  "status": "ok",
+  "synced_at": "2026-03-30T12:14:51.644Z",
+  "error": "GitHub request failed: 403 rate limit exceeded",
+  "data": {
+    "username": "vimrul",
+    "name": "Mohammad Imrul Hasan",
+    "avatar_url": "https://avatars.githubusercontent.com/u/3600805?v=4",
+    "bio": "Professional procrastinator on a quest to break the world record for most unfinished projects.",
+    "company": null,
+    "blog": "https://imrul.net/",
+    "location": "Dhaka",
+    "followers": 10,
+    "following": 20,
+    "public_repos": 49,
+    "top_languages": [
+      "Shell",
+      "Python",
+      "CSS"
+    ],
+    "detected_skills": [
+      "CSS",
+      "Python",
+      "Shell"
+    ],
+    "recent_activity_score": 6,
+    "last_push_at": "2025-12-19T06:32:33Z",
+    "top_repositories": [
+      {
+        "name": "docker-jellyfin-sonarr-radarr-stack",
+        "html_url": "https://github.com/vimrul/docker-jellyfin-sonarr-radarr-stack",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": null,
+        "pushed_at": "2025-04-02T18:58:14Z",
+        "topics": []
+      },
+      {
+        "name": "kafka-kraft-observability-stack",
+        "html_url": "https://github.com/vimrul/kafka-kraft-observability-stack",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Shell",
+        "pushed_at": "2025-11-11T07:37:37Z",
+        "topics": []
+      },
+      {
+        "name": "devops",
+        "html_url": "https://github.com/vimrul/devops",
+        "description": null,
+        "stargazers_count": 1,
+        "forks_count": 0,
+        "language": "Shell",
+        "pushed_at": "2024-02-25T06:35:52Z",
+        "topics": []
+      },
+      {
+        "name": "locust-load-testing-framework",
+        "html_url": "https://github.com/vimrul/locust-load-testing-framework",
+        "description": "This repository contains a Locust-based stress testing and performance benchmarking framework for APIs and microservices. ",
+        "stargazers_count": 0,
+        "forks_count": 1,
+        "language": "Python",
+        "pushed_at": "2025-03-10T05:19:28Z",
+        "topics": []
+      },
+      {
+        "name": "NFS-Load-Mini-App",
+        "html_url": "https://github.com/vimrul/NFS-Load-Mini-App",
+        "description": null,
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "Python",
+        "pushed_at": "2025-12-19T06:32:33Z",
+        "topics": []
+      },
+      {
+        "name": "simple-video-manager",
+        "html_url": "https://github.com/vimrul/simple-video-manager",
+        "description": "simple-video-manager",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "language": "CSS",
+        "pushed_at": "2025-12-12T15:14:56Z",
+        "topics": []
+      }
+    ]
+  }
+}

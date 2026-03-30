@@ -1,0 +1,28 @@
+version: 1
+slug: imshafin
+slug_source: github
+name: Izazur Rahman Shafin
+email: imshafin97@gmail.com
+headline: Support Engineer
+primary_role: Support Engineer
+secondary_roles: []
+experience_years: 0
+location: Dhaka, Bangladesh
+country: Bangladesh
+timezone: Asia/Dhaka
+availability: unknown
+remote: false
+skills:
+  - C++
+  - Python
+  - FastAPI
+current_company:
+  name: Penta Global Limited
+  url: https://www.pentabd.com/
+links:
+  github: https://github.com/imShafin
+  linkedin: https://www.linkedin.com/in/izazurrahmanshafin
+  portfolio:
+  gitlab:
+  stackoverflow:
+  blog:

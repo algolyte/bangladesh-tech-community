@@ -1,0 +1,167 @@
+{
+  "slug": "zahidhasanpapon",
+  "slug_source": "github",
+  "submitted": {
+    "version": 1,
+    "slug": "zahidhasanpapon",
+    "slug_source": "github",
+    "name": "Zahid Hasan",
+    "email": "zahidhasanpapon@gmail.com",
+    "headline": "Software Engineer",
+    "primary_role": "Software Engineer",
+    "secondary_roles": [],
+    "experience_years": 2,
+    "location": "Dhaka, Bangladesh",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "availability": "unknown",
+    "remote": true,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "Django",
+      "Docker",
+      "Redis",
+      "RabbitMQ"
+    ],
+    "current_company": {
+      "name": "Penta Global Limited",
+      "url": "https://www.pentabd.com/"
+    },
+    "links": {
+      "github": "https://github.com/zahidhasanpapon",
+      "linkedin": "https://www.linkedin.com/in/zahidhasanpapon/",
+      "portfolio": null,
+      "gitlab": null,
+      "stackoverflow": null,
+      "blog": null
+    }
+  },
+  "enriched": {
+    "github": {
+      "username": "zahidhasanpapon",
+      "name": "Zahid Hasan ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23638044?v=4",
+      "bio": null,
+      "company": "Scicom MSC Berhad",
+      "blog": "zahidhasanpapon.github.io",
+      "location": "Kuala Lumpur, Malaysia",
+      "followers": 46,
+      "following": 329,
+      "public_repos": 39,
+      "top_languages": [
+        "JavaScript",
+        "CSS",
+        "Go",
+        "Java"
+      ],
+      "detected_skills": [
+        "CSS",
+        "Go",
+        "Java",
+        "JavaScript"
+      ],
+      "recent_activity_score": 8,
+      "last_push_at": "2025-12-09T15:10:12Z",
+      "top_repositories": [
+        {
+          "name": "server-developer-praava",
+          "html_url": "https://github.com/zahidhasanpapon/server-developer-praava",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 2,
+          "language": "JavaScript",
+          "pushed_at": "2022-10-04T09:09:39Z",
+          "topics": []
+        },
+        {
+          "name": "zahidhasanpapon.github.io.old",
+          "html_url": "https://github.com/zahidhasanpapon/zahidhasanpapon.github.io.old",
+          "description": "My personal website.",
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "JavaScript",
+          "pushed_at": "2022-03-21T15:09:35Z",
+          "topics": []
+        },
+        {
+          "name": "gololcat",
+          "html_url": "https://github.com/zahidhasanpapon/gololcat",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "Go",
+          "pushed_at": "2022-06-27T04:40:52Z",
+          "topics": []
+        },
+        {
+          "name": "online-food-ordering-system",
+          "html_url": "https://github.com/zahidhasanpapon/online-food-ordering-system",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "CSS",
+          "pushed_at": "2020-11-21T05:30:41Z",
+          "topics": []
+        },
+        {
+          "name": "on-the-go-crime-reporting",
+          "html_url": "https://github.com/zahidhasanpapon/on-the-go-crime-reporting",
+          "description": "Simple android application ",
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": "Java",
+          "pushed_at": "2020-11-21T12:54:19Z",
+          "topics": []
+        },
+        {
+          "name": "cse707",
+          "html_url": "https://github.com/zahidhasanpapon/cse707",
+          "description": null,
+          "stargazers_count": 1,
+          "forks_count": 0,
+          "language": null,
+          "pushed_at": "2022-06-30T10:57:13Z",
+          "topics": []
+        }
+      ]
+    },
+    "portfolio": null
+  },
+  "computed": {
+    "top_skills": [
+      "CSS",
+      "Django",
+      "Docker",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Python",
+      "RabbitMQ"
+    ],
+    "detected_skills": [
+      "CSS",
+      "Go",
+      "Java",
+      "JavaScript"
+    ],
+    "profile_completeness": 82,
+    "experience_band": "1-3 years",
+    "role_keywords": [
+      "Engineer",
+      "Software"
+    ]
+  },
+  "sync": {
+    "github_last_synced_at": "2026-03-30T12:14:53.164Z",
+    "portfolio_last_synced_at": null,
+    "github_status": "ok",
+    "portfolio_status": "skipped",
+    "notes": [
+      "GitHub request failed: 403 rate limit exceeded",
+      "No portfolio URL provided."
+    ]
+  },
+  "updated_at": "2026-03-30T12:19:18.049Z"
+}
