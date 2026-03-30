@@ -7,10 +7,10 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "NODE_OPTIONS=--no-experimental-webstorage next dev",
+    "build": "NODE_OPTIONS=--no-experimental-webstorage next build",
     "build:web": "next build",
-    "start": "next start",
+    "start": "npx serve@latest out -l 3000",
     "lint": "next lint",
     "validate": "node --import tsx scripts/validate-profiles.ts",
     "build:submitted": "node --import tsx scripts/build-submitted-json.ts",
