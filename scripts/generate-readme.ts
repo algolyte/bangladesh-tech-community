@@ -14,32 +14,9 @@ function loadDevelopers(): NormalizedDeveloper[] {
     ) as NormalizedDeveloper[];
 }
 
-function buildDeveloperMarkdown(developer: NormalizedDeveloper): string {
-  const github = developer.submitted.links.github
-    ? `- **GitHub**: ${developer.submitted.links.github}`
-    : "- **GitHub**: Not provided";
-  const linkedin = developer.submitted.links.linkedin
-    ? `- **LinkedIn**: ${developer.submitted.links.linkedin}`
-    : "- **LinkedIn**: Not provided";
-
-  return [
-    `### ${developer.submitted.name}`,
-    `- **Headline**: ${developer.submitted.headline}`,
-    `- **Primary Role**: ${developer.submitted.primary_role}`,
-    `- **Experience**: ${developer.submitted.experience_years} years`,
-    `- **Location**: ${developer.submitted.location}`,
-    `- **Availability**: ${developer.submitted.availability}`,
-    `- **Remote**: ${developer.submitted.remote ? "Yes" : "No"}`,
-    `- **Skills**: ${developer.submitted.skills.join(", ")}`,
-    github,
-    linkedin
-  ].join("\n");
-}
-
 function main(): void {
-  const developers = loadDevelopers().sort((a, b) =>
-    a.submitted.name.localeCompare(b.submitted.name)
-  );
+  const developers = loadDevelopers();
+  const totalDevelopers = developers.length;
 
   const readme = `# Bangladesh Tech Community
 
@@ -58,9 +35,11 @@ Static developer directory and public ecosystem dashboard for Bangladeshi tech p
 2. Validation and enrichment scripts build deterministic JSON artifacts in \`generated/\`.
 3. The Next.js site reads generated data and renders a static directory and dashboard.
 
-## Current Directory
+## Community Snapshot
 
-${developers.map(buildDeveloperMarkdown).join("\n\n")}
+- Total developer profiles: ${totalDevelopers}
+- Source files: \`profiles/*.yml\`
+- Directory page: \`/developers\`
 
 ## Generated Data
 
