@@ -1,9 +1,8 @@
 version: 1
-slug: atpial
-slug_source: github
 name: H.M Atahar Nur
 email: atp82232@gmail.com
 headline: Solution Developer (Cloud)
+bio: null
 primary_role: Solution Developer (Cloud)
 secondary_roles: []
 experience_years: 2
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Python
@@ -25,7 +25,9 @@ current_company:
 links:
   github: https://github.com/atpial
   linkedin: https://www.linkedin.com/in/atahar-nur-pial/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

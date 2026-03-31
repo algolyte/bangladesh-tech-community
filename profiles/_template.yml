@@ -1,11 +1,9 @@
 version: 1
 
-slug: your-github-username
-slug_source: github
-
 name: Your Name
 email:
 headline: Senior Software Engineer
+bio: Short summary about your background, impact, and interests.
 primary_role: Backend Engineer
 secondary_roles: []
 
@@ -15,6 +13,7 @@ country: Bangladesh
 timezone: Asia/Dhaka
 
 availability: open_to_opportunities
+preferred_work_type: remote
 remote: true
 
 skills:
@@ -30,7 +29,10 @@ current_company:
 links:
   github: https://github.com/your-github-username
   linkedin: https://www.linkedin.com/in/your-profile
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+
+profile_status: active
+last_updated_by_user: 2026-03-31

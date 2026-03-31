@@ -1,9 +1,8 @@
 version: 1
-slug: asifalfattah
-slug_source: github
 name: Asif Al Fattah
 email: asifalfattah34@gmail.com
 headline: Junior Backend Developer
+bio: null
 primary_role: Junior Backend Developer
 secondary_roles: []
 experience_years: 0.5
@@ -11,6 +10,7 @@ location: Khulna, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Java
@@ -24,7 +24,9 @@ current_company:
 links:
   github: https://github.com/AsifAlFattah
   linkedin: https://www.linkedin.com/in/asif-al-fattah/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

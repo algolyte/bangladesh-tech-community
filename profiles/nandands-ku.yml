@@ -1,9 +1,8 @@
 version: 1
-slug: nandands-ku
-slug_source: github
 name: Nandan Kumar Das
 email: nandandas.ku@gmail.com
 headline: Senior Software Engineer
+bio: null
 primary_role: Senior Software Engineer
 secondary_roles: []
 experience_years: 6
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: onsite
 remote: false
 skills:
   - .NET Framework
@@ -26,7 +26,9 @@ current_company:
 links:
   github: https://github.com/nandands-ku
   linkedin: https://www.linkedin.com/in/nandan-kumar-das
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

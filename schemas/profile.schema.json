@@ -5,8 +5,6 @@
   "additionalProperties": false,
   "required": [
     "version",
-    "slug",
-    "slug_source",
     "name",
     "headline",
     "primary_role",
@@ -15,22 +13,17 @@
     "country",
     "timezone",
     "availability",
+    "preferred_work_type",
     "remote",
     "skills",
-    "links"
+    "links",
+    "profile_status",
+    "last_updated_by_user"
   ],
   "properties": {
     "version": {
       "type": "integer",
       "const": 1
-    },
-    "slug": {
-      "type": "string",
-      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
-    },
-    "slug_source": {
-      "type": "string",
-      "enum": ["github", "name"]
     },
     "name": {
       "type": "string",
@@ -42,6 +35,10 @@
     },
     "headline": {
       "type": "string",
+      "minLength": 2
+    },
+    "bio": {
+      "type": ["string", "null"],
       "minLength": 2
     },
     "primary_role": {
@@ -81,6 +78,10 @@
         "unknown"
       ]
     },
+    "preferred_work_type": {
+      "type": "string",
+      "enum": ["remote", "hybrid", "onsite", "flexible"]
+    },
     "remote": {
       "type": "boolean"
     },
@@ -112,11 +113,11 @@
       "properties": {
         "github": {
           "type": ["string", "null"],
-          "format": "uri"
+          "pattern": "^https?://(www\\.)?github\\.com/[^/]+/?$"
         },
         "linkedin": {
           "type": ["string", "null"],
-          "format": "uri"
+          "pattern": "^https?://([a-zA-Z0-9-]+\\.)*linkedin\\.com/.*$"
         },
         "portfolio": {
           "type": ["string", "null"],
@@ -135,6 +136,14 @@
           "format": "uri"
         }
       }
+    },
+    "profile_status": {
+      "type": "string",
+      "enum": ["active", "inactive"]
+    },
+    "last_updated_by_user": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
     }
   }
 }

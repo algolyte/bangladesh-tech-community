@@ -22,3 +22,6 @@ jobs:
 
       - name: Validate profiles
         run: npm run validate
+
+      - name: Build normalized developer data
+        run: npm run build:data

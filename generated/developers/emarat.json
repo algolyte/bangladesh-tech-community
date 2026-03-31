@@ -3,11 +3,10 @@
   "slug_source": "github",
   "submitted": {
     "version": 1,
-    "slug": "emarat",
-    "slug_source": "github",
     "name": "Md Emarat Hossain",
     "email": "emarathossain00@gmail.com",
     "headline": "Product Manager",
+    "bio": null,
     "primary_role": "Product Manager",
     "secondary_roles": [],
     "experience_years": 2,
@@ -15,6 +14,7 @@
     "country": "Bangladesh",
     "timezone": "Asia/Dhaka",
     "availability": "unknown",
+    "preferred_work_type": "onsite",
     "remote": false,
     "skills": [
       "Flutter",
@@ -37,7 +37,9 @@
       "gitlab": null,
       "stackoverflow": null,
       "blog": null
-    }
+    },
+    "profile_status": "active",
+    "last_updated_by_user": "2026-03-31"
   },
   "enriched": {
     "github": {
@@ -163,5 +165,5 @@
       "No portfolio URL provided."
     ]
   },
-  "updated_at": "2026-03-30T12:19:18.037Z"
+  "updated_at": "2026-03-30T18:59:01.470Z"
 }

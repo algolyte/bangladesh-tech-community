@@ -9,10 +9,15 @@ function main(): void {
   const loadedProfiles = loadAllProfiles();
   ensureDir(generatedSubmittedDir);
 
-  const profiles = loadedProfiles.map(({ fileName, profile }) => ({
-    file_name: fileName,
-    ...profile
-  }));
+  const profiles = loadedProfiles.map(({ fileName, profile }) => {
+    const { slug, slug_source, ...submitted } = profile;
+    return {
+      file_name: fileName,
+      slug,
+      slug_source,
+      submitted
+    };
+  });
 
   writeRawGeneratedJson(path.join(generatedSubmittedDir, "profiles.json"), profiles);
   console.log(`Wrote ${profiles.length} submitted profiles.`);

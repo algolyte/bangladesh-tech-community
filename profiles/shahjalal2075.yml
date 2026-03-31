@@ -1,9 +1,8 @@
 version: 1
-slug: shahjalal2075
-slug_source: github
 name: Mullah Mohammad Shahjalal
 email: shahjalal2075@gmail.com
 headline: Full Stack Developer
+bio: null
 primary_role: Full Stack Developer
 secondary_roles: []
 experience_years: 1
@@ -11,6 +10,7 @@ location: Jashore, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - JavaScript
@@ -26,7 +26,9 @@ current_company:
 links:
   github: https://github.com/Shahjalal2075
   linkedin: https://www.linkedin.com/in/shahjalal2075
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

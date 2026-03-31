@@ -3,11 +3,10 @@
   "slug_source": "github",
   "submitted": {
     "version": 1,
-    "slug": "nandands-ku",
-    "slug_source": "github",
     "name": "Nandan Kumar Das",
     "email": "nandandas.ku@gmail.com",
     "headline": "Senior Software Engineer",
+    "bio": null,
     "primary_role": "Senior Software Engineer",
     "secondary_roles": [],
     "experience_years": 6,
@@ -15,6 +14,7 @@
     "country": "Bangladesh",
     "timezone": "Asia/Dhaka",
     "availability": "unknown",
+    "preferred_work_type": "onsite",
     "remote": false,
     "skills": [
       ".NET Framework",
@@ -36,7 +36,9 @@
       "gitlab": null,
       "stackoverflow": null,
       "blog": null
-    }
+    },
+    "profile_status": "active",
+    "last_updated_by_user": "2026-03-31"
   },
   "enriched": {
     "github": {
@@ -155,5 +157,5 @@
       "No portfolio URL provided."
     ]
   },
-  "updated_at": "2026-03-30T12:19:18.042Z"
+  "updated_at": "2026-03-30T18:59:01.473Z"
 }

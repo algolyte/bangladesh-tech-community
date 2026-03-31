@@ -3,11 +3,10 @@
   "slug_source": "github",
   "submitted": {
     "version": 1,
-    "slug": "nabil053",
-    "slug_source": "github",
     "name": "Nabil Ahmed",
     "email": "nabil.cse.53@gmail.com",
     "headline": "Student",
+    "bio": null,
     "primary_role": "Student",
     "secondary_roles": [],
     "experience_years": 2,
@@ -15,6 +14,7 @@
     "country": "Canada",
     "timezone": "America/Halifax",
     "availability": "unknown",
+    "preferred_work_type": "remote",
     "remote": true,
     "skills": [
       "Java",
@@ -37,7 +37,9 @@
       "gitlab": null,
       "stackoverflow": null,
       "blog": null
-    }
+    },
+    "profile_status": "active",
+    "last_updated_by_user": "2026-03-31"
   },
   "enriched": {
     "github": {
@@ -156,5 +158,5 @@
       "No portfolio URL provided."
     ]
   },
-  "updated_at": "2026-03-30T12:19:18.041Z"
+  "updated_at": "2026-03-30T18:59:01.473Z"
 }

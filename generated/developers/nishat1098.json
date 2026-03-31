@@ -3,11 +3,10 @@
   "slug_source": "github",
   "submitted": {
     "version": 1,
-    "slug": "nishat1098",
-    "slug_source": "github",
     "name": "Nishanul Nishat",
     "email": "nishanul.nishat@example.com",
     "headline": "Senior Software Engineer",
+    "bio": null,
     "primary_role": "Senior Software Engineer",
     "secondary_roles": [],
     "experience_years": 2.5,
@@ -15,6 +14,7 @@
     "country": "Bangladesh",
     "timezone": "Asia/Dhaka",
     "availability": "unknown",
+    "preferred_work_type": "remote",
     "remote": true,
     "skills": [
       "Java",
@@ -36,7 +36,9 @@
       "gitlab": null,
       "stackoverflow": null,
       "blog": null
-    }
+    },
+    "profile_status": "active",
+    "last_updated_by_user": "2026-03-31"
   },
   "enriched": {
     "github": {
@@ -161,5 +163,5 @@
       "No portfolio URL provided."
     ]
   },
-  "updated_at": "2026-03-30T12:19:18.042Z"
+  "updated_at": "2026-03-30T18:59:01.474Z"
 }

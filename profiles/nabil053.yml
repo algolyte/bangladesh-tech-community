@@ -1,9 +1,8 @@
 version: 1
-slug: nabil053
-slug_source: github
 name: Nabil Ahmed
 email: nabil.cse.53@gmail.com
 headline: Student
+bio: null
 primary_role: Student
 secondary_roles: []
 experience_years: 2
@@ -11,6 +10,7 @@ location: Fredericton, New Brunswick, Canada
 country: Canada
 timezone: America/Halifax
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Java
@@ -27,7 +27,9 @@ current_company:
 links:
   github: https://github.com/nabil053
   linkedin: https://www.linkedin.com/in/nabil-ahmed-900601195/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

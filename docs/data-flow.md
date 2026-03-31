@@ -5,7 +5,7 @@
 ## Pipeline
 
 1. `npm run validate`  
-   Validates YAML files against the schema and filename/slug rules.
+   Validates YAML files against the schema and filename/computed-slug rules.
 2. `npm run build:submitted`  
    Produces `generated/submitted/profiles.json`.
 3. `npm run enrich:github`  
@@ -22,6 +22,7 @@
 ## Rules
 
 - LinkedIn URLs are validated and stored only. They are never scraped.
+- Slug and slug source are computed automatically from GitHub URL (fallback: slugified name).
 - Submitted data and enriched data remain separate.
 - Generated files are deterministic and safe to rebuild anywhere.
 - Missing fields stay missing instead of being guessed.

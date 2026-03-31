@@ -72,6 +72,7 @@ function main(): void {
   removeGeneratedJsonFiles(generatedDevelopersDir);
 
   const developers: NormalizedDeveloper[] = loadedProfiles.map(({ profile }) => {
+    const { slug: _slug, slug_source: _slugSource, ...submitted } = profile;
     const github = readEnrichment<GitHubEnrichment>(generatedEnrichedGitHubDir, profile.slug);
     const portfolio = readEnrichment<PortfolioEnrichment>(
       generatedEnrichedPortfolioDir,
@@ -85,7 +86,7 @@ function main(): void {
     const normalized: NormalizedDeveloper = {
       slug: profile.slug,
       slug_source: profile.slug_source,
-      submitted: profile,
+      submitted,
       enriched: {
         github: githubData,
         portfolio: portfolioData

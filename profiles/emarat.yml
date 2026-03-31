@@ -1,9 +1,8 @@
 version: 1
-slug: emarat
-slug_source: github
 name: Md Emarat Hossain
 email: emarathossain00@gmail.com
 headline: Product Manager
+bio: null
 primary_role: Product Manager
 secondary_roles: []
 experience_years: 2
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: onsite
 remote: false
 skills:
   - Flutter
@@ -27,7 +27,9 @@ current_company:
 links:
   github: https://github.com/Emarat
   linkedin: https://www.linkedin.com/in/emarat/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

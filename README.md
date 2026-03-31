@@ -15,6 +15,13 @@ Static developer directory and public ecosystem dashboard for Bangladeshi tech p
 2. Validation and enrichment scripts build deterministic JSON artifacts in `generated/`.
 3. The Next.js site reads generated data and renders a static directory and dashboard.
 
+## Contributor Format
+
+- Create `profiles/<github-username>.yml` when you have a GitHub profile.
+- Do not add `slug` or `slug_source` manually. They are computed automatically.
+- If `links.github` is missing, slug falls back to slugified `name`.
+- LinkedIn URLs are stored and validated only. They are never scraped.
+
 ## Community Snapshot
 
 - Total developer profiles: 19

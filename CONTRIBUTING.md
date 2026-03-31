@@ -17,14 +17,16 @@ The source of truth is:
 ## Profile Rules
 
 - One contributor profile per file.
-- Filename must match `slug`.
-- If you have a GitHub profile, use your GitHub username as the filename and slug.
-- If you do not have GitHub, use a slugified version of your name and set `slug_source: name`.
+- Do not add `slug` or `slug_source` in YAML. They are computed automatically.
+- If you have a GitHub profile, use your GitHub username as the filename.
+- If you do not have GitHub, use a slugified version of your name as the filename.
 - `version: 1` is required.
 - `availability` must be one of: `available_now`, `open_to_opportunities`, `available_in_2_weeks`, `not_available`, `unknown`.
+- `preferred_work_type` must be one of: `remote`, `hybrid`, `onsite`, `flexible`.
 - `skills` must be an array of strings.
 - `experience_years` must be numeric.
 - LinkedIn URLs are validated but never scraped.
+- Keep optional links as `null` when you do not use them.
 
 ## What Gets Enriched Automatically
 

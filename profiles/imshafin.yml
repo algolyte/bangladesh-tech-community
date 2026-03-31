@@ -1,9 +1,8 @@
 version: 1
-slug: imshafin
-slug_source: github
 name: Izazur Rahman Shafin
 email: imshafin97@gmail.com
 headline: Support Engineer
+bio: null
 primary_role: Support Engineer
 secondary_roles: []
 experience_years: 0
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: onsite
 remote: false
 skills:
   - C++
@@ -22,7 +22,9 @@ current_company:
 links:
   github: https://github.com/imShafin
   linkedin: https://www.linkedin.com/in/izazurrahmanshafin
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

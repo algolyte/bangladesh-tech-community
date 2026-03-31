@@ -1,9 +1,8 @@
 version: 1
-slug: imran110219
-slug_source: github
 name: Sadman Sobhan
 email: imran110219@gmail.com
 headline: Senior Software Engineer
+bio: null
 primary_role: Senior Software Engineer
 secondary_roles: []
 experience_years: 8
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Java
@@ -23,7 +23,9 @@ current_company:
 links:
   github: https://github.com/imran110219
   linkedin: https://www.linkedin.com/in/sadman
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

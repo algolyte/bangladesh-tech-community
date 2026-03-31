@@ -16,9 +16,10 @@
     "build:submitted": "node --import tsx scripts/build-submitted-json.ts",
     "enrich:github": "node --import tsx scripts/enrich-github.ts",
     "enrich:portfolio": "node --import tsx scripts/enrich-portfolio.ts",
-    "build:data": "node --import tsx scripts/build-normalized-data.ts",
+    "build:data": "node --import tsx scripts/build-profiles.ts",
     "build:dashboard": "node --import tsx scripts/build-dashboard-data.ts",
     "generate:readme": "node --import tsx scripts/generate-readme.ts",
+    "migrate:readme": "node --import tsx scripts/migrate-readme.ts",
     "sync": "node --import tsx scripts/sync-all.ts"
   },
   "dependencies": {

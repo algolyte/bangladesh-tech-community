@@ -1,9 +1,8 @@
 version: 1
-slug: mashuq0068
-slug_source: github
 name: Md Mashuqur Rahman
 email: mashuq0068@gmail.com
 headline: Junior Frontend Developer
+bio: null
 primary_role: Junior Frontend Developer
 secondary_roles: []
 experience_years: 0.5
@@ -11,6 +10,7 @@ location: Khulna, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - JavaScript
@@ -23,7 +23,9 @@ current_company:
 links:
   github: https://github.com/mashuq0068
   linkedin: https://www.linkedin.com/in/md-mashuqur-rahman-3aaab8260/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

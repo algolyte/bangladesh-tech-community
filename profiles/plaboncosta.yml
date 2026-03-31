@@ -1,9 +1,8 @@
 version: 1
-slug: plaboncosta
-slug_source: github
 name: Plabon Costa
 email: plabonjoseph@gmail.com
 headline: Software Engineer
+bio: null
 primary_role: Software Engineer
 secondary_roles: []
 experience_years: 5
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Java
@@ -31,7 +31,9 @@ current_company:
 links:
   github: https://github.com/plaboncosta
   linkedin: https://www.linkedin.com/in/plabon-costa-45b01a168/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

@@ -3,11 +3,10 @@
   "slug_source": "github",
   "submitted": {
     "version": 1,
-    "slug": "vimrul",
-    "slug_source": "github",
     "name": "Mohammad Imrul Hasan",
     "email": "viimrul@gmail.com",
     "headline": "DevOps Engineer",
+    "bio": null,
     "primary_role": "DevOps Engineer",
     "secondary_roles": [],
     "experience_years": 13,
@@ -15,6 +14,7 @@
     "country": "Bangladesh",
     "timezone": "Asia/Dhaka",
     "availability": "unknown",
+    "preferred_work_type": "remote",
     "remote": true,
     "skills": [
       "AWS",
@@ -50,7 +50,9 @@
       "gitlab": null,
       "stackoverflow": null,
       "blog": null
-    }
+    },
+    "profile_status": "active",
+    "last_updated_by_user": "2026-03-31"
   },
   "enriched": {
     "github": {
@@ -174,5 +176,5 @@
       "No portfolio URL provided."
     ]
   },
-  "updated_at": "2026-03-30T12:19:18.048Z"
+  "updated_at": "2026-03-30T18:59:01.475Z"
 }

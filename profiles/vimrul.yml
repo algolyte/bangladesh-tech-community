@@ -1,9 +1,8 @@
 version: 1
-slug: vimrul
-slug_source: github
 name: Mohammad Imrul Hasan
 email: viimrul@gmail.com
 headline: DevOps Engineer
+bio: null
 primary_role: DevOps Engineer
 secondary_roles: []
 experience_years: 13
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - AWS
@@ -40,7 +40,9 @@ current_company:
 links:
   github: https://github.com/vimrul
   linkedin: https://www.linkedin.com/in/imrull
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

@@ -9,6 +9,17 @@ export const availabilityValues = [
 ] as const;
 
 export const slugSourceValues = ["github", "name"] as const;
+export const preferredWorkTypeValues = ["remote", "hybrid", "onsite", "flexible"] as const;
+export const profileStatusValues = ["active", "inactive"] as const;
+
+function hasHostname(url: string, matcher: (hostname: string) => boolean): boolean {
+  try {
+    const parsed = new URL(url);
+    return matcher(parsed.hostname.toLowerCase());
+  } catch {
+    return false;
+  }
+}
 
 const nullableUrlSchema = z
   .string()
@@ -26,6 +37,22 @@ const nullableEmailSchema = z
   .nullable()
   .transform((value) => value ?? null);
 
+const nullableGitHubUrlSchema = nullableUrlSchema.refine((value) => {
+  if (!value) {
+    return true;
+  }
+  return hasHostname(value, (hostname) => hostname === "github.com" || hostname === "www.github.com");
+}, "GitHub URL must use github.com.");
+
+const nullableLinkedInUrlSchema = nullableUrlSchema.refine((value) => {
+  if (!value) {
+    return true;
+  }
+  return hasHostname(value, (hostname) => hostname === "linkedin.com" || hostname.endsWith(".linkedin.com"));
+}, "LinkedIn URL must use linkedin.com.");
+
+const dateOnlySchema = z.string().trim().regex(/^\d{4}-\d{2}-\d{2}$/, "Date must be YYYY-MM-DD.");
+
 export const companySchema = z
   .object({
     name: z.string().trim().min(1),
@@ -35,25 +62,20 @@ export const companySchema = z
   .default(null);
 
 export const linksSchema = z.object({
-  github: nullableUrlSchema.optional().default(null),
-  linkedin: nullableUrlSchema.optional().default(null),
+  github: nullableGitHubUrlSchema.optional().default(null),
+  linkedin: nullableLinkedInUrlSchema.optional().default(null),
   portfolio: nullableUrlSchema.optional().default(null),
   gitlab: nullableUrlSchema.optional().default(null),
   stackoverflow: nullableUrlSchema.optional().default(null),
   blog: nullableUrlSchema.optional().default(null)
 });
 
-export const submittedProfileSchema = z.object({
+export const submittedProfileInputSchema = z.object({
   version: z.literal(1),
-  slug: z
-    .string()
-    .trim()
-    .min(1)
-    .regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
-  slug_source: z.enum(slugSourceValues),
   name: z.string().trim().min(2),
   email: nullableEmailSchema.optional().default(null),
   headline: z.string().trim().min(2),
+  bio: z.string().trim().min(2).nullable().optional().default(null),
   primary_role: z.string().trim().min(2),
   secondary_roles: z.array(z.string().trim().min(1)).default([]),
   experience_years: z.number().min(0),
@@ -61,13 +83,20 @@ export const submittedProfileSchema = z.object({
   country: z.string().trim().min(2),
   timezone: z.string().trim().min(2),
   availability: z.enum(availabilityValues),
+  preferred_work_type: z.enum(preferredWorkTypeValues),
   remote: z.boolean(),
   skills: z.array(z.string().trim().min(1)).min(1),
   current_company: companySchema,
-  links: linksSchema
+  links: linksSchema,
+  profile_status: z.enum(profileStatusValues),
+  last_updated_by_user: dateOnlySchema
 });
 
-export type SubmittedProfile = z.infer<typeof submittedProfileSchema>;
+export type SubmittedProfileInput = z.infer<typeof submittedProfileInputSchema>;
+export type SubmittedProfile = SubmittedProfileInput & {
+  slug: string;
+  slug_source: "github" | "name";
+};
 
 export type GitHubRepo = {
   name: string;
@@ -113,7 +142,7 @@ export type SyncStatus = "ok" | "skipped" | "error" | "pending";
 export type NormalizedDeveloper = {
   slug: string;
   slug_source: "github" | "name";
-  submitted: SubmittedProfile;
+  submitted: SubmittedProfileInput;
   enriched: {
     github: GitHubEnrichment | null;
     portfolio: PortfolioEnrichment | null;

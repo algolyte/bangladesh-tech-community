@@ -1,9 +1,8 @@
 version: 1
-slug: shahjahan48
-slug_source: github
 name: Md Shahjahan
 email: shahjahan.cseku11@gmail.com
 headline: Senior Software Engineer
+bio: null
 primary_role: Senior Software Engineer
 secondary_roles: []
 experience_years: 8
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Java
@@ -30,7 +30,9 @@ current_company:
 links:
   github: https://github.com/shahjahan48
   linkedin: https://www.linkedin.com/in/md-shahjahan-771ba6161
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"

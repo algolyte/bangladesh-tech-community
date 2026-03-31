@@ -3,11 +3,10 @@
   "slug_source": "github",
   "submitted": {
     "version": 1,
-    "slug": "shahjalal2075",
-    "slug_source": "github",
     "name": "Mullah Mohammad Shahjalal",
     "email": "shahjalal2075@gmail.com",
     "headline": "Full Stack Developer",
+    "bio": null,
     "primary_role": "Full Stack Developer",
     "secondary_roles": [],
     "experience_years": 1,
@@ -15,6 +14,7 @@
     "country": "Bangladesh",
     "timezone": "Asia/Dhaka",
     "availability": "unknown",
+    "preferred_work_type": "remote",
     "remote": true,
     "skills": [
       "JavaScript",
@@ -36,7 +36,9 @@
       "gitlab": null,
       "stackoverflow": null,
       "blog": null
-    }
+    },
+    "profile_status": "active",
+    "last_updated_by_user": "2026-03-31"
   },
   "enriched": {
     "github": {
@@ -159,5 +161,5 @@
       "No portfolio URL provided."
     ]
   },
-  "updated_at": "2026-03-30T12:19:18.047Z"
+  "updated_at": "2026-03-30T18:59:01.475Z"
 }

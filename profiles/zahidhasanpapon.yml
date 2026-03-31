@@ -1,9 +1,8 @@
 version: 1
-slug: zahidhasanpapon
-slug_source: github
 name: Zahid Hasan
 email: zahidhasanpapon@gmail.com
 headline: Software Engineer
+bio: null
 primary_role: Software Engineer
 secondary_roles: []
 experience_years: 2
@@ -11,6 +10,7 @@ location: Dhaka, Bangladesh
 country: Bangladesh
 timezone: Asia/Dhaka
 availability: unknown
+preferred_work_type: remote
 remote: true
 skills:
   - Java
@@ -26,7 +26,9 @@ current_company:
 links:
   github: https://github.com/zahidhasanpapon
   linkedin: https://www.linkedin.com/in/zahidhasanpapon/
-  portfolio:
-  gitlab:
-  stackoverflow:
-  blog:
+  portfolio: null
+  gitlab: null
+  stackoverflow: null
+  blog: null
+profile_status: active
+last_updated_by_user: "2026-03-31"
