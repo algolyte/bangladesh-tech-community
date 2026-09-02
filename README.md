@@ -34,3 +34,5 @@ Generated files are written to `generated`.
 
 
 <!-- Security scan triggered at 2026-09-02 07:07:32 -->
+
+<!-- Security scan triggered at 2026-09-02 07:08:32 -->
