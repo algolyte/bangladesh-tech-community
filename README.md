@@ -31,3 +31,6 @@ Static developer directory and public ecosystem dashboard for Bangladeshi tech p
 ## Generated Data
 
 Generated files are written to `generated`.
+
+
+<!-- Security scan triggered at 2026-09-02 07:07:32 -->
